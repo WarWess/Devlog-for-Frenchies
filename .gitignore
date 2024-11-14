@@ -1,5 +1,13 @@
 /*
 !/.gitignore
+!/00src
+/00src/*
 !/00src/translation.rpy
+!/gui
+/gui/*
+!/gui/flag
+/gui/flag/*
 !/gui/flag/France.png
-!/tl/French/
+!/tl
+/tl/*
+!/tl/French
