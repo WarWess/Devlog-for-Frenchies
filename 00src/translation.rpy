@@ -67,6 +67,7 @@ init python:
         {'image': 'gui/flag/USA.png', 'name': 'English', 'value': 'English' },
         {'image': 'gui/flag/Mexico.png', 'name': 'Español', 'value': 'Spanish'},
         {'image': 'gui/flag/Russia.png', 'name': 'Русский', 'value': 'Russia'},
+        {'image': 'gui/flag/France.png', 'name': 'Français', 'value': 'French'}
     ]
 
 
