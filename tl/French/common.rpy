@@ -1,4 +1,4 @@
-# TODO: Translation updated at 2024-11-14 21:43
+# TODO: Translation updated at 2024-11-15 06:39
 # TODO: Finir traduction
 
 translate French strings:
@@ -797,31 +797,31 @@ translate French strings:
 
     # renpy/common/00sync.rpy:316
     old "Please enter the sync ID you generated.\nNever enter a sync ID you didn't create yourself."
-    new "Ingrese el ID de sincronización que generó.\nNunca ingreses una ID de sincronización que no hayas creado tú mismo."
+    new "Veuillez entrer l'ID de la sync que vous avez généré.\nN'entrez jamais un ID d'une sync que vous n'avez pas créé."
 
     # renpy/common/00sync.rpy:335
     old "The sync ID is not in the correct format."
-    new "El ID de sincronización no tiene el formato correcto."
+    new "L'ID de la sync n'est pas au bon format."
 
     # renpy/common/00sync.rpy:355
     old "The sync could not be decrypted."
-    new "No se pudo descifrar la sincronización."
+    new "La sync n'a pas pu être déchiffrée."
 
     # renpy/common/00sync.rpy:378
     old "The sync belongs to a different game."
-    new "La sincronización pertenece a un juego diferente."
+    new "La sync est liée à un autre jeu."
 
     # renpy/common/00sync.rpy:383
     old "The sync contains a file with an invalid name."
-    new "La sincronización contiene un archivo con un nombre no válido."
+    new "La sync contient un fichier avec un nom invalide."
 
     # renpy/common/00sync.rpy:443
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
-    new "Esto cargará tus partidas guardadas en el {a=https://sync.renpy.org}Ren\'Py Sync Server{/a}.\n¿Quieres continuar?"
+    new "Ceci va téléverser vos sauvegardes vers le {a=https://sync.renpy.org}serveur Ren\'Py Sync{/a}.\nVoulez-vous continuer?"
 
     # renpy/common/00sync.rpy:475
     old "Enter Sync ID"
-    new "Introduce el ID de sincronización"
+    new "Entrer l'ID de la sync"
 
     # renpy/common/00sync.rpy:486
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
@@ -829,227 +829,227 @@ translate French strings:
 
     # renpy/common/00sync.rpy:516
     old "Sync Success"
-    new "Sincronización exitosa"
+    new "Sync réussie"
 
     # renpy/common/00sync.rpy:519
     old "The Sync ID is:"
-    new "El ID de sincronización es:"
+    new "L'ID de la Sync est:"
 
     # renpy/common/00sync.rpy:525
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
-    new "Puedes usar esta ID para descargar tu archivo guardado en otro dispositivo.\nEsta sincronización caducará en una hora.\nRen\'Py Sync cuenta con el respaldo de los {a=https://www.renpy.org/sponsors.html}Patrocinadores de Ren\'Py{/a}."
+    new "Vous pouvez utiliser cet ID pour télécharger votre sauvegarde sur un autre appareil.\nCette sync expirera dans une heure.\nRen\'Py Sync est supporté par {a=https://www.renpy.org/sponsors.html}les sponsors de Ren\'Py{/a}."
 
     # renpy/common/00sync.rpy:529
     old "Continue"
-    new "Continuar"
+    new "Continuer"
 
     # renpy/common/00sync.rpy:554
     old "Sync Error"
-    new "Error de sincronización"
+    new "Erreur de synchronisation"
 
     # renpy/common/00translation.rpy:63
     old "Translation identifier: [identifier]"
-    new "Identificador de traducción: [identifier]"
+    new "Identifiant de traduction: [identifier]"
 
     # renpy/common/00translation.rpy:84
     old " translates [tl.filename]:[tl.linenumber]"
-    new " traduce [tl.filename]:[tl.linenumber]"
+    new " traduit [tl.filename]:[tl.linenumber]"
 
     # renpy/common/00translation.rpy:101
     old "\n{color=#fff}Copied to clipboard.{/color}"
-    new "\n{color=#fff}Copiado al portapapeles.{/color}"
+    new "\n{color=#fff}Copié dans le presse-papier.{/color}"
 
     # renpy/common/00iap.rpy:231
     old "Contacting App Store\nPlease Wait..."
-    new "Contactando a la tienda de aplicaciones\nEspere por favor..."
+    new "Contact de l'App Store en cours\nVeuillez patienter..."
 
     # renpy/common/00updater.rpy:505
     old "No update methods found."
-    new "No se encontraron métodos de actualización."
+    new "Aucune méthode de mise à jour trouvée."
 
     # renpy/common/00updater.rpy:552
     old "Could not download file list: "
-    new "No se pudo descargar la lista de archivos: "
+    new "Échec du téléchargement de la liste des fichiers: "
 
     # renpy/common/00updater.rpy:555
     old "File list digest does not match."
-    new "El resumen de la lista de archivos no coincide."
+    new "Le résumé de la liste des fichiers ne correspond pas."
 
     # renpy/common/00updater.rpy:765
     old "An error is being simulated."
-    new "Se está simulando un error."
+    new "Une erreur est en train d'être simulée."
 
     # renpy/common/00updater.rpy:953
     old "Either this project does not support updating, or the update status file was deleted."
-    new "O este proyecto no admite actualizaciones o se eliminó el archivo de estado de actualización."
+    new "Soit ce projet ne supporte pas les mises à jour, ou le fichier du statut de la mise à jour a été supprimé."
 
     # renpy/common/00updater.rpy:967
     old "This account does not have permission to perform an update."
-    new "Esta cuenta no tiene permiso para realizar una actualización."
+    new "Ce compte n'a pas l'authorisation d'effectuer une mise à jour."
 
     # renpy/common/00updater.rpy:970
     old "This account does not have permission to write the update log."
-    new "Esta cuenta no tiene permiso para escribir el registro de actualización."
+    new "Ce compte n'a pas l'authorisation d'écrire le log de la mise à jour."
 
     # renpy/common/00updater.rpy:1050
     old "Could not verify update signature."
-    new "No se pudo verificar la firma de actualización."
+    new "Impossbile de vérifier la signature de la mise à jour."
 
     # renpy/common/00updater.rpy:1373
     old "The update file was not downloaded."
-    new "El archivo de actualización no se descargó."
+    new "Le fichier de mise à jour n'a pas été téléchargé."
 
     # renpy/common/00updater.rpy:1391
     old "The update file does not have the correct digest - it may have been corrupted."
-    new "El archivo de actualización no tiene el resumen correcto; es posible que esté dañado."
+    new "Le fichier de mise à jour n'a pas le bon résumé - il a peut être été corrompu."
 
     # renpy/common/00updater.rpy:1541
     old "While unpacking {}, unknown type {}."
-    new "Mientras descomprime {}, escribe {} desconocido."
+    new "En décompressant {}, type {} inconnu."
 
     # renpy/common/00updater.rpy:2022
     old "Updater"
-    new "Actualizador"
+    new "Mise à jour"
 
     # renpy/common/00updater.rpy:2029
     old "An error has occured:"
-    new "Ha ocurrido un error:"
+    new "Une erreur est survenue:"
 
     # renpy/common/00updater.rpy:2031
     old "Checking for updates."
-    new "Buscando actualizaciones."
+    new "Vérification des mises à jour."
 
     # renpy/common/00updater.rpy:2033
     old "This program is up to date."
-    new "Este programa está actualizado."
+    new "Ce programme est à jour."
 
     # renpy/common/00updater.rpy:2035
     old "[u.version] is available. Do you want to install it?"
-    new "[u.versión] está disponible. ¿Quieres instalarlo?"
+    new "[u.versión] est disponible. Voulez-vous l'installer?"
 
     # renpy/common/00updater.rpy:2037
     old "Preparing to download the updates."
-    new "Preparándose para descargar las actualizaciones."
+    new "Préparation du téléchargement des mises à jour."
 
     # renpy/common/00updater.rpy:2039
     old "Downloading the updates."
-    new "Descargando las actualizaciones."
+    new "Téléchargement des mises à jour."
 
     # renpy/common/00updater.rpy:2041
     old "Unpacking the updates."
-    new "Descomprimiendo las actualizaciones."
+    new "Décompression des mises à jour."
 
     # renpy/common/00updater.rpy:2043
     old "Finishing up."
-    new "Terminando."
+    new "Terminer."
 
     # renpy/common/00updater.rpy:2045
     old "The updates have been installed. The program will restart."
-    new "Las actualizaciones han sido instaladas. El programa se reiniciará."
+    new "Les mises à jour ont été installées. Le programme va redémarrer."
 
     # renpy/common/00updater.rpy:2047
     old "The updates have been installed."
-    new "Las actualizaciones han sido instaladas."
+    new "Les mises à jour ont été installées."
 
     # renpy/common/00updater.rpy:2049
     old "The updates were cancelled."
-    new "Las actualizaciones fueron canceladas."
+    new "Les mises à jour ont été supprimées."
 
     # renpy/common/00updater.rpy:2064
     old "Proceed"
-    new "Proceder"
+    new "Continuer"
 
     # renpy/common/00updater.rpy:2080
     old "Preparing to download the game data."
-    new "Preparándose para descargar los datos del juego."
+    new "Préparation du téléchargement des données du jeu."
 
     # renpy/common/00updater.rpy:2082
     old "Downloading the game data."
-    new "Descargando los datos del juego."
+    new "Téléchargement des données du jeu."
 
     # renpy/common/00updater.rpy:2084
     old "The game data has been downloaded."
-    new "Los datos del juego se han descargado."
+    new "Les données du jeu ont été téléchargées."
 
     # renpy/common/00updater.rpy:2086
     old "An error occured when trying to download game data:"
-    new "Se produjo un error al intentar descargar los datos del juego:"
+    new "Une erreur est survenue en essayent de télécharger les données du jeu:"
 
     # renpy/common/00updater.rpy:2091
     old "This game cannot be run until the game data has been downloaded."
-    new "Este juego no se puede ejecutar hasta que se hayan descargado los datos del juego."
+    new "Ce jeu ne peut fonctionner tant que les données du jeu n'ont pas été téléchargées."
 
     # renpy/common/00updater.rpy:2098
     old "Retry"
-    new "Rever"
+    new "Réessayer"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
-    new "Imagen [index] de [count] bloqueada."
+    new "Image [index] de [count] bloquée."
 
     # renpy/common/00gallery.rpy:647
     old "prev"
-    new "anterior"
+    new "précédent"
 
     # renpy/common/00gallery.rpy:648
     old "next"
-    new "siguiente"
+    new "suivant"
 
     # renpy/common/00gallery.rpy:649
     old "slideshow"
-    new "presentación de diapositivas"
+    new "présentation"
 
     # renpy/common/00gallery.rpy:650
     old "return"
-    new "volver"
+    new "retour"
 
     # renpy/common/00gltest.rpy:90
     old "Renderer"
-    new "renderizador"
+    new "Visualiseur" #Je suis absolument pas sûr de celle ci.
 
     # renpy/common/00gltest.rpy:94
     old "Automatically Choose"
-    new "Elegir automáticamente"
+    new "Choisir automatiquement"
 
     # renpy/common/00gltest.rpy:101
     old "Force GL Renderer"
-    new "Forzar renderizador GL"
+    new "Forcer le visualiseur GL"
 
     # renpy/common/00gltest.rpy:106
     old "Force ANGLE Renderer"
-    new "Forzar el renderizador de ÁNGULO"
+    new "Forcer le visualiseur ANGLE"
 
     # renpy/common/00gltest.rpy:111
     old "Force GLES Renderer"
-    new "Forzar renderizador GLES"
+    new "Forcer le visualiseur GLES"
 
     # renpy/common/00gltest.rpy:117
     old "Force GL2 Renderer"
-    new "Forzar renderizador GL2"
+    new "Forcer le visualiseur GL2"
 
     # renpy/common/00gltest.rpy:122
     old "Force ANGLE2 Renderer"
-    new "Forzar el renderizador ANGLE2"
+    new "Forcer le visualiseur ANGLE2"
 
     # renpy/common/00gltest.rpy:127
     old "Force GLES2 Renderer"
-    new "Forzar el renderizador GLES2"
+    new "Forcer le visualiseur GLES2"
 
     # renpy/common/00gltest.rpy:137
     old "Enable (No Blocklist)"
-    new "Habilitar (sin lista de bloqueo)"
+    new "Activer (sans Blocklist)"
 
     # renpy/common/00gltest.rpy:160
     old "Powersave"
-    new "Ahorro de energía"
+    new "Économie d'énergie"
 
     # renpy/common/00gltest.rpy:174
     old "Framerate"
-    new "Velocidad de fotogramas"
+    new "Images par secondes"
 
     # renpy/common/00gltest.rpy:178
     old "Screen"
-    new "Pantalla"
+    new "Écran"
 
     # renpy/common/00gltest.rpy:182
     old "60"
@@ -1065,141 +1065,141 @@ translate French strings:
 
     # renpy/common/00gltest.rpy:208
     old "Changes will take effect the next time this program is run."
-    new "Los cambios entrarán en vigor la próxima vez que se ejecute este programa."
+    new "Les changements prendront effet au prochain lancement du programme."
 
     # renpy/common/00gltest.rpy:244
     old "Performance Warning"
-    new "Advertencia de rendimiento"
+    new "Alerte de performance"
 
     # renpy/common/00gltest.rpy:249
     old "This computer is using software rendering."
-    new "Esta computadora está utilizando renderizado de software."
+    new "Cet ordinateur utilise un rendu logiciel." #Pas sûr de celle là
 
     # renpy/common/00gltest.rpy:251
     old "This game requires use of GL2 that can't be initialised."
-    new "Este juego requiere el uso de GL2 que no se puede inicializar."
+    new "Ce jeu nécessite l'utilisation de GL2 qui n'a pas pu être démarré."
 
     # renpy/common/00gltest.rpy:253
     old "This computer has a problem displaying graphics: [problem]."
-    new "Esta computadora tiene un problema al mostrar gráficos: [problem]."
+    new "Cet ordinateur a un problème pour afficher les graphismes: [problem]."
 
     # renpy/common/00gltest.rpy:257
     old "Its graphics drivers may be out of date or not operating correctly. This can lead to slow or incorrect graphics display."
-    new "Es posible que sus controladores de gráficos estén desactualizados o no funcionen correctamente. Esto puede provocar una visualización de gráficos lenta o incorrecta."
+    new "Les drivers graphiques sont peut être obsolètes ou n'opèrent pas correctement. Ceci peut mener à un affichage graphique lent ou incorrect."
 
     # renpy/common/00gltest.rpy:261
     old "The {a=edit:1:log.txt}log.txt{/a} file may contain information to help you determine what is wrong with your computer."
-    new "El archivo {a=edit:1:log.txt}log.txt{/a} puede contener información que le ayudará a determinar qué está mal en su ordenador."
+    new "Le {a=edit:1:log.txt}log.txt{/a} fichier peut contenir des informations pour vous aider à déterminer ce qui ne vas pas avec votre configuration."
 
     # renpy/common/00gltest.rpy:266
     old "More details on how to fix this can be found in the {a=[url]}documentation{/a}."
-    new "Puede encontrar más detalles sobre cómo solucionar este problema en la {a=[url]}documentación{/a}."
+    new "Plus de détails peuvent être trouvés dans la {a=[url]}documentation{/a}."
 
     # renpy/common/00gltest.rpy:271
     old "Continue, Show this warning again"
-    new "Continuar, mostrar esta advertencia nuevamente"
+    new "Continuer, montrer de nouveau cette alerte"
 
     # renpy/common/00gltest.rpy:275
     old "Continue, Don't show warning again"
-    new "Continuar, no volver a mostrar advertencia"
+    new "Continuer, ne plus montrer cette alerte"
 
     # renpy/common/00gltest.rpy:283
     old "Change render options"
-    new "Cambiar opciones de renderizado"
+    new "Changer les options d'affichage"
 
     # renpy/common/00gamepad.rpy:33
     old "Select Gamepad to Calibrate"
-    new "Seleccione el mando para calibrar"
+    new "Sélectionner un gamepad à calibrer"
 
     # renpy/common/00gamepad.rpy:36
     old "No Gamepads Available"
-    new "No hay mandos disponibles"
+    new "Aucun gamepad disponible"
 
     # renpy/common/00gamepad.rpy:56
     old "Calibrating [name] ([i]/[total])"
-    new "Calibrando [name] ([i]/[total])"
+    new "Calibration [name] ([i]/[total])"
 
     # renpy/common/00gamepad.rpy:60
     old "Press or move the '[control!s]' [kind]."
-    new "Presione o mueva el \'[control!s]\' [kind]."
+    new "Appuyer ou bouger le \'[control!s]\' [kind]."
 
     # renpy/common/00gamepad.rpy:70
     old "Skip (A)"
-    new "Saltar (A)"
+    new "Passer (A)"
 
     # renpy/common/00gamepad.rpy:73
     old "Back (B)"
-    new "Atrás (B)"
+    new "Retour (B)"
 
     # renpy/common/_errorhandling.rpym:677
     old "Open"
-    new "Abierto"
+    new "Ouvrir"
 
     # renpy/common/_errorhandling.rpym:679
     old "Opens the traceback.txt file in a text editor."
-    new "Abre el archivo traceback.txt en un editor de texto."
+    new "Ouvre le fichier traceback.txt dans un éditeur de texte."
 
     # renpy/common/_errorhandling.rpym:681
     old "Copy BBCode"
-    new "Copiar código BBC"
+    new "Copie du BBCode"
 
     # renpy/common/_errorhandling.rpym:683
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
-    new "Copia el archivo traceback.txt al portapapeles como BBcode para foros como https://lemmasoft.renai.us/."
+    new "Copie le fichier traceback.txt vers le presse-papier en tant que BBCode pour des forums tels que https://lemmasoft.renai.us/."
 
     # renpy/common/_errorhandling.rpym:685
     old "Copy Markdown"
-    new "Copiar rebajas"
+    new "Copie du Markdown"
 
     # renpy/common/_errorhandling.rpym:687
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
-    new "Copia el archivo traceback.txt al portapapeles como Markdown de Discord."
+    new "Copie du fichier traceback.txt vers le presse-papier en tant que Markdown pour Discord."
 
     # renpy/common/_errorhandling.rpym:719
     old "An exception has occurred."
-    new "Ha ocurrido una excepción."
+    new "Une exception est survenue."
 
     # renpy/common/_errorhandling.rpym:742
     old "Rollback"
-    new "Revertir"
+    new "Retour"
 
     # renpy/common/_errorhandling.rpym:744
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
-    new "Intenta retroceder a un momento anterior, lo que le permite guardar o elegir una opción diferente."
+    new "Tente un retour à une période précédente, vous permettant de sauvegarder ou faire un choix différent."
 
     # renpy/common/_errorhandling.rpym:747
     old "Ignore"
-    new "Ignorar"
+    new "Ignorer"
 
     # renpy/common/_errorhandling.rpym:751
     old "Ignores the exception, allowing you to continue."
-    new "Ignora la excepción y le permite continuar."
+    new "Ignore l'exception, vous permettant de continuer."
 
     # renpy/common/_errorhandling.rpym:753
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
-    new "Ignora la excepción y le permite continuar. Esto suele provocar errores adicionales."
+    new "Ignore l'exception, vous permettant de continuer. Ceci peut mener des à des erreurs."
 
     # renpy/common/_errorhandling.rpym:757
     old "Reload"
-    new "Recargar"
+    new "Recharger"
 
     # renpy/common/_errorhandling.rpym:759
     old "Reloads the game from disk, saving and restoring game state if possible."
-    new "Vuelve a cargar el juego desde el disco, guardando y restaurando el estado del juego si es posible."
+    new "Recharge le jeu depuis le disque, sauvegardant et rétablissant l'état du jeu si possible."
 
     # renpy/common/_errorhandling.rpym:762
     old "Console"
-    new "Consola"
+    new "Console"
 
     # renpy/common/_errorhandling.rpym:764
     old "Opens a console to allow debugging the problem."
-    new "Abre una consola para permitir la depuración del problema."
+    new "Ouvre une console pour permettre de débugger le problème."
 
     # renpy/common/_errorhandling.rpym:777
     old "Quits the game."
-    new "Abandona el juego."
+    new "Quitte le jeu."
 
     # renpy/common/_errorhandling.rpym:799
     old "Parsing the script failed."
-    new "Error al analizar el script."
+    new "Analyse du script échouée."
 
