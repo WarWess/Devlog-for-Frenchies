@@ -1,6 +1,8 @@
 # Devlog-for-Frenchies
 Fan-based french translation for DevLog : A Post Modern College Experience
 
+## TODO : finir trad des options, commencer trad de tout
+
 Soit à télécharger et mettre directement dans Devlog/game/, soit aller dans ce dossier et créer le repository ici et pull.
 
 Nota bene (ou pour toute personne intéressée) : sur VSCode, pour cacher les fichiers ignorés par git, aller dans les settings json et ajouter 
