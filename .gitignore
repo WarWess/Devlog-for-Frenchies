@@ -1,5 +1,5 @@
 /*
-!/screen.rpy
+!/screens.rpy
 !/.gitignore
 !/00src
 /00src/*
@@ -13,3 +13,4 @@
 /tl/*
 !/tl/French
 /tl/French/*.rpyc
+/tl/French/story/*.rpyc
