@@ -13,3 +13,4 @@ S'il y a des erreurs lors du chargement du jeu, vérifier qu'il n'y ait pas de f
 
 si des gens sont plus doués que moi en VSCode-ing et propose des améliorations de ce git, faites :).
 
+Pour plus d'info, une vidéo explicative est disponible [ici](https://youtu.be/dQw4w9WgXcQ?si=9LVQ3QMdXSmrdINF)
