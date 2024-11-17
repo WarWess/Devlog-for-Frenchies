@@ -694,7 +694,7 @@ screen about():
                     null height 50
                     text ("{u}Contributing Artists:{/u}")
                     null height 20
-                    text ("{size=25}DiscoDemon{/size}")
+                    text ("{size=25}DiscoDemon\nShido-Tara{/size}")
                     null height 100
                 vbox:
                     xsize 400
