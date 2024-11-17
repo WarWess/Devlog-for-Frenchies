@@ -3,6 +3,8 @@ Fan-based french translation for DevLog : A Post Modern College Experience
 
 ## TODO : TRADUCTIONS A FAIRE POUR LA 0.2
 
+Pour travailler sur le projet, faire sa branche depuis develop, faire les trads, créer une merge request sur develop, et je merge de develop vers main si tout est ok.
+
 Pour faire fonctionner le bordel (j'ai vraiment des compétences très """théoriques""" sur git et j'ai plus trop de pratique) : 
 + Cloner le repo
 + Coller tous les fichiers
