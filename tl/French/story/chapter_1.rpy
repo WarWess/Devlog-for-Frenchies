@@ -12,7 +12,7 @@ label chapter_1:
     
     ##There is going to be a few more of these cgs, so its not just one static image the whole time, they are just not done yet.
 
-    "You know,{w=0.3} I never was too keen on the idea of going to college.{w=0.5} Sure,{w=0.3} it might be nice to go, but what for?"
+    "Vous savez,{w=0.3} I never was too keen on the idea of going to college.{w=0.5} Sure,{w=0.3} it might be nice to go, but what for?"
     
     show devbusintro_1 with eDissolve(1)
     
