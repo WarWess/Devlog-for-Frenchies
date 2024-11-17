@@ -29,47 +29,22 @@ label chapter_1:
     menu:
         "Caveway Institute for Digital Arts":
             $ CIDA = True
-            $ AU = False
-            $ VTSD = False
-            $ SUI = False
-            $ LICA = False
-            $ devnumba1 = False
             "I'm certainly no great artist,{w=0.3} but my high school art teacher said I had potential.{w=0.3} Plus learning is the point of college, right?"
             
         "Arthur University":
             $ AU = True
-            $ CIDA = False
-            $ VTSD = False
-            $ SUI = False
-            $ LICA = False
-            $ devnumba1 = False
             "It has a whole bunch of really cool courses on music and sound. I've always loved music,{w=0.3} and I could play a mean trombone in band,{w=0.3} so it seemed like a good pick."
             
         "Volcano Tech School of Design":
             $ VTSD = True
-            $ CIDA = False
-            $ AU = False
-            $ SUI = False
-            $ LICA = False
-            $ devnumba1 = False
             "Someone online told me to \"learn to code\" and{cps=5}...{/cps} it seemed like good advice!{w=0.3} I've even made some rough mods for Future Scrolls 4."
             
         "StegoTech University of Innovation":
             $ SUI = True
-            $ CIDA = False
-            $ AU = False
-            $ VTSD = False
-            $ LICA = False
-            $ devnumba1 = False
             "Paradise Extinction always really spoke to me,{w=0.3} like,{w=0.3} on an emotional level. Trying my hand at literature seemed perfect."
             
         "Lauren Institute of Culinary Arts":
             $ LICA = True
-            $ CIDA = False
-            $ AU = False
-            $ VTSD = False
-            $ SUI = False
-            $ devnumba1 = False
             "It's not the best cooking college a person could hope to go to, but not the worst.{w=0.3} So long as Gordon Raptsey stops making fun of my quiche online, then I feel like that is a success."
     
     show anim_devcg with eDissolve(1)
@@ -141,24 +116,35 @@ label chapter_1:
     
     
     show c_chilling1:
+        matrixcolor ColorizeMatrix("#7e3e9b", "#ffffff")
         xpos -0.2
     show c_selfie1:
+        matrixcolor ColorizeMatrix("#9b3e4c", "#ffffff")
         xpos -0.2        
     show c_selfie2:
+        matrixcolor ColorizeMatrix("#989b3e", "#ffffff")
         xpos -0.2
     show c_standing1:
+        matrixcolor ColorizeMatrix("#559b3e", "#ffffff")
         xpos -0.2
     show c_standing2:
-        xpos -0.2                
+        matrixcolor ColorizeMatrix("#9b5c3e", "#ffffff")
+        xpos -0.2
+        
     show c_standing3:
+        matrixcolor ColorizeMatrix("#4d892c", "#ffffff")
         xpos -0.2
     show c_chilling2:
+        matrixcolor ColorizeMatrix("#19b7b5", "#ffffff")
         xpos -0.2
     show c_walking1:
+        matrixcolor ColorizeMatrix("#d563a9", "#ffffff")
         xpos -0.2        
     show c_walking2:
+        matrixcolor ColorizeMatrix("#26327f", "#ffffff")
         xpos -0.2
     show c_walking3:
+        matrixcolor ColorizeMatrix("#7f7e36", "#ffffff")
         xpos -0.2  
 
 
@@ -260,8 +246,10 @@ label chapter_1:
     "My hometown was populated by mostly humans.{w=0.3} I've seen other dinos before,{w=0.3} but not this many at the same time, same place.{w=0.3} Their scales shimmer in hues that my hometown's limited palette could never have imagined."
     
     show c_chilling1 behind dev:
+        matrixcolor ColorizeMatrix("#7f7e36", "#ffffff")
         xpos -0.27
     show c_walking2 behind dev:
+        matrixcolor ColorizeMatrix("#4d892c", "#ffffff")
         xpos -1.2
         
     show c_chilling1 at quadmovex(1.5, 5)
@@ -273,8 +261,10 @@ label chapter_1:
     #have Dev's vision follow them?
     
     show c_standing1 left behind dev:
+        matrixcolor ColorizeMatrix("#d563a9", "#ffffff")
         xpos 1.35
     show c_standing2 left behind dev:
+        matrixcolor ColorizeMatrix("#989b3e", "#ffffff")
         xpos 1.2
         
     show c_standing1 at quadmovex(-0.5, 5)
