@@ -1,5 +1,4 @@
-# TODO: Translation updated at 2024-11-15 06:39
-# TODO: Finir traduction
+﻿# TODO: Translation updated at 2024-11-19 19:40
 
 translate French strings:
 
@@ -283,51 +282,51 @@ translate French strings:
     old "Save slot %s: [text]"
     new "Sauvegarde slot %s: [text]"
 
-    # renpy/common/00action_file.rpy:480
+    # renpy/common/00action_file.rpy:481
     old "Load slot %s: [text]"
     new "Charger slot %s: [text]"
 
-    # renpy/common/00action_file.rpy:533
+    # renpy/common/00action_file.rpy:534
     old "Delete slot [text]"
     new "Supprimer slot [text]"
 
-    # renpy/common/00action_file.rpy:612
+    # renpy/common/00action_file.rpy:613
     old "File page auto"
     new "Auto remplissage de page"
 
-    # renpy/common/00action_file.rpy:614
+    # renpy/common/00action_file.rpy:615
     old "File page quick"
     new "Remplissage de page rapide"
 
-    # renpy/common/00action_file.rpy:616
+    # renpy/common/00action_file.rpy:617
     old "File page [text]"
     new "Page [text]"
 
-    # renpy/common/00action_file.rpy:815
+    # renpy/common/00action_file.rpy:816
     old "Next file page."
     new "Page suivante."
 
-    # renpy/common/00action_file.rpy:887
+    # renpy/common/00action_file.rpy:888
     old "Previous file page."
     new "Page précédente."
 
-    # renpy/common/00action_file.rpy:948
+    # renpy/common/00action_file.rpy:949
     old "Quick save complete."
     new "Sauvegarde rapide terminée."
 
-    # renpy/common/00action_file.rpy:963
+    # renpy/common/00action_file.rpy:964
     old "Quick save."
     new "Sauvegarde rapide."
 
-    # renpy/common/00action_file.rpy:982
+    # renpy/common/00action_file.rpy:983
     old "Quick load."
     new "Chargement rapide."
 
-    # renpy/common/00action_other.rpy:383
+    # renpy/common/00action_other.rpy:379
     old "Language [text]"
     new "Langue [text]"
 
-    # renpy/common/00action_other.rpy:748
+    # renpy/common/00action_other.rpy:744
     old "Open [text] directory."
     new "Ouverture du répertoire [text]."
 
@@ -335,119 +334,119 @@ translate French strings:
     old "The interactive director is not enabled here."
     new "Le directeur interactif n'est pas activé."
 
-    # renpy/common/00director.rpy:1511
+    # renpy/common/00director.rpy:1512
     old "⬆"
     new "⬆"
 
-    # renpy/common/00director.rpy:1517
+    # renpy/common/00director.rpy:1518
     old "⬇"
     new "⬇"
 
-    # renpy/common/00director.rpy:1581
+    # renpy/common/00director.rpy:1582
     old "Done"
     new "Fini"
 
-    # renpy/common/00director.rpy:1591
+    # renpy/common/00director.rpy:1592
     old "(statement)"
     new "(déclaration)"
 
-    # renpy/common/00director.rpy:1592
+    # renpy/common/00director.rpy:1593
     old "(tag)"
     new "(étiquette)"
 
-    # renpy/common/00director.rpy:1593
+    # renpy/common/00director.rpy:1594
     old "(attributes)"
     new "(attributs)"
 
-    # renpy/common/00director.rpy:1594
+    # renpy/common/00director.rpy:1595
     old "(transform)"
     new "(transformer)"
 
-    # renpy/common/00director.rpy:1619
+    # renpy/common/00director.rpy:1620
     old "(transition)"
     new "(transition)"
 
-    # renpy/common/00director.rpy:1631
+    # renpy/common/00director.rpy:1632
     old "(channel)"
     new "(canal)"
 
-    # renpy/common/00director.rpy:1632
+    # renpy/common/00director.rpy:1633
     old "(filename)"
     new "(Nom du fichier)"
 
-    # renpy/common/00director.rpy:1661
+    # renpy/common/00director.rpy:1662
     old "Change"
     new "Changer"
 
-    # renpy/common/00director.rpy:1663
+    # renpy/common/00director.rpy:1664
     old "Add"
     new "Ajouter"
 
-    # renpy/common/00director.rpy:1666
+    # renpy/common/00director.rpy:1667
     old "Cancel"
     new "Annuler"
 
-    # renpy/common/00director.rpy:1669
+    # renpy/common/00director.rpy:1670
     old "Remove"
     new "Supprimer"
 
-    # renpy/common/00director.rpy:1704
+    # renpy/common/00director.rpy:1705
     old "Statement:"
     new "Déclaration:"
 
-    # renpy/common/00director.rpy:1725
+    # renpy/common/00director.rpy:1726
     old "Tag:"
     new "Etiquette:"
 
-    # renpy/common/00director.rpy:1741
+    # renpy/common/00director.rpy:1742
     old "Attributes:"
     new "Attributs:"
 
-    # renpy/common/00director.rpy:1752
+    # renpy/common/00director.rpy:1753
     old "Click to toggle attribute, right click to toggle negative attribute."
     new "Cliquer pour activer l'attribut, clic droit pour activer l'attribut inverse."
 
-    # renpy/common/00director.rpy:1764
+    # renpy/common/00director.rpy:1765
     old "Transforms:"
     new "Transforme:"
 
-    # renpy/common/00director.rpy:1775
+    # renpy/common/00director.rpy:1776
     old "Click to set transform, right click to add to transform list."
     new "Cliquer pour régler la transformation, clic droit pour ajouter la transformation."
 
-    # renpy/common/00director.rpy:1776
+    # renpy/common/00director.rpy:1777
     old "Customize director.transforms to add more transforms."
     new "Personnaliser le directeur.transformation pour ajouter plus de transformations."
 
-    # renpy/common/00director.rpy:1788
+    # renpy/common/00director.rpy:1789
     old "Behind:"
     new "Derrière:"
 
-    # renpy/common/00director.rpy:1799
+    # renpy/common/00director.rpy:1800
     old "Click to set, right click to add to behind list."
     new "Clic pour régler, clic droit pour ajouter à la liste derrière."
 
-    # renpy/common/00director.rpy:1811
+    # renpy/common/00director.rpy:1812
     old "Transition:"
     new "Transition:"
 
-    # renpy/common/00director.rpy:1821
+    # renpy/common/00director.rpy:1822
     old "Click to set."
     new "Clic pour régler."
 
-    # renpy/common/00director.rpy:1822
+    # renpy/common/00director.rpy:1823
     old "Customize director.transitions to add more transitions."
     new "Personnaliser le directeur.transition pour ajouter plus de transitions."
 
-    # renpy/common/00director.rpy:1834
+    # renpy/common/00director.rpy:1835
     old "Channel:"
     new "Canal:"
 
-    # renpy/common/00director.rpy:1845
+    # renpy/common/00director.rpy:1846
     old "Customize director.audio_channels to add more channels."
     new "Personnaliser le directeur.canals audio pour ajouter plus de canals."
 
-    # renpy/common/00director.rpy:1857
+    # renpy/common/00director.rpy:1858
     old "Audio Filename:"
     new "Nom du fichier audio:"
 
@@ -503,11 +502,11 @@ translate French strings:
     old "Do you trust the device the save was created on? You should only choose yes if you are the device's sole user."
     new "Faites-vous confiance à l'appareil sur lequel la sauvegarde a été crée? Vous devriez choisir uniquement si vous êtes le seul utilisateur de l'appareil."
 
-    # renpy/common/00keymap.rpy:328
+    # renpy/common/00keymap.rpy:325
     old "Failed to save screenshot as %s."
     new "Echec de la sauvegarde de la capture %s."
 
-    # renpy/common/00keymap.rpy:349
+    # renpy/common/00keymap.rpy:346
     old "Saved screenshot as %s."
     new "Sauvegarde de la capture %s."
 
@@ -519,247 +518,247 @@ translate French strings:
     old "This program contains free software under a number of licenses, including the MIT License and GNU Lesser General Public License. A complete list of software, including links to full source code, can be found {a=https://www.renpy.org/l/license}here{/a}."
     new "Ce programme contient un logiciel libre sous plusieurs licenses, incluant la MIT License et la GNU Lesser General Public License. Une liste complète de logiciels, incluant des liens vers les codes sourcs complets, peut être trouvée {a=https://www.renpy.org/l/license}ici{/a}."
 
-    # renpy/common/00preferences.rpy:288
+    # renpy/common/00preferences.rpy:290
     old "display"
     new "affichage"
 
-    # renpy/common/00preferences.rpy:308
+    # renpy/common/00preferences.rpy:310
     old "transitions"
     new "transitions"
 
-    # renpy/common/00preferences.rpy:317
+    # renpy/common/00preferences.rpy:319
     old "skip transitions"
     new "passer transitions"
 
-    # renpy/common/00preferences.rpy:319
+    # renpy/common/00preferences.rpy:321
     old "video sprites"
     new "sprites vidéos"
 
-    # renpy/common/00preferences.rpy:328
+    # renpy/common/00preferences.rpy:330
     old "show empty window"
     new "montrer fenêtre vide"
 
-    # renpy/common/00preferences.rpy:337
+    # renpy/common/00preferences.rpy:339
     old "text speed"
     new "vitesse du texte"
 
-    # renpy/common/00preferences.rpy:345
+    # renpy/common/00preferences.rpy:347
     old "joystick"
     new "joystick"
 
-    # renpy/common/00preferences.rpy:345
+    # renpy/common/00preferences.rpy:347
     old "joystick..."
     new "joystick..."
 
-    # renpy/common/00preferences.rpy:352
+    # renpy/common/00preferences.rpy:354
     old "skip"
     new "passer"
 
-    # renpy/common/00preferences.rpy:355
+    # renpy/common/00preferences.rpy:357
     old "skip unseen [text]"
     new "passer [text] non-lu"
 
-    # renpy/common/00preferences.rpy:360
+    # renpy/common/00preferences.rpy:362
     old "skip unseen text"
     new "passer texte non-lu"
 
-    # renpy/common/00preferences.rpy:362
+    # renpy/common/00preferences.rpy:364
     old "begin skipping"
     new "commencer à passer"
 
-    # renpy/common/00preferences.rpy:366
+    # renpy/common/00preferences.rpy:368
     old "after choices"
     new "après les choix"
 
-    # renpy/common/00preferences.rpy:373
+    # renpy/common/00preferences.rpy:375
     old "skip after choices"
     new "passer après les choix"
 
-    # renpy/common/00preferences.rpy:375
+    # renpy/common/00preferences.rpy:377
     old "auto-forward time"
     new "temps d'auto-avance"
 
-    # renpy/common/00preferences.rpy:389
+    # renpy/common/00preferences.rpy:391
     old "auto-forward"
     new "auto-avance"
 
-    # renpy/common/00preferences.rpy:396
+    # renpy/common/00preferences.rpy:398
     old "Auto forward"
     new "Auto avance"
 
-    # renpy/common/00preferences.rpy:399
+    # renpy/common/00preferences.rpy:401
     old "auto-forward after click"
     new "auto-avance après clic"
 
-    # renpy/common/00preferences.rpy:408
+    # renpy/common/00preferences.rpy:410
     old "automatic move"
     new "mouvement automatique"
 
-    # renpy/common/00preferences.rpy:417
+    # renpy/common/00preferences.rpy:419
     old "wait for voice"
     new "attendre voix"
 
-    # renpy/common/00preferences.rpy:426
+    # renpy/common/00preferences.rpy:428
     old "voice sustain"
     new "maintenir voix"
 
-    # renpy/common/00preferences.rpy:435
+    # renpy/common/00preferences.rpy:437
     old "self voicing"
     new "auto voix"
 
-    # renpy/common/00preferences.rpy:438
+    # renpy/common/00preferences.rpy:440
     old "self voicing enable"
     new "activer auto-voix"
 
-    # renpy/common/00preferences.rpy:440
+    # renpy/common/00preferences.rpy:442
     old "self voicing disable"
     new "désactiver auto voix"
 
-    # renpy/common/00preferences.rpy:444
+    # renpy/common/00preferences.rpy:446
     old "self voicing volume drop"
     new "baisse de volume de l'auto-voix"
 
-    # renpy/common/00preferences.rpy:452
+    # renpy/common/00preferences.rpy:454
     old "clipboard voicing"
     new "presse-papier vocal"
 
-    # renpy/common/00preferences.rpy:455
+    # renpy/common/00preferences.rpy:457
     old "clipboard voicing enable"
     new "activer presse-papier vocal"
 
-    # renpy/common/00preferences.rpy:457
+    # renpy/common/00preferences.rpy:459
     old "clipboard voicing disable"
     new "désactiver presse-papier vocal"
 
-    # renpy/common/00preferences.rpy:461
+    # renpy/common/00preferences.rpy:463
     old "debug voicing"
     new "débug voix"
 
-    # renpy/common/00preferences.rpy:464
+    # renpy/common/00preferences.rpy:466
     old "debug voicing enable"
     new "activer débug voix"
 
-    # renpy/common/00preferences.rpy:466
+    # renpy/common/00preferences.rpy:468
     old "debug voicing disable"
     new "désactiver débug voix"
 
-    # renpy/common/00preferences.rpy:470
+    # renpy/common/00preferences.rpy:472
     old "emphasize audio"
     new "emphase audio"
 
-    # renpy/common/00preferences.rpy:479
+    # renpy/common/00preferences.rpy:481
     old "rollback side"
     new "rollback side"
 
-    # renpy/common/00preferences.rpy:489
+    # renpy/common/00preferences.rpy:491
     old "gl powersave"
     new "gl powersave"
 
-    # renpy/common/00preferences.rpy:495
+    # renpy/common/00preferences.rpy:497
     old "gl framerate"
     new "gl framerate"
 
-    # renpy/common/00preferences.rpy:498
+    # renpy/common/00preferences.rpy:500
     old "gl tearing"
     new "gl tearing"
 
-    # renpy/common/00preferences.rpy:501
+    # renpy/common/00preferences.rpy:503
     old "font transform"
     new "transformation font"
 
-    # renpy/common/00preferences.rpy:504
+    # renpy/common/00preferences.rpy:506
     old "font size"
     new "taille font"
 
-    # renpy/common/00preferences.rpy:512
+    # renpy/common/00preferences.rpy:514
     old "font line spacing"
     new "espace inter-ligne"
 
-    # renpy/common/00preferences.rpy:520
+    # renpy/common/00preferences.rpy:522
     old "system cursor"
     new "curseur système"
 
-    # renpy/common/00preferences.rpy:529
+    # renpy/common/00preferences.rpy:531
     old "renderer menu"
     new "menu rendu"
 
-    # renpy/common/00preferences.rpy:532
+    # renpy/common/00preferences.rpy:534
     old "accessibility menu"
     new "menu d'accssibilité"
 
-    # renpy/common/00preferences.rpy:535
+    # renpy/common/00preferences.rpy:537
     old "high contrast text"
     new "texte haut contraste"
 
-    # renpy/common/00preferences.rpy:544
+    # renpy/common/00preferences.rpy:546
     old "audio when minimized"
     new "audio quand minimisé"
 
-    # renpy/common/00preferences.rpy:553
+    # renpy/common/00preferences.rpy:555
     old "audio when unfocused"
     new "audio quand en arrière-plan"
 
-    # renpy/common/00preferences.rpy:562
+    # renpy/common/00preferences.rpy:564
     old "web cache preload"
     new "pré-chargement web cache"
 
-    # renpy/common/00preferences.rpy:577
+    # renpy/common/00preferences.rpy:579
     old "voice after game menu"
     new "voix après menu jeu"
 
-    # renpy/common/00preferences.rpy:586
+    # renpy/common/00preferences.rpy:588
     old "restore window position"
     new "restaurer position de la fenêtre"
 
-    # renpy/common/00preferences.rpy:595
+    # renpy/common/00preferences.rpy:597
     old "reset"
     new "reset"
 
-    # renpy/common/00preferences.rpy:608
+    # renpy/common/00preferences.rpy:610
     old "main volume"
     new "volume principal"
 
-    # renpy/common/00preferences.rpy:609
+    # renpy/common/00preferences.rpy:611
     old "music volume"
     new "volume musique"
 
-    # renpy/common/00preferences.rpy:610
+    # renpy/common/00preferences.rpy:612
     old "sound volume"
     new "volume son"
 
-    # renpy/common/00preferences.rpy:611
+    # renpy/common/00preferences.rpy:613
     old "voice volume"
     new "volume voix"
 
-    # renpy/common/00preferences.rpy:612
+    # renpy/common/00preferences.rpy:614
     old "mute main"
     new "couper principal"
 
-    # renpy/common/00preferences.rpy:613
+    # renpy/common/00preferences.rpy:615
     old "mute music"
     new "couper musique"
 
-    # renpy/common/00preferences.rpy:614
+    # renpy/common/00preferences.rpy:616
     old "mute sound"
     new "couper son"
 
-    # renpy/common/00preferences.rpy:615
+    # renpy/common/00preferences.rpy:617
     old "mute voice"
     new "couper voix"
 
-    # renpy/common/00preferences.rpy:616
+    # renpy/common/00preferences.rpy:618
     old "mute all"
     new "couper tout"
 
-    # renpy/common/00preferences.rpy:699
+    # renpy/common/00preferences.rpy:701
     old "Clipboard voicing enabled. Press 'shift+C' to disable."
     new "Presse-papier vocal activé. Appuyer sur \'shift+C\' pour désactiver."
 
-    # renpy/common/00preferences.rpy:701
+    # renpy/common/00preferences.rpy:703
     old "Self-voicing would say \"[renpy.display.tts.last]\". Press 'alt+shift+V' to disable."
     new "L'auto-voix dirait \"[renpy.display.tts.last]\". Appuyer sur \'alt+shift+V\' pour désactiver."
 
-    # renpy/common/00preferences.rpy:703
+    # renpy/common/00preferences.rpy:705
     old "Self-voicing enabled. Press 'v' to disable."
     new "Auto-voix activée. Appuyer sur \'v\' pour désactiver."
 
@@ -815,35 +814,35 @@ translate French strings:
     old "The sync contains a file with an invalid name."
     new "La sync contient un fichier avec un nom invalide."
 
-    # renpy/common/00sync.rpy:443
+    # renpy/common/00sync.rpy:440
     old "This will upload your saves to the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}.\nDo you want to continue?"
     new "Ceci va téléverser vos sauvegardes vers le {a=https://sync.renpy.org}serveur Ren\'Py Sync{/a}.\nVoulez-vous continuer?"
 
-    # renpy/common/00sync.rpy:475
+    # renpy/common/00sync.rpy:472
     old "Enter Sync ID"
     new "Entrer l'ID de la sync"
 
-    # renpy/common/00sync.rpy:486
+    # renpy/common/00sync.rpy:483
     old "This will contact the {a=https://sync.renpy.org}Ren'Py Sync Server{/a}."
     new "Esto se pondrá en contacto con el {a=https://sync.renpy.org}Ren\'Py Sync Server{/a}."
 
-    # renpy/common/00sync.rpy:516
+    # renpy/common/00sync.rpy:513
     old "Sync Success"
     new "Sync réussie"
 
-    # renpy/common/00sync.rpy:519
+    # renpy/common/00sync.rpy:516
     old "The Sync ID is:"
     new "L'ID de la Sync est:"
 
-    # renpy/common/00sync.rpy:525
+    # renpy/common/00sync.rpy:522
     old "You can use this ID to download your save on another device.\nThis sync will expire in an hour.\nRen'Py Sync is supported by {a=https://www.renpy.org/sponsors.html}Ren'Py's Sponsors{/a}."
     new "Vous pouvez utiliser cet ID pour télécharger votre sauvegarde sur un autre appareil.\nCette sync expirera dans une heure.\nRen\'Py Sync est supporté par {a=https://www.renpy.org/sponsors.html}les sponsors de Ren\'Py{/a}."
 
-    # renpy/common/00sync.rpy:529
+    # renpy/common/00sync.rpy:526
     old "Continue"
     new "Continuer"
 
-    # renpy/common/00sync.rpy:554
+    # renpy/common/00sync.rpy:551
     old "Sync Error"
     new "Erreur de synchronisation"
 
@@ -983,23 +982,23 @@ translate French strings:
     old "Retry"
     new "Réessayer"
 
-    # renpy/common/00gallery.rpy:627
+    # renpy/common/00gallery.rpy:643
     old "Image [index] of [count] locked."
     new "Image [index] de [count] bloquée."
 
-    # renpy/common/00gallery.rpy:647
+    # renpy/common/00gallery.rpy:663
     old "prev"
     new "précédent"
 
-    # renpy/common/00gallery.rpy:648
+    # renpy/common/00gallery.rpy:664
     old "next"
     new "suivant"
 
-    # renpy/common/00gallery.rpy:649
+    # renpy/common/00gallery.rpy:665
     old "slideshow"
     new "présentation"
 
-    # renpy/common/00gallery.rpy:650
+    # renpy/common/00gallery.rpy:666
     old "return"
     new "retour"
 
@@ -1131,75 +1130,75 @@ translate French strings:
     old "Back (B)"
     new "Retour (B)"
 
-    # renpy/common/_errorhandling.rpym:677
+    # renpy/common/_errorhandling.rpym:674
     old "Open"
     new "Ouvrir"
 
-    # renpy/common/_errorhandling.rpym:679
+    # renpy/common/_errorhandling.rpym:676
     old "Opens the traceback.txt file in a text editor."
     new "Ouvre le fichier traceback.txt dans un éditeur de texte."
 
-    # renpy/common/_errorhandling.rpym:681
+    # renpy/common/_errorhandling.rpym:678
     old "Copy BBCode"
     new "Copie du BBCode"
 
-    # renpy/common/_errorhandling.rpym:683
+    # renpy/common/_errorhandling.rpym:680
     old "Copies the traceback.txt file to the clipboard as BBcode for forums like https://lemmasoft.renai.us/."
     new "Copie le fichier traceback.txt vers le presse-papier en tant que BBCode pour des forums tels que https://lemmasoft.renai.us/."
 
-    # renpy/common/_errorhandling.rpym:685
+    # renpy/common/_errorhandling.rpym:682
     old "Copy Markdown"
     new "Copie du Markdown"
 
-    # renpy/common/_errorhandling.rpym:687
+    # renpy/common/_errorhandling.rpym:684
     old "Copies the traceback.txt file to the clipboard as Markdown for Discord."
     new "Copie du fichier traceback.txt vers le presse-papier en tant que Markdown pour Discord."
 
-    # renpy/common/_errorhandling.rpym:719
+    # renpy/common/_errorhandling.rpym:716
     old "An exception has occurred."
     new "Une exception est survenue."
 
-    # renpy/common/_errorhandling.rpym:742
+    # renpy/common/_errorhandling.rpym:739
     old "Rollback"
     new "Retour"
 
-    # renpy/common/_errorhandling.rpym:744
+    # renpy/common/_errorhandling.rpym:741
     old "Attempts a roll back to a prior time, allowing you to save or choose a different choice."
     new "Tente un retour à une période précédente, vous permettant de sauvegarder ou faire un choix différent."
 
-    # renpy/common/_errorhandling.rpym:747
+    # renpy/common/_errorhandling.rpym:744
     old "Ignore"
     new "Ignorer"
 
-    # renpy/common/_errorhandling.rpym:751
+    # renpy/common/_errorhandling.rpym:748
     old "Ignores the exception, allowing you to continue."
     new "Ignore l'exception, vous permettant de continuer."
 
-    # renpy/common/_errorhandling.rpym:753
+    # renpy/common/_errorhandling.rpym:750
     old "Ignores the exception, allowing you to continue. This often leads to additional errors."
     new "Ignore l'exception, vous permettant de continuer. Ceci peut mener des à des erreurs."
 
-    # renpy/common/_errorhandling.rpym:757
+    # renpy/common/_errorhandling.rpym:754
     old "Reload"
     new "Recharger"
 
-    # renpy/common/_errorhandling.rpym:759
+    # renpy/common/_errorhandling.rpym:756
     old "Reloads the game from disk, saving and restoring game state if possible."
     new "Recharge le jeu depuis le disque, sauvegardant et rétablissant l'état du jeu si possible."
 
-    # renpy/common/_errorhandling.rpym:762
+    # renpy/common/_errorhandling.rpym:759
     old "Console"
     new "Console"
 
-    # renpy/common/_errorhandling.rpym:764
+    # renpy/common/_errorhandling.rpym:761
     old "Opens a console to allow debugging the problem."
     new "Ouvre une console pour permettre de débugger le problème."
 
-    # renpy/common/_errorhandling.rpym:777
+    # renpy/common/_errorhandling.rpym:774
     old "Quits the game."
     new "Quitte le jeu."
 
-    # renpy/common/_errorhandling.rpym:799
+    # renpy/common/_errorhandling.rpym:796
     old "Parsing the script failed."
     new "Analyse du script échouée."
 
