@@ -22,3 +22,8 @@ Pour faire fonctionner la traduction (en plein test) :
 S'il y a des erreurs lors du chargement du jeu, vérifier qu'il n'y ait pas de fichier .rpyc dans les traductions. De ce que j'en comprend, c'est re-généré lors du lancement du jeu, donc on peut les dégager.
 
 si des gens sont plus doués que moi en VSCode-ing et proposent des améliorations de ce git, faites :).
+
+## Répertoire des choix de traduction :
+
++ *college* :  **fac** | **faculté** | **université**. Préférence pour les deux premiers, tant que c'est pas trop étrange.
++ *Cretaceous College of Computing* : **Facultée Crétacée d'Informatique** et donc **FCI**. J'ai cherché, **crétacée** est bien l'adjectif (au féminin). 

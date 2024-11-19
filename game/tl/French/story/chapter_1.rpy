@@ -12,61 +12,81 @@ label chapter_1:
     
     ##There is going to be a few more of these cgs, so its not just one static image the whole time, they are just not done yet.
 
-    "Vous savez,{w=0.3} I never was too keen on the idea of going to college.{w=0.5} Sure,{w=0.3} it might be nice to go, but what for?"
+    #"You know,{w=0.3} I never was too keen on the idea of going to college.{w=0.5} Sure,{w=0.3} it might be nice to go, but what for?"
+    "Vous savez,{w=0.3} je n'ai jamais été trop enthousiaste à l'idée d'aller à la fac.{w=0.5} Bien sûr,{w=0.3} ça serait bien d'y aller, mais pour faire quoi?"
     
     show devbusintro_1 with eDissolve(1)
     
-    "I had no idea what I wanted to do with my life.{w=0.3} I still don't,{w=0.3} not really,{w=0.3} and practically speaking my grades limited me to only certain professions."
-    
-    "I wasn't going to be a surgeon or some nuclear scientist, that's for sure,{w=0.3} but I knew I still needed to do something with myself.{w=0.5} Else,{w=0.3} my parents would drag me to the nearest army recruitment office."
-    
+    #"I had no idea what I wanted to do with my life.{w=0.3} I still don't,{w=0.3} not really,{w=0.3} and practically speaking my grades limited me to only certain professions."
+    "Je n'avais aucune idée de ce que je voulais faire de ma vie.{w=0.3} Je ne sais toujours pas,{w=0.3} pas vraiment,{w=0.3} et techniquement parlant mes notes me limitaient à certains métiers uniquement."
+
+    #"I wasn't going to be a surgeon or some nuclear scientist, that's for sure,{w=0.3} but I knew I still needed to do something with myself.{w=0.5} Else,{w=0.3} my parents would drag me to the nearest army recruitment office."
+    "Je n'allais pas devenir chirurgien ou scientifique nucléaire, c'est certain,{w=0.3} mais je savais que j'avais quand même besoin de faire quelque chose de moi.{w=0.5} Autrement,{w=0.3} mes parents m'auraient trainé au bureau de recrutement le plus proche."
+
     show devbusintro_2 with eDissolve(1)
     
-    "So, I applied everywhere I could."
-    
-    "The place I REALLY hoped I would get into was{cps=5}...{/cps}"
-    
+    #"So, I applied everywhere I could."
+    "Donc, j'ai postulé partout où je pouvais."
+
+    #"The place I REALLY hoped I would get into was{cps=5}...{/cps}"
+    "L'endroit où j'aurais VRAIMENT voulu aller était{cps=5}...{/cps}"
+
     menu:
-        "Caveway Institute for Digital Arts":
+        #"Caveway Institute for Digital Arts":
+        "L'Institut des Arts Numériques de Caveway":
             $ CIDA = True
-            "I'm certainly no great artist,{w=0.3} but my high school art teacher said I had potential.{w=0.3} Plus learning is the point of college, right?"
-            
-        "Arthur University":
+            #"I'm certainly no great artist,{w=0.3} but my high school art teacher said I had potential.{w=0.3} Plus learning is the point of college, right?"
+            "Je ne suis certainement pas un grand artiste,{w=0.3} mais mon professeur d'art du lycé m'a dit que j'avais du potentiel.{w=0.3} De plus apprendre c'est le but de la fac, pas vrai?"
+
+        #"Arthur University":
+        "L'Université d'Arthur":
             $ AU = True
-            "It has a whole bunch of really cool courses on music and sound. I've always loved music,{w=0.3} and I could play a mean trombone in band,{w=0.3} so it seemed like a good pick."
-            
-        "Volcano Tech School of Design":
+            #"It has a whole bunch of really cool courses on music and sound. I've always loved music,{w=0.3} and I could play a mean trombone in band,{w=0.3} so it seemed like a good pick."
+            "Il y a un tas de cours vraiment cool sur la musique et le son. J'ai toujours adoré la musique,{w=0.3} et je pouvais jouer du trombone en orchestre,{w=0.3} donc ça semblait être un bon choix."
+
+        #"Volcano Tech School of Design":
+        "L'Ecole Technique de Design de Volcano":
             $ VTSD = True
-            "Someone online told me to \"learn to code\" and{cps=5}...{/cps} it seemed like good advice!{w=0.3} I've even made some rough mods for Future Scrolls 4."
-            
-        "StegoTech University of Innovation":
+            #"Someone online told me to \"learn to code\" and{cps=5}...{/cps} it seemed like good advice!{w=0.3} I've even made some rough mods for Future Scrolls 4."
+            "Quelqu'un en ligne m'a dit \"apprend à coder\" et{cps=5}...{/cps} ça semblait être un bon conseil!{w=0.3} J'ai même fait quelques mods pour Future Scrolls 4."
+
+        #"StegoTech University of Innovation":
+        "L'Université de l'Innovation StegoTech":
             $ SUI = True
-            "Paradise Extinction always really spoke to me,{w=0.3} like,{w=0.3} on an emotional level. Trying my hand at literature seemed perfect."
+            #"Paradise Extinction always really spoke to me,{w=0.3} like,{w=0.3} on an emotional level. Trying my hand at literature seemed perfect."
+            "Paradise Extinction m'a toujours vraiment parlé,{w=0.3} genre,{w=0.3} au niveau émotionnel. Me faire la main sur la littérature semblait parfait."
             
-        "Lauren Institute of Culinary Arts":
+        #"Lauren Institute of Culinary Arts":
+        "L'Institut des Arts Culinaires de Lauren":
             $ LICA = True
-            "It's not the best cooking college a person could hope to go to, but not the worst.{w=0.3} So long as Gordon Raptsey stops making fun of my quiche online, then I feel like that is a success."
-    
+            #"It's not the best cooking college a person could hope to go to, but not the worst.{w=0.3} So long as Gordon Raptsey stops making fun of my quiche online, then I feel like that is a success."
+            "C'est pas la meilleure université de cuisine du monde, mais pas la pire.{w=0.3} Tant que Gordon Raptsey arrête de se moquer de ma quiche en ligne, je pense que c'est un succès."
+
     show anim_devcg with eDissolve(1)
     
-    "I even sent a few applications to some of the fancier colleges,{w=0.3} even if it was more as a joke."
+    #"I even sent a few applications to some of the fancier colleges,{w=0.3} even if it was more as a joke."
+    "J'ai même envoyé quelques candidatures à certaines des facs les plus renommées,{w=0.3} même si c'était plus une blague qu'autre chose."
     
     
-    
-    "One of those joke applications was to CCC,{w=0.5} Cretaceous College of Computing."
-    
+    #"One of those joke applications was to CCC,{w=0.5} Cretaceous College of Computing."
+    "Une de ces candidatures blagues était à destination de la FCI,{w=0.5} la Faculté Crétacée d'Informatique."
+
     pause 0.5
     
     show devbusintro_5 with eDissolve(1)
     
-    "The punchline is that CCC accepted my application."
-    
-    "I'm not sure who was more surprised;{w=0.3} me,{w=0.6} or my parents."
-    
-    "After looking into it,{w=0.3} it turned out that apparently a bunch of humans won some big court case about unfair enrollment practices in the higher end colleges,{w=0.3} or something like that.{w=0.3} So now they are all scrambling to get as many humans in their school as possible."
-    
-    "Well,{w=0.3} I sure wasn't going to look a gift horse in the mouth.{w=0.3} Especially not a \'full scholarship with boarding and a monthly commissary allowance for any store on the campus\' shaped horse."
-    
+    #"The punchline is that CCC accepted my application."
+    "La chute c'est que la FCI a accepté ma candidature."
+
+    #"I'm not sure who was more surprised;{w=0.3} me,{w=0.6} or my parents."
+    "Je ne sais pas qui était le plus surpris;{w=0.3} moi,{w=0.6} ou mes parents."
+
+    #"After looking into it,{w=0.3} it turned out that apparently a bunch of humans won some big court case about unfair enrollment practices in the higher end colleges,{w=0.3} or something like that.{w=0.3} So now they are all scrambling to get as many humans in their school as possible."
+    "Après des recherches,{w=0.3} il semblerait qu'apparemment un groupe d'humains ont gagné un gros procès contre des pratiques d'admissions injustes dans les grandes universités,{w=0.3} ou un truc du genre.{w=0.3} Donc maintenant elles se démènent toutes à obtenir le plus d'humains possible dans leurs écoles."
+
+    #"Well,{w=0.3} I sure wasn't going to look a gift horse in the mouth.{w=0.3} Especially not a \'full scholarship with boarding and a monthly commissary allowance for any store on the campus\' shaped horse."
+    "Bon,{w=0.3} à cheval donné, on ne regarde pas les dents.{w=0.3} Surtout un cheval en forme de \'bourse complète avec internat et allocation mensuelle pour tous les magasins du campus\'."
+
     "So, here I am,{w=0.3} on a bus,{w=0.3} heading straight to the CCC campus,{w=0.3} with only a duffle bag's worth of things to my name."
     
     "The driver interrupts my thoughts."
