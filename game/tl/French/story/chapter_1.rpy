@@ -184,13 +184,13 @@ translate French chapter_1_9c8df28b:
 translate French chapter_1_f2c5a023:
 
     # "Wide,{w=0.1} big,{w=0.1} mostly square-ish.{w=0.3} Boring to look at except for the many palm trees and other plants all over the place."
-    "Large,{w=0.1} grand,{w=0.1} principalement carrée.{w=0.3} Ennuyeuse à regarder à part pour les nombreux palmiers et autres plantes tout autour."
+    "Large,{w=0.1} grande,{w=0.1} principalement carrée.{w=0.3} Ennuyeuse à regarder à part pour les nombreux palmiers et autres plantes tout autour."
 
 # game/story/chapter_1.rpy:235
 translate French chapter_1_c85fab98:
 
     # "The starting place for countless success stories.{w=0.3} If you can do well here,{w=0.3} then you are basically guaranteed success in life."
-    "L'endroit de départ de nombreuses réussites.{w=0.3} Si tu peux te débrouiller ici, {w=0.3} alors tu es basiquement garanti de réussir dans la vie."
+    "L'endroit de départ de nombreuses réussites.{w=0.3} Si tu peux te débrouiller ici,{w=0.3} alors tu es basiquement garanti de réussir dans la vie."
 
 # game/story/chapter_1.rpy:237
 translate French chapter_1_c439a066:
@@ -214,7 +214,7 @@ translate French chapter_1_0e130f5b:
 translate French chapter_1_b935081d:
 
     # "I wonder if they think I'm an oddity.{w=0.3} The lawsuit thing was about no humans going here, maybe this is the first time they have seen a human before?{w=0.3} There are dino only towns as far as I know."
-    "Je me demande s'ils pensent que je suis étrange.{w=0.3} Le truc du procès c'était qu'aucun humain ne venait là, peut-être que c'est la première fois qu'ils en voient un?{w=0.3} De ce que je sache, il y a des viles avec uniquement des dinos."
+    "Je me demande s'ils pensent que je suis étrange.{w=0.3} Le truc du procès c'était qu'aucun humain ne venait là, peut-être que c'est la première fois qu'ils en voient un?{w=0.3} De ce que je sache, il y a des villes avec uniquement des dinos."
 
 # game/story/chapter_1.rpy:278
 translate French chapter_1_17e33530:
@@ -250,13 +250,13 @@ translate French chapter_1_01ccde06:
 translate French chapter_1_7606831b:
 
     # "Then, a green parasaur cuts through the throng with a purposeful stride.{w=0.3} His eyes are creased with annoyance.{w=0.3} I don't know who's reflecting the Sun more,{w=0.3} his gelled golden hair or my bald head."
-    "Enfin, un parasaure coupe à travers la masse d'un pas déterminé.{w=0.3} Ses yeux sont plissés par l'agacement.{w=0.3} Je ne sais pas qui reflète le plus le Soleil,{w=0.3} ses cheveux dorés et leur gel ou mon crâne chauve."
+    "Enfin, un parasaure coupe à travers la masse d'un pas déterminé.{w=0.3} Ses yeux sont plissés par l'agacement.{w=0.3} Je ne sais pas qui reflète le plus le soleil,{w=0.3} ses cheveux dorés couverts de gel ou mon crâne chauve."
 
 # game/story/chapter_1.rpy:299
 translate French chapter_1_3d1d19c0:
 
     # "His expression is sour enough to curdle milk,{w=0.3} and approaches with an air of someone who has far better things to do."
-    "Son expression est assez aigre pour faire cailler du lait,{w=0.3} et il approche avec l'air de quelqu'un qui a des choses bien mieux à faire."
+    "Son expression est assez aigre pour faire tourner du lait,{w=0.3} et il approche avec l'air de quelqu'un qui a des choses bien mieux à faire."
 
 # game/story/chapter_1.rpy:304
 translate French chapter_1_1f64b897:
@@ -280,7 +280,7 @@ translate French chapter_1_422b71f5:
 translate French chapter_1_cf2781b7:
 
     # "I try for a smile."
-    "J'essaie de sourire"
+    "J'essaie de sourire."
 
 # game/story/chapter_1.rpy:316
 translate French chapter_1_138023de:
@@ -298,7 +298,7 @@ translate French chapter_1_064b7ea9:
 translate French chapter_1_397b326c:
 
     # E "The dean made me your welcome committee,{w=0.3} but I have a million other things I need to do, so let's get this over quick."
-    E "Le doyen m'a chargé d'être ton comité d'accueil,{w=0.3} mais j'ai un milion d'autres trucs à faire, donc on va faire ça vite."
+    E "Le doyen m'a chargé d'être ton comité d'accueil,{w=0.3} mais j'ai un million d'autres trucs à faire, donc on va faire ça vite."
 
 # game/story/chapter_1.rpy:335
 translate French chapter_1_2cd2b3f4:
@@ -316,7 +316,7 @@ translate French chapter_1_bf8b64e2:
 translate French chapter_1_07df8408:
 
     # "He actually says 'bla bla bla'."
-    "Il dit effectivement 'bla bla bla'."
+    "Il dit vraiment 'bla bla bla'."
 
 # game/story/chapter_1.rpy:347
 translate French chapter_1_8f0f796d:
@@ -334,13 +334,13 @@ translate French chapter_1_ae1cca62:
 translate French chapter_1_1dd70e9c:
 
     # "It's not of much value, sadly."
-    "Ca ne sert pas à grand chose, malheureusement."
+    "Ça ne sert pas à grand chose, malheureusement."
 
 # game/story/chapter_1.rpy:359
 translate French chapter_1_6c565764:
 
     # E "The papers you have been given include detailed descriptions of all our facilities,{w=0.3} a map of the campus,{w=0.3} your schedule,{nw=1} {nw}bla{nw=0.5}{nw} bla{nw=0.5}{nw} bla{nw=0.5}{cps=5}...{/cps}{p}"
-    E "Les documents qui vous ont été donnés comprennent des desciptions détaillées de nos installations,{w=0.3} une carte du campus,{w=0.3} votre emploi du temps,{nw=1} {nw}bla{nw=0.5}{nw} bla{nw=0.5}{nw} bla{nw=0.5}{cps=5}...{/cps}{p}"
+    E "Les documents qui vous ont été donnés comprennent des descriptions détaillées de nos installations,{w=0.3} une carte du campus,{w=0.3} votre emploi du temps,{nw=1} {nw}bla{nw=0.5}{nw} bla{nw=0.5}{nw} bla{nw=0.5}{cps=5}...{/cps}{p}"
 
 # game/story/chapter_1.rpy:361
 translate French chapter_1_217398f4:
@@ -382,7 +382,7 @@ translate French chapter_1_e13be368:
 translate French chapter_1_4d75d45d:
 
     # "I realize a moment too late that I'd blurted that out.{w=0.25} His claw taps impatiently on the top sheet, pointedly not remarking to my very insightful response."
-    "Je réalise un instant trop tard que j'ai laissé échappé ça.{w=0.25} Sa griffe tappe impatiemment sur la feuille du dessus, n'ayant clairement pas réagit à ma réponse très perspicace."
+    "Je réalise un instant trop tard que j'ai laissé échappé ça.{w=0.25} Sa griffe tappe impatiemment sur la feuille du dessus, n'ayant clairement pas remarqué ma réponse très perspicace."
 
 # game/story/chapter_1.rpy:384
 translate French chapter_1_22c7d4da:
@@ -460,7 +460,7 @@ translate French chapter_1_d3fa469d:
 translate French chapter_1_a079a977:
 
     # E "All{w=0.25} for{w=0.25} you{w=0.25}{cps=5}...{/cps}"
-    E "Tout{w=0.25} ça{w=0.25} pour{w=0.25} toi{cps=5}...{/cps}"
+    E "Tout{w=0.25} ça{w=0.25} pour{w=0.25} toi{w=0.25}{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:439
 translate French chapter_1_74ac987f_1:
@@ -490,7 +490,7 @@ translate French chapter_1_3f4da469:
 translate French chapter_1_3bf34a8b:
 
     # "Wait, he barely gave me any information at all, how was that an orientation?!"
-    "Attends, il m'a à peine donné des informations, et c'est ça une orientation?!"
+    "Attends, il m'a à peine donné des informations, et c'est sensé être une orientation?!"
 
 # game/story/chapter_1.rpy:468
 translate French chapter_1_df48b3b6:
@@ -586,7 +586,7 @@ translate French chapter_1_6dac522e:
 translate French chapter_1_abf2dc5c:
 
     # "How hard can it be to find one building?"
-    "Ca ne doit pas être difficile de trouver UN bâtiement."
+    "Ça ne doit pas être difficile de trouver UN bâtiement."
 
 # game/story/chapter_1.rpy:565
 translate French chapter_1_a20cefa7:
@@ -610,7 +610,7 @@ translate French chapter_1_f822e506_1:
 translate French chapter_1_0b37c630:
 
     # "With the sun falling towards the horizon, my spirits fall with it."
-    "Avec le soleil disparaîssant à l'horizon, mon moral fait de même."
+    "Avec le soleil disparaîssant à l'horizon, mon moral fit de même."
 
 # game/story/chapter_1.rpy:598
 translate French chapter_1_aba19dc3:
@@ -718,7 +718,7 @@ translate French chapter_1_dffe9d10:
 translate French chapter_1_c2a538d4:
 
     # D "You think you could maybe practice somewhere that's {b}not{/b} right in the middle of campus?"
-    D "Tu penses pas que tu pourrais t'entraîner à un endroit qui n'est {b}pas{/b} en plein milieu du campus?"
+    D "Tu ne penses pas que tu pourrais t'entraîner à un endroit qui n'est {b}pas{/b} en plein milieu du campus?"
 
 # game/story/chapter_1.rpy:718
 translate French chapter_1_c3228c1b:
@@ -760,1315 +760,1315 @@ translate French chapter_1_bb48dcfa:
 translate French chapter_1_ba798caa:
 
     # T "The dorms?{w=0.3} Didn't orientation show you all that?"
-    T ""
+    T "Les dortoirs?{w=0.3} L'orientation ne t'a pas montré tout ça?"
 
 # game/story/chapter_1.rpy:743
 translate French chapter_1_dab54053:
 
     # D "If by \"orientation\" you mean \"dumped a bunch of papers on me then bailed\",{w=0.3} then no."
-    D ""
+    D "Si par \"orientation\" tu veux dire \"me jeter un tas de papier puis se barrer\",{w=0.3} alors non."
 
 # game/story/chapter_1.rpy:748
 translate French chapter_1_30a26ba1:
 
     # T "Heh,{w=0.3} well then, lucky for you I'm an expert navigator,{w=0.2} so consider me your personal tour guide."
-    T ""
+    T "Heh,{w=0.3} dans ce cas, t'es chanceux car je suis un navigateur expert,{w=0.2} alors considère moi comme ton guide personnel."
 
 # game/story/chapter_1.rpy:758
 translate French chapter_1_cd81918d:
 
     # "Theo clapped a wing on my back,{w=0.3} almost knocking me off balance."
-    ""
+    "Theo tapa son aile contre mon dos,{w=0.3} me faisant presque perdre l'équilibre."
 
 # game/story/chapter_1.rpy:762
 translate French chapter_1_273d4fbc:
 
     # T "C'mon then, let's find your place!"
-    T ""
+    T "Allez, trouvons ta chambre!"
 
 # game/story/chapter_1.rpy:784
 translate French chapter_1_da340e70:
 
     # "With Theo's guidance, the cryptic map started to make sense."
-    ""
+    "Avec l'aide de Theo, la carte cryptique commença à faire sens."
 
 # game/story/chapter_1.rpy:786
 translate French chapter_1_df799e85:
 
     # "He pointed out various landmarks that could be found on it{w=0.3}—a statue here,{w=0.3} a particularly gnarled tree there{w=0.2}—and eventually we found our way to the dormitories."
-    ""
+    "Il pointa divers repères qui pouvaient se trouver dessus{w=0.3}-une statue là,{w=0.3} un arbre particulièrement noueux ici{w=0.2}-et éventuellement nous arrivâmes aux dortoires."
 
 # game/story/chapter_1.rpy:792
 translate French chapter_1_08fe07cd:
 
     # T "That's the common room—great for all-nighters.{nw=1.5}"
-    T ""
+    T "C'est la pièce commune-idéale pour les nuits blanches.{nw=1.5}"
 
 # game/story/chapter_1.rpy:804
 translate French chapter_1_67ccbc8f:
 
     # extend " Over there's the laundry—would recommend going early if you don't want to battle for a washer."
-    extend ""
+    extend " Par là il y a la laverie-je recommanderais d'arriver tôt si tu ne veux pas te battre pour avoir une machine."
 
 # game/story/chapter_1.rpy:808
 translate French chapter_1_9890eac0:
 
     # T "And here we are!"
-    T ""
+    T "Et nous voilà!"
 
 # game/story/chapter_1.rpy:810
 translate French chapter_1_9db0920d:
 
     # "We reached what looked like the right building{w=0.3}—two stories of brick and stone standing sentinel at the edge of campus."
-    ""
+    "Nous arrivâmes à ce qui semblait être le bon bâtiment{w=0.3}-deux étages de briques et de pierres montant la garde à l'extrémité du campus."
 
 # game/story/chapter_1.rpy:812
 translate French chapter_1_07a84466:
 
     # "Theo pushed open the heavy door with a flourish."
-    ""
+    "Theo poussa la lourde porte d'un grand mouvement."
 
 # game/story/chapter_1.rpy:820
 translate French chapter_1_df8d8e8d:
 
     # T "This is it, what's your dorm number?"
-    T ""
+    T "On y est, c'est quoi ton numéro de chambre?"
 
 # game/story/chapter_1.rpy:822
 translate French chapter_1_d0bd4965:
 
     # "I double check the paper."
-    ""
+    "Je revérifie le papier."
 
 # game/story/chapter_1.rpy:824
 translate French chapter_1_285a0ac0:
 
     # D "{w=0.3}482."
-    D ""
+    D "{w=0.3}482."
 
 # game/story/chapter_1.rpy:826
 translate French chapter_1_2def2f14:
 
     # "We navigate through a massive collection of dinosaurs,{w=0.3} milling about or talking with friends."
-    ""
+    "Nous naviguons à travers un groupe massive de dinosaures,{w=0.3} se baladant ou parlant avec leurs amis."
 
 # game/story/chapter_1.rpy:828
 translate French chapter_1_1312da05:
 
     # T "478{cps=5}...{/cps} 480{cps=5}...{/cps} There,{w=0.2} 482! Your home away from home."
-    T ""
+    T "478{cps=5}...{/cps} 480{cps=5}...{/cps} Là,{w=0.2} 482! Ta maison loin de ta maison."
 
 # game/story/chapter_1.rpy:834
 translate French chapter_1_3a3a02d0:
 
     # "The room was larger than I expected;{w=0.3} two beds on opposite walls with desks beneath lofted bunks."
-    ""
+    "La pièce était plus grande que ne l'imaginait;{w=0.3} deux lits contre deux murs opposés avec des bureaux en dessous de couchettes surélevées."
 
 # game/story/chapter_1.rpy:838
 translate French chapter_1_1ed6578d:
 
     # T "Guess this palace is all yours."
-    T ""
+    T "J'imagine que l'endroit est tout à toi."
 
 # game/story/chapter_1.rpy:840
 translate French chapter_1_75916dd6:
 
     # D "Seems so."
-    D ""
+    D "On dirait."
 
 # game/story/chapter_1.rpy:844
 translate French chapter_1_58d60f67:
 
     # T "Lucky!"
-    T ""
+    T "Chanceux!"
 
 # game/story/chapter_1.rpy:849
 translate French chapter_1_63f97ce6:
 
     # D "Maybe they saw who they were rooming with and bailed."
-    D ""
+    D "Peut-être qu'ils ont vu avec qui ils partageaient la chambre et se sont barrés."
 
 # game/story/chapter_1.rpy:853
 translate French chapter_1_ac186854:
 
     # "Theo shrugged off my self-deprecation joke with another easy smile."
-    ""
+    "Theo ignora ma blague autodérisoire avec un autre sourire tranquile."
 
 # game/story/chapter_1.rpy:855
 translate French chapter_1_765a45c7:
 
     # T "Their loss!{w=0.3} More space for you. Besides,{w=0.2} who needs roommates when you've got neighbors like me?"
-    T ""
+    T "Tant pis pour eux!{w=0.3} Plus d'espace pour toi. Et puis,{w=0.2} qui a besoin de colocataire quand tu as des voisins comme moi?"
 
 # game/story/chapter_1.rpy:859
 translate French chapter_1_37ccda94:
 
     # D "We're neighbors?"
-    D ""
+    D "On est voisins?"
 
 # game/story/chapter_1.rpy:861
 translate French chapter_1_ba9c3536:
 
     # T "Well{cps=5}...{/cps} no,{w=0.2} but I'm only one floor down."
-    T ""
+    T "Ben{cps=5}...{/cps} non,{w=0.2} mais je suis un étage en dessous."
 
 # game/story/chapter_1.rpy:863
 translate French chapter_1_50299337:
 
     # extend " That's practically neighbors, right?"
-    extend ""
+    extend " C'est presque être voisins, pas vrai?"
 
 # game/story/chapter_1.rpy:867
 translate French chapter_1_79286fd9:
 
     # "Well,{w=0.3} can't argue with that."
-    ""
+    "Bon,{w=0.3} il a pas tort."
 
 # game/story/chapter_1.rpy:869
 translate French chapter_1_321f4e7c:
 
     # D "Do you have a roommate?"
-    D ""
+    D "Tu as un colocataire?"
 
 # game/story/chapter_1.rpy:871
 translate French chapter_1_3418d497:
 
     # T "Duh. Everyone does."
-    T ""
+    T "Duh. Tout le monde en a un."
 
 # game/story/chapter_1.rpy:875
 translate French chapter_1_93db4c37:
 
     # "I gesture to the other half of my new room."
-    ""
+    "Je fais signe vers l'autre partie de ma nouvelle chambre."
 
 # game/story/chapter_1.rpy:879
 translate French chapter_1_28651c1e:
 
     # T "Almost everyone."
-    T ""
+    T "Presque tout le monde."
 
 # game/story/chapter_1.rpy:883
 translate French chapter_1_af58fdfc:
 
     # D "What are they like?"
-    D ""
+    D "Il est comment?"
 
 # game/story/chapter_1.rpy:887
 translate French chapter_1_0d113e6f:
 
     # T "He's an{w=0.5} acquired taste kind of guy,{w=0.3} but grows on you eventually."
-    T ""
+    T "C'est un{w=0.5} type qui faut apprendre à aimer,{w=0.3} mais on finit par s'y attacher."
 
 # game/story/chapter_1.rpy:891
 translate French chapter_1_21a3cd75:
 
     # "I toss my bag onto the nearest bed and glance around at the empty space."
-    ""
+    "Je jette mon sac sur le lit le plus proche et jette un oeil à l'espace vide."
 
 # game/story/chapter_1.rpy:893
 translate French chapter_1_c801af7b:
 
     # "Place is kind of depressing as it is."
-    ""
+    "L'endroit est plutôt dépressif en tant que tel."
 
 # game/story/chapter_1.rpy:897
 translate French chapter_1_aeda0115:
 
     # "It would certainly liven the place up a bit{w=0.3}, plus I would only have to worry about decorating my side.{w=0.3} In any case, I should get some posters or something."
-    ""
+    "Ça mettrait un peu d'ambiance{w=0.3}, puis je n'aurais qu'à m'inquiéter de décorer mon côté seulement.{w=0.3} Dans tous les cas, je ferais mieux de trouvers des posters ou autre."
 
 # game/story/chapter_1.rpy:899
 translate French chapter_1_5ca2e555:
 
     # "In any case,{w=0.3} I should get some posters or something.{w=0.3} Guess I won't be having any arguments about decor,{w=0.3} considering the lack of another being capable of voicing their opinion on what my room should look like."
-    ""
+    "Dans tous les cas,{w=0.3} je ferais mieux de trouvers des posters ou autre.{w=0.3} J'imagine que je ne me battrai pas à cause de la déco,{w=0.3} étant donné le manque d'une autre personne capable de faire savoir son opinion sur ce à quoi ma chambre devrait ressembler."
 
 # game/story/chapter_1.rpy:903
 translate French chapter_1_d7139d3f:
 
     # T "Hey, you hungry?{w=0.3} Cafeteria food isn't half bad if you know what to avoid."
-    T ""
+    T "Hé, t'as faim?{w=0.3} La nourriture de la cafétéria n'est pas si mauvaise si tu sais quoi éviter."
 
 # game/story/chapter_1.rpy:909
 translate French chapter_1_287a87ba:
 
     # "As if on cue,{w=0.3} my stomach roars."
-    ""
+    "Comme de juste,{w=0.3} mon estomac gronde."
 
 # game/story/chapter_1.rpy:914
 translate French chapter_1_9d96c85f:
 
     # D "Starving."
-    D ""
+    D "Je suis affamé."
 
 # game/story/chapter_1.rpy:939
 translate French chapter_1_bdcfeb02:
 
     # "We walk side by side,{w=0.3} my stomach growling louder with each step toward the cafeteria."
-    ""
+    "Nous marchons côte à côte,{w=0.3} mon estomac grondant de plus en plus fort à chaque pas vers la cafétéria."
 
 # game/story/chapter_1.rpy:941
 translate French chapter_1_b3360a27:
 
     # "Inside, the hall buzzes with a hundred conversations,{w=0.3} the scent of sizzling meat and overcooked vegetables heavy in the air."
-    ""
+    "A l'intérieur, le hall bourdonne de centaines de conversations,{w=0.3} une forte odeur de viande grésillante et légumes trop cuits dans l'air."
 
 # game/story/chapter_1.rpy:945
 translate French chapter_1_635f9a77:
 
     # D "I didn't expect it to be this{cps=5}...{/cps} lively."
-    D ""
+    D "Je m'attendais pas à ce que ça soit aussi{cps=5}...{/cps} vivant."
 
 # game/story/chapter_1.rpy:950
 translate French chapter_1_8585aea2:
 
     # T "Pffft"
-    T ""
+    T "Pffft"
 
 # game/story/chapter_1.rpy:954
 translate French chapter_1_70747425:
 
     # T "Wait until you see the feeding frenzy during finals."
-    T ""
+    T "Attend de voir la frénésie alimentaire pendant les partiels."
 
 # game/story/chapter_1.rpy:959
 translate French chapter_1_55ae2535:
 
     # D "So{w=0.3} you've been here before?"
-    D ""
+    D "Donc{w=0.3} t'es déjà allé ici?"
 
 # game/story/chapter_1.rpy:961
 translate French chapter_1_d638dc81:
 
     # T "Yep,{w=0.1} second year."
-    T ""
+    T "Ouaip,{w=0.1} deuxième année."
 
 # game/story/chapter_1.rpy:966
 translate French chapter_1_21619272:
 
     # D "Oh.{w=0.3} Neat!"
-    D ""
+    D "Oh.{w=0.3} Cool!"
 
 # game/story/chapter_1.rpy:968
 translate French chapter_1_98abca61:
 
     # "I take a look at the prices next to the stuff on the menu."
-    ""
+    "Je jette un oeil aux prix à côté des plats sur le menu."
 
 # game/story/chapter_1.rpy:973
 translate French chapter_1_1fa7287c:
 
     # "Sweet Raptor Jesus{cps=5}...{/cps}"
-    ""
+    "Doux Raptor Jésus{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:975
 translate French chapter_1_109f8a9e:
 
     # "$5 for a single bottle of water? {b}$7{/b} for small fries?"
-    ""
+    "5$ pour une bouteille d'eau? {b}$7{/b} pour des petites frites?"
 
 # game/story/chapter_1.rpy:980
 translate French chapter_1_aa5510d8:
 
     # D "Well, crap{cps=5}...{/cps}"
-    D ""
+    D "Bon, purée{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:985
 translate French chapter_1_1d0c5568:
 
     # T "What's up?"
-    T ""
+    T "Qu'est ce qu'il y a?"
 
 # game/story/chapter_1.rpy:989
 translate French chapter_1_6ead9f5d:
 
     # D "I knew the prices here would be bad, not this bad!"
-    D ""
+    D "Je savais que les prix serait haut, mais pas à ce point!"
 
 # game/story/chapter_1.rpy:991
 translate French chapter_1_51086179:
 
     # D "I'm running on fumes here,{w=0.1} financially speaking.{w=0.3} One meal is gonna wipe out the cash I have on me."
-    D ""
+    D "Je suis presque à sec,{w=0.1} financièrement parlant.{w=0.3} Un repas va vider ce qui me reste d'argent."
 
 # game/story/chapter_1.rpy:993
 translate French chapter_1_767b2d94:
 
     # D "I think I might just hit up the vending machines, gotta wait for the allowance to kick in."
-    D ""
+    D "Je pense que je ferais mieux d'aller voir les distributeurs, attendre que les allocations arrivent."
 
 # game/story/chapter_1.rpy:997
 translate French chapter_1_1903804e:
 
     # "Theo claps me on the back."
-    ""
+    "Theo me tape dans le dos."
 
 # game/story/chapter_1.rpy:999
 translate French chapter_1_6fe5bebc:
 
     # T "Don't sweat it. My treat."
-    T ""
+    T "T'inquiète. C'est ma tournée."
 
 # game/story/chapter_1.rpy:1003
 translate French chapter_1_ff47e98e:
 
     # D "I can't let you do that, we only just met."
-    D ""
+    D "Je peux pas te laisser faire ça, on s'est à peine rencontré."
 
 # game/story/chapter_1.rpy:1005
 translate French chapter_1_d26a59b7:
 
     # D "I don't like the idea of owing a stranger."
-    D ""
+    D "J'aime pas l'idée d'avoir une dette envers un inconnu."
 
 # game/story/chapter_1.rpy:1009
 translate French chapter_1_1a4529f7:
 
     # "Theo gasps dramatically."
-    ""
+    "Theo s'exclame dramatiquement."
 
 # game/story/chapter_1.rpy:1013
 translate French chapter_1_c05c0948:
 
     # T "A stranger?{w=0.3} After all that bonding together we did,"
-    T ""
+    T "Un inconnu?{w=0.3} Après tout ce qu'on a vécu ensemble,"
 
 # game/story/chapter_1.rpy:1017
 translate French chapter_1_39796f77:
 
     # extend " finding your room, entering your room{w=0.3}, exiting your room{cps=5}...{/cps}"
-    extend ""
+    extend " trouver ta chambre, entrer dans ta chambre{w=0.3}, sortir de ta chambre{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1022
 translate French chapter_1_56059732:
 
     # D "Heh."
-    D ""
+    D "Heh."
 
 # game/story/chapter_1.rpy:1026
 translate French chapter_1_63820fbb:
 
     # D "Finding the cafeteria, entering the cafeteria{cps=5}...{/cps}"
-    D ""
+    D "Trouver la cafétéria, entrer dans la cafétéria{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1031
 translate French chapter_1_4dfee851:
 
     # "He laughs too. I feel a knot undo itself inside my chest.{w=0.3} Socializing.{w=0.1} Not that hard, right?"
-    ""
+    "Il rit également. Je sens un noeud se défaire dans mon torse.{w=0.3} Sociabiliser.{w=0.1} Pas si dur, hein?"
 
 # game/story/chapter_1.rpy:1036
 translate French chapter_1_48e8f774:
 
     # T "But no, I get you{cps=5}...{/cps}"
-    T ""
+    T "Mais non, je te comprends{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1040
 translate French chapter_1_3c8c7b59:
 
     # T "Hmm,{w=0.3} you know how to read?"
-    T ""
+    T "Hmm,{w=0.3} tu sais lire?"
 
 # game/story/chapter_1.rpy:1045
 translate French chapter_1_2c5a2683:
 
     # "What kind of question is that?"
-    ""
+    "Qu'est ce que c'est que cette question?"
 
 # game/story/chapter_1.rpy:1049
 translate French chapter_1_649433f3:
 
     # D "Yes{cps=5}...{/cps}?"
-    D ""
+    D "Oui{cps=5}...{/cps}?"
 
 # game/story/chapter_1.rpy:1054
 translate French chapter_1_a51b3ff2:
 
     # T "You can pay me back by helping me out on my next History assignment. Can barely pay attention during class."
-    T ""
+    T "Tu peux me repayer en m'aidant sur mon prochain devoir d'Histoire. J'peux à peine être attentif en cours."
 
 # game/story/chapter_1.rpy:1058
 translate French chapter_1_aec24ea5:
 
     # "I guess it's a fair deal{cps=5}...{/cps}{w=0.3} but I don't know{cps=5}...{/cps}"
-    ""
+    "J'imagine que c'est un échange honnête{cps=5}...{/cps}{w=0.3} mais je ne sais pas{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1089
 translate French eager_deal_7ecc2d58:
 
     # D "YES, PLEASE."
-    D ""
+    D "OUI, S'IL TE PLAÎT"
 
 # game/story/chapter_1.rpy:1091
 translate French eager_deal_dec269c8:
 
     # "Theo is visibly taken aback by my outburst. My ears start to burn."
-    ""
+    "Theo est visiblement pris de court par mon déchaînement. Mes oreilles commencent à brûler."
 
 # game/story/chapter_1.rpy:1101
 translate French eager_deal_0c724090:
 
     # "Oh, no. {w=2} Now he's going to think I'm some kind of deadbeat or freeloader or{cps=5}...{/cps} I'm already a full scholarship student{cps=5}...{/cps}"
-    ""
+    "Oh, non. {w=2} Maintenant il va croire que je suis un genre de bon à rien ou de profiteur ou{cps=5}...{/cps} Je suis un étudiant avec une bourse complète{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1103
 translate French eager_deal_f35d8f84:
 
     # "Does Theo know that already? Is this affecting his image of me?"
-    ""
+    "Est-ce que Theo le sait déjà? Est-ce que ça affecte son image de moi?"
 
 # game/story/chapter_1.rpy:1107
 translate French eager_deal_409a7ca1:
 
     # T "O-okay, dude."
-    T ""
+    T "O-okay, mec."
 
 # game/story/chapter_1.rpy:1116
 translate French eager_deal_ec09a513:
 
     # "My stomach rumbles, my shame increases. Theo, on the other hand, start laughing so hard he's got to hold his ribs."
-    ""
+    "Mon estomac gronde, ma honte grandit. Theo, d'un autre coté, commence à rire si fort qu'il doit se tenir les côtes."
 
 # game/story/chapter_1.rpy:1118
 translate French eager_deal_b485ca84:
 
     # D "Sorry."
-    D ""
+    D "Désolé."
 
 # game/story/chapter_1.rpy:1122
 translate French eager_deal_450314d3:
 
     # "He's smiling again."
-    ""
+    "Il sourit de nouveau."
 
 # game/story/chapter_1.rpy:1126
 translate French eager_deal_036f9315:
 
     # T "No, no, dude, I get it. C'mon, I'm starving too."
-    T ""
+    T "Non, non, mec, je comprends. Allez, je suis affamé aussi."
 
 # game/story/chapter_1.rpy:1142
 translate French reluctant_deal_74ac987f:
 
     # D "{cps=5}...{/cps}"
-    D ""
+    D "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1146
 translate French reluctant_deal_30da1c8f:
 
     # "Theo wiggles his eyebrows."
-    ""
+    "Theo agite ses sourcils."
 
 # game/story/chapter_1.rpy:1148
 translate French reluctant_deal_e598ebe1:
 
     # T "C'mon~"
-    T ""
+    T "Allez~"
 
 # game/story/chapter_1.rpy:1150
 translate French reluctant_deal_f6dd1b41:
 
     # D "Fine. Yes. Thank you.{w=0.3} But I'll pay you back as soon as my allowance comes."
-    D ""
+    D "D'accord. Oui. Merci.{w=0.3} Mais je te rembourse dès que mon allocation le permet."
 
 # game/story/chapter_1.rpy:1152
 translate French reluctant_deal_b41f9983:
 
     # T "Eh don't be stubborn, Dev. We already have an agreement going on.{w=0.3} Plus you've got no idea, but you'll end up wishing you hadn't sold your soul for a lunch meal."
-    T ""
+    T "Hé soit pas têtu, Dev. Nous avons un arrangement en cours.{w=0.3} Puis t'as pas idée, mais tu va finir par souhaiter de n'avoir pas vendu ton âme pour un déjeuner."
 
 # game/story/chapter_1.rpy:1156
 translate French reluctant_deal_96030a41:
 
     # "That makes me pause.{w=0.3} What kind of history assignments does this guy have?"
-    ""
+    "Cela m'arrête net.{w=0.3} Quel genre de devoir d'histoire ce type a?"
 
 # game/story/chapter_1.rpy:1160
 translate French reluctant_deal_812c469f:
 
     # "I was never super great at history so I hope I didn't just enter some sort of Faustian deal for a sandwich?"
-    ""
+    "Je n'ai jamais été super bon en histoire donc j'espère que je ne viens pas de signer un pacte Faustien pour un sandwich?"
 
 # game/story/chapter_1.rpy:1164
 translate French reluctant_deal_3f678c36:
 
     # "Well,{w=0.3} aren't all friendships something like that in the end? I'm not that experienced on the topic, but I relax and follow Theo to the lunch queue."
-    ""
+    "Bon,{w=0.3} est-ce que toutes les amitiés ne sont pas quelque chose de ce style à la fin? Je n'ai pas d'expérience sur le sujet, mais je me détends et rejoins Theo dans la file."
 
 # game/story/chapter_1.rpy:1181
 translate French firm_deal_42d87d05:
 
     # D "No."
-    D ""
+    D "Non."
 
 # game/story/chapter_1.rpy:1183
 translate French firm_deal_7bfc995b:
 
     # "Theo seems taken aback by my direct denial."
-    ""
+    "Theo semble pris de court par mon refus direct."
 
 # game/story/chapter_1.rpy:1187
 translate French firm_deal_cf913e72:
 
     # T "Are you sure, dude? I swear it's no problem."
-    T ""
+    T "T'es sûr, mec? Je jure c'est pas un problème."
 
 # game/story/chapter_1.rpy:1189
 translate French firm_deal_ce504311:
 
     # D "No, thank you."
-    D ""
+    D "Non, merci."
 
 # game/story/chapter_1.rpy:1193
 translate French firm_deal_114995cf:
 
     # T "Oh,{w=0.3} okay."
-    T ""
+    T "Oh,{w=0.3} okay."
 
 # game/story/chapter_1.rpy:1195
 translate French firm_deal_f2e757aa:
 
     # "He deflates at my response."
-    ""
+    "Il se dégonfle à ma réponse."
 
 # game/story/chapter_1.rpy:1199
 translate French firm_deal_40b56469:
 
     # "Maybe it was pride or maybe just that gnawing gut feeling that I had to fend for myself, but{w=0.3} I couldn't accept this charity. Not now."
-    ""
+    "Peut-être que c'est de la fierté ou peut être juste un sentiement rongeant mes entrailles que je devait éliminer moi-même, mais{w=0.3} je ne pouvais pas accepter cette charité. Pas maintenant."
 
 # game/story/chapter_1.rpy:1201
 translate French firm_deal_7e9ee4c3:
 
     # "I'm already on a full scholarship, already at the receiving end of too much goodwill I might as well not deserve to already be freeloading from someone I just met."
-    ""
+    "J'ai déjà une bourse complète, déjà en train de recevoir trop par bonne volonté que je ne mériterais pas de déjà profiter de quelqu'un que je viens juste de rencontrer."
 
 # game/story/chapter_1.rpy:1203
 translate French firm_deal_03b96040:
 
     # "I hope he doesn't take this the wrong way and that we can continue to be friends, he's nice."
-    ""
+    "J'espère qu'il le ne prendra pas mal et que nous pourrons rester amis, il est sympa."
 
 # game/story/chapter_1.rpy:1208
 translate French firm_deal_b1f49308:
 
     # D "I{cps=5}...{/cps} I appreciate the offer,{w=0.3} I didn't mean to offend or anything."
-    D ""
+    D "Je{cps=5}...{/cps} J'apprécie l'offre,{w=0.3} je ne voulais pas t'offenser ou quoique ce soit."
 
 # game/story/chapter_1.rpy:1212
 translate French firm_deal_8bbc35b5:
 
     # "Theo raises an eyebrow at me."
-    ""
+    "Theo lève un sourcil à mon encontre."
 
 # game/story/chapter_1.rpy:1214
 translate French firm_deal_166b8b7e:
 
     # D "I could still help you with your history assignment though{cps=5}...{/cps}"
-    D ""
+    D "Je pourrais toujours t'aider avec ton devoir d'histoire cependant{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1218
 translate French firm_deal_90b7273c:
 
     # "Theo raises his eyebrow higher before breaking into a chuckle"
-    ""
+    "Theo lève son sourcil encore plus haut avant d'éclater en un gloussement."
 
 # game/story/chapter_1.rpy:1224
 translate French firm_deal_49b20899:
 
     # T "Dang dude don't sweat it. I'm not {cps=7}'offended'{/cps}{w=0.3}, I get it. "
-    T ""
+    T "La vache mec t'inquiètes. Je ne suis pas {cps=7}'offensé'{/cps}{w=0.3}, je comprends."
 
 # game/story/chapter_1.rpy:1228
 translate French firm_deal_2f786252:
 
     # D "Right{cps=5}...{/cps}"
-    D ""
+    D "D'accord{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1233
 translate French firm_deal_7b2793aa:
 
     # T "The vending machines are by the east wall, by the way."
-    T ""
+    T "Les distributeurs sont près de l'aile est, au fait."
 
 # game/story/chapter_1.rpy:1250
 translate French kind_deal_8a2a34a5:
 
     # "I hesitate, the weight of my wallet—or rather, the lack of it—pressing on my mind."
-    ""
+    "J'hésite, le poids de mon porte-monnaie-ou plutôt, son absence de poids-pesant dans mon esprit."
 
 # game/story/chapter_1.rpy:1252
 translate French kind_deal_95c368b5:
 
     # "Theo's offer was generous, but{w=0.3} something about accepting it doesn't sit right with me."
-    ""
+    "L'offre de Theo était généreuse, mais{w=0.3} quelque chose dans le fait de l'accepter ne collais pas avec moi."
 
 # game/story/chapter_1.rpy:1256
 translate French kind_deal_3ce16233:
 
     # D "Appreciate it, seriously, dude, but I'll manage.{w=0.3} Got to learn to survive on a budget sooner or later, right?"
-    D ""
+    D "J'apprécie, sérieusement, mec, mais je vais y arriver.{w=0.3} J'dois apprendre à survir à budget serré tôt ou tard, pas vrai?"
 
 # game/story/chapter_1.rpy:1260
 translate French kind_deal_f088f5ec:
 
     # "Theo raises an eyebrow."
-    ""
+    "Theo lève un sourcil."
 
 # game/story/chapter_1.rpy:1262
 translate French kind_deal_a0ccc7b5:
 
     # T "You sure, man? It's really not that big a deal."
-    T ""
+    T "T'es sûr, man? C'est vraiment pas un soucis."
 
 # game/story/chapter_1.rpy:1264
 translate French kind_deal_0b3e344f:
 
     # "He doesn't seem accustomed to being denied this way. I feel extra bad for him, and for me, but I can't accept his offering."
-    ""
+    "Il ne semble pas être habitué à se faire décliner comme ça. Je me sens encore plus mal pour lui, et pour moi, mais je ne peux pas accepter son offre."
 
 # game/story/chapter_1.rpy:1266
 translate French kind_deal_3bc61f9d:
 
     # "A full ride through college and an allowance are more than enough to ask from the world."
-    ""
+    "Un scolarité entière à la fac et une allocation sont déjà plus qu'assez à demander au monde."
 
 # game/story/chapter_1.rpy:1270
 translate French kind_deal_b23fe455:
 
     # D "Yeah I'm sure,{w=0.3} I can just get some snacks from the vending machines for today."
-    D ""
+    D "Ouais je suis sûr,{w=0.3} je peux juste aller prendre des snacks aux distributeurs pour aujourd'hui."
 
 # game/story/chapter_1.rpy:1274
 translate French kind_deal_f5e74fb6:
 
     # T "{cps=5}...{/cps}"
-    T ""
+    T "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1279
 translate French kind_deal_8b227f8e:
 
     # T "Suit yourself, man. The vending machines are by the east wall."
-    T ""
+    T "Fais toi plaisir, mec. Les distributeurs sont près de l'aile est."
 
 # game/story/chapter_1.rpy:1295
 translate French accept_deal_1dd53e35:
 
     # "We walk over to get our food when I notice there are two serving areas, marked as 'herbivore' and 'carnivore' respectively."
-    ""
+    "Nous marchons pour aller chercher notre nourriture quand je remarque qu'il y a deux zones de service, marquées 'herbivore' et 'carnivore' respectivement."
 
 # game/story/chapter_1.rpy:1297
 translate French accept_deal_ecbbc041:
 
     # "The herbivore side is full of leafy concoctions—towering salads,{w=0.2} steamed veggies,{w=0.2} and grains in every flavor."
-    ""
+    "Le côté herbivore est plein de concotions feuillues-salades immenses,{w=0.3} légumes vapeur;{w=0.2} et graines à tous les parfums."
 
 # game/story/chapter_1.rpy:1299
 translate French accept_deal_8aaac0ad:
 
     # "But then there is the carnivore side—burgers,{w=0.2} strips of bacon,{w=0.2} sausages."
-    ""
+    "Mais après il y a le côté carnivore-burgers,{w=0.2} tranche de lard,{w=0.2} saucisses."
 
 # game/story/chapter_1.rpy:1301
 translate French accept_deal_3b408f36:
 
     # "Theo heads straight for the carnivore section, grabbing a tray and piling on a little bit of everything."
-    ""
+    "Theo se dirige droit vers la section carnivore, attrapant un plateau et empilant un petit peu de tout."
 
 # game/story/chapter_1.rpy:1304
 translate French accept_deal_be54ef29:
 
     # "Checking out what they offer{cps=5}...{/cps} all the meat looks overcooked as charcoal and that the vegetables are drier than the freaking desert, and so{w=0.2} much{w=0.2} grease{cps=5}...{/cps}"
-    ""
+    "En vérifiant ce qu'ils servent{cps=5}...{/cps} toutes les viandes ont l'air noires comme du charbon et les légumes sont plus secs qu'un foutu désert, et telle{w=0.2}ment{w=0.2} de gras{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1305
 translate French accept_deal_eabae449:
 
     # "I've done better work back on my crappy kitchen stove."
-    ""
+    "J'ai déjà fait bien mieux sur ma cuisinière tout pourrie."
 
 # game/story/chapter_1.rpy:1306
 translate French accept_deal_e79d7b0b:
 
     # "Still,{w=0.3} I keep my mouth shut and grab a handful of anything that looks ok and end up with a medium filet mignon with a side of Caesar's salad and a small bowl of crème brulée."
-    ""
+    "Toutefois,{w=0.3} je garde ma bouche fermé et attrape une poignée de tout ce qui a l'air OK et termine avec un filet mignon saignant accompagné de salade César et un petit bol de crème brulée."
 
 # game/story/chapter_1.rpy:1307
 translate French accept_deal_9d4e450d:
 
     # "Theo has already stacked his tray with various meats by the time I join him in line. He has this huge drumstick in one hand, nibbling on it as we move forward."
-    ""
+    "Theo a déjà empilé son plateau avec des viandes variées au moment où je le rejoins dans la file. Il a cette énorme pilon dans une main, y grignottant tandis que nous avançons."
 
 # game/story/chapter_1.rpy:1308
 translate French accept_deal_0895ccec:
 
     # T "Dang,{w=0.3} you got your plate looking fancy!"
-    T ""
+    T "La vache,{w=0.3} tu t'es fait une assiette à l'air classe!"
 
 # game/story/chapter_1.rpy:1309
 translate French accept_deal_b1bb1bf1:
 
     # "Fancy?"
-    ""
+    "Classe?"
 
 # game/story/chapter_1.rpy:1310
 translate French accept_deal_03e5470d:
 
     # T "You can grab more if you want, I don't mind."
-    T ""
+    T "Tu peux prendre plus si tu veux, je m'en moque."
 
 # game/story/chapter_1.rpy:1311
 translate French accept_deal_cbae62d7:
 
     # D "Nah, I'm good.{w=0.3} This was all I could find that looked even edible."
-    D ""
+    D "Nan, ça me va.{w=0.3} C'était tout ce que j'ai pu trouver de comestible."
 
 # game/story/chapter_1.rpy:1312
 translate French accept_deal_dff7b6e8:
 
     # T "Uh{cps=5}...{/cps} sure, ok{cps=5}...{/cps}"
-    T ""
+    T "Uh{cps=5}...{/cps} d'accord, ok{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1315
 translate French accept_deal_d960da44:
 
     # "I grab and fill my tray with{cps=5}...{/cps}"
-    ""
+    "Je prends mon plateau et le rempli de{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1319
 translate French accept_deal_9d4e450d_1:
 
     # "Theo has already stacked his tray with various meats by the time I join him in line. He has this huge drumstick in one hand, nibbling on it as we move forward."
-    ""
+    "Theo a déjà empilé son plateau avec des viandes variées au moment où je le rejoins dans la file. Il a cette énorme pilon dans une main, y grignottant tandis que nous avançons."
 
 # game/story/chapter_1.rpy:1320
 translate French accept_deal_5276a38e:
 
     # T "You humans can eat anything and you still choose to eat grass?{w=0.3} For shame{cps=5}...{/cps}"
-    T ""
+    T "Vous les humains pouvez tout manger et tu choisi quand même de manger de l'herbe?{w=0.3} La honte{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1321
 translate French accept_deal_e9ea5f8c:
 
     # T "You sure you don't want some of this meaty goodness?"
-    T ""
+    T "T'es sûr que tu ne veux pas de ce délice viandu?"
 
 # game/story/chapter_1.rpy:1322
 translate French accept_deal_8f804097:
 
     # D "Nah, I'm good."
-    D ""
+    D "Nan, ça me va."
 
 # game/story/chapter_1.rpy:1325
 translate French accept_deal_9d4e450d_2:
 
     # "Theo has already stacked his tray with various meats by the time I join him in line. He has this huge drumstick in one hand, nibbling on it as we move forward."
-    ""
+    "Theo a déjà empilé son plateau avec des viandes variées au moment où je le rejoins dans la file. Il a cette énorme pilon dans une main, y grignottant tandis que nous avançons."
 
 # game/story/chapter_1.rpy:1326
 translate French accept_deal_239a58dc:
 
     # T "Oh dude, Samezies!"
-    T ""
+    T "Oh mec, tout pareil!"
 
 # game/story/chapter_1.rpy:1327
 translate French accept_deal_2a46760b:
 
     # T "You can grab more if you want by the way, I don't mind."
-    T ""
+    T "Tu peux prendre plus si tu veux, je m'en moque."
 
 # game/story/chapter_1.rpy:1328
 translate French accept_deal_8f804097_1:
 
     # D "Nah, I'm good."
-    D ""
+    D "Nan, ça me va"
 
 # game/story/chapter_1.rpy:1331
 translate French accept_deal_9d4e450d_3:
 
     # "Theo has already stacked his tray with various meats by the time I join him in line. He has this huge drumstick in one hand, nibbling on it as we move forward."
-    ""
+    "Theo a déjà empilé son plateau avec des viandes variées au moment où je le rejoins dans la file. Il a cette énorme pilon dans une main, y grignottant tandis que nous avançons."
 
 # game/story/chapter_1.rpy:1332
 translate French accept_deal_5984e0e2:
 
     # T "Man, this is good stuff. Are you sure you're good with only that?"
-    T ""
+    T "Mec, c'est des bons trucs. T'es sûr que ça t'ira avec juste ça?"
 
 # game/story/chapter_1.rpy:1333
 translate French accept_deal_03e5470d_1:
 
     # T "You can grab more if you want, I don't mind."
-    T ""
+    T "Tu peux en prendre plus si tu veux, je m'en moque."
 
 # game/story/chapter_1.rpy:1334
 translate French accept_deal_8f804097_2:
 
     # D "Nah, I'm good."
-    D ""
+    D "Nan, ça me va."
 
 # game/story/chapter_1.rpy:1337
 translate French accept_deal_9d4e450d_4:
 
     # "Theo has already stacked his tray with various meats by the time I join him in line. He has this huge drumstick in one hand, nibbling on it as we move forward."
-    ""
+    "Theo a déjà empilé son plateau avec des viandes variées au moment où je le rejoins dans la file. Il a cette énorme pilon dans une main, y grignottant tandis que nous avançons."
 
 # game/story/chapter_1.rpy:1338
 translate French accept_deal_f5e74fb6:
 
     # T "{cps=5}...{/cps}"
-    T ""
+    T "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1339
 translate French accept_deal_bb92e950:
 
     # T "You sure that is all you want?"
-    T ""
+    T "T'es sûr que c'est tout ce que tu veux?"
 
 # game/story/chapter_1.rpy:1340
 translate French accept_deal_7f50e911:
 
     # D "Yes."
-    D ""
+    D "Oui."
 
 # game/story/chapter_1.rpy:1341
 translate French accept_deal_ecc7613d:
 
     # T "You can get what you want obviously I just thi-{nw}"
-    T ""
+    T "Tu peux prendre ce que tu veux évidemment, je pensais just-"
 
 # game/story/chapter_1.rpy:1342
 translate French accept_deal_3802f7ce:
 
     # D "I'm good."
-    D ""
+    D "Ça me va."
 
 # game/story/chapter_1.rpy:1344
 translate French accept_deal_3345b762:
 
     # "He shrugs and continues eating."
-    ""
+    "Il hausse les épaules et continue de manger."
 
 # game/story/chapter_1.rpy:1346
 translate French accept_deal_5bde0a3e:
 
     # "I take a bite of my meal with one hand while the other holds the tray.{w=0.3} The food tastes slightly bitter because it was a gift, no matter the supposed payment I would have to give in the form of helping Theo with his school work."
-    ""
+    "Je prends un morceau de mon repas avec un main tandis que l'autre tient le plateau.{w=0.3} La nourriture est légèrement meilleure car c'est cadeau, peu importe le paiement supposé que je vais avoir à faire en la forme d'aider Theo avec ses devoirs."
 
 # game/story/chapter_1.rpy:1348
 translate French accept_deal_1c7ba286:
 
     # "For all I know, he might just be messing with me about how bad his history assignments are."
-    ""
+    "De ce que j'en sais, il pourrait juste me faire marcher à propos de la difficulté de ses devoirs d'histoires."
 
 # game/story/chapter_1.rpy:1350
 translate French accept_deal_8ee6fb13:
 
     # "In any case,{w=0.3} the food finds a way to battle past the bitterness and fill me with comfort. And so does Theo's happy mood."
-    ""
+    "Dans tous les cas,{w=0.3} la nourriture trouve un moyen de repousser l'amertume et m'emplit de réconfort. Ainsi que la bonne humeur de Theo."
 
 # game/story/chapter_1.rpy:1352
 translate French accept_deal_4cb4d5c4:
 
     # "We reach the cashier and Theo flashes his credit card for both our meals, gesturing for me to follow him to find seats in the crowded dining hall."
-    ""
+    "Nous atteignons la caisse et Theo passe sa carte de crédit pour nos deux repas, me faisant signe de le suivre pour trouver des places dans la salle à manger bondée."
 
 # game/story/chapter_1.rpy:1362
 translate French deny_deal_579c3fdc:
 
     # "I nod and make my way through the crowd, the noise fading as I leave the main hall."
-    ""
+    "J'aquiesse et me fraye un chemin à travers la foule, le bruit disparaîssant tandis que je quitte la salle principale."
 
 # game/story/chapter_1.rpy:1364
 translate French deny_deal_5b4d446d:
 
     # "Following Theo's direction, I spot the fluorescent lights of the vending machines."
-    ""
+    "Suivant les directions de Theo, je repère les lumières fluorescentes des distributeurs."
 
 # game/story/chapter_1.rpy:1366
 translate French deny_deal_9ffbb1b5:
 
     # "Surprisingly, despite there being quite a few machines, my choices are limited;{w=0.3} they all seem to hold basically the same stuff."
-    ""
+    "Surprenamment, en dépit qu'il y ait plusieurs machines, mes choix sont limités;{w=0.3} elles sembles toutes contenir essentiellement la même chose."
 
 # game/story/chapter_1.rpy:1368
 translate French deny_deal_7e1ad306:
 
     # "I feed several dollars into one of the machines, mourning the feel of my lighter pockets."
-    ""
+    "J'insère quelques dollars dans l'une des machines, pleurant à la sensation de mes poches plus vides."
 
 # game/story/chapter_1.rpy:1371
 translate French deny_deal_c367ef5e:
 
     # "Nothing looks all that good on its own, but{cps=5}...{/cps} cheddar popcorn, pretzels, mixed nuts, raisins, and some chocolate bites. Its not exactly high culinary arts, but I could make a trail mix from that. Would probably last me all day even."
-    ""
+    "Rien ne semble si bon par soi-même, mais{cps=5}...{/cps} popcorn au cheddar, bretzels, mélange de noix, raisins et quelques barres de chocolat. C'est pas exactement de la haute cuisine, mais je pourrais bivouaquer avec ça. Ça pourrait même probablement durer la journée."
 
 # game/story/chapter_1.rpy:1373
 translate French deny_deal_198894ff:
 
     # "With my meager dinner in hand, I walk back to where Theo waits, his plate piled high with what looks like half the menu."
-    ""
+    "Avec mon maigre repas en main, je retourne vers là où Theo attend, son plateau bien empilé avec ce qui apparaît être la moitié du menu."
 
 # game/story/chapter_1.rpy:1374
 translate French deny_deal_e57a39c0:
 
     # "All of which is meat."
-    ""
+    "Tout ce qui est de la viande."
 
 # game/story/chapter_1.rpy:1375
 translate French deny_deal_63bd357f:
 
     # "As I approach, he eyes my selection."
-    ""
+    "Tandis que j'approche, il lorgne ma sélection."
 
 # game/story/chapter_1.rpy:1376
 translate French deny_deal_79f48e0a:
 
     # T "Dang,{w=0.3} you buy out a whole machine!"
-    T ""
+    T "La vache,{w=0.3} t'as acheté tout une machine!"
 
 # game/story/chapter_1.rpy:1377
 translate French deny_deal_5d27d87a:
 
     # D "Going to make a trail mix."
-    D ""
+    D "Je vais me faire un repas de randonneur."
 
 # game/story/chapter_1.rpy:1378
 translate French deny_deal_60570914:
 
     # "He gives me a grin."
-    ""
+    "Il me fait un sourire."
 
 # game/story/chapter_1.rpy:1379
 translate French deny_deal_1bc379dc:
 
     # T "Well look at mister 'master chef' over here!{w=0.3} Anyways lets go grab a seat."
-    T ""
+    T "Hé ben regardez ici môssieur 'Top chef'!{w=0.3} Enfin bref allons chercher un siège."
 
 # game/story/chapter_1.rpy:1382
 translate French deny_deal_dc9d075f:
 
     # "I choose{cps=5}...{/cps}"
-    ""
+    "Je choisis{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1386
 translate French deny_deal_198894ff_1:
 
     # "With my meager dinner in hand, I walk back to where Theo waits, his plate piled high with what looks like half the menu."
-    ""
+    "Avec mon maigre repas en main, je retourne vers là où Theo attend, son plateau bien empilé avec ce qui apparaît être la moitié du menu."
 
 # game/story/chapter_1.rpy:1387
 translate French deny_deal_e57a39c0_1:
 
     # "All of which is meat."
-    ""
+    "Tout ce qui est de la viande."
 
 # game/story/chapter_1.rpy:1388
 translate French deny_deal_63bd357f_1:
 
     # "As I approach, he eyes my selection."
-    ""
+    "Tandis que j'approche, il lorgne ma sélection."
 
 # game/story/chapter_1.rpy:1389
 translate French deny_deal_906ee8b8:
 
     # T "Bit of a sweet tooth huh?"
-    T ""
+    T "Un faible pour les sucreries, hein?"
 
 # game/story/chapter_1.rpy:1390
 translate French deny_deal_a92c4ff6:
 
     # "There's a note of hurt in his sarcasm."
-    ""
+    "Il y a une note de blessure dans son sarcasme."
 
 # game/story/chapter_1.rpy:1391
 translate French deny_deal_b894ef70:
 
     # "Guess things weren't off to a great start."
-    ""
+    "J'imagine que les choses ne partaient pas bien."
 
 # game/story/chapter_1.rpy:1392
 translate French deny_deal_0f1ba46c:
 
     # D "Yep."
-    D ""
+    D "Ouaip."
 
 # game/story/chapter_1.rpy:1395
 translate French deny_deal_198894ff_2:
 
     # "With my meager dinner in hand, I walk back to where Theo waits, his plate piled high with what looks like half the menu."
-    ""
+    "Avec mon maigre repas en main, je retourne vers là où Theo attend, son plateau bien empilé avec ce qui apparaît être la moitié du menu."
 
 # game/story/chapter_1.rpy:1396
 translate French deny_deal_e57a39c0_2:
 
     # "All of which is meat."
-    ""
+    "Tout ce qui est de la viande."
 
 # game/story/chapter_1.rpy:1397
 translate French deny_deal_63bd357f_2:
 
     # "As I approach, he eyes my selection."
-    ""
+    "Tandis que j'approche, il lorgne ma sélection."
 
 # game/story/chapter_1.rpy:1398
 translate French deny_deal_a77a63cd:
 
     # T "Feast fit for a king?"
-    T ""
+    T "Un repas digne d'un roi?"
 
 # game/story/chapter_1.rpy:1399
 translate French deny_deal_a92c4ff6_1:
 
     # "There's a note of hurt in his sarcasm."
-    ""
+    "Il y a une note de blessure dans son sarcasme."
 
 # game/story/chapter_1.rpy:1400
 translate French deny_deal_b894ef70_1:
 
     # "Guess things weren't off to a great start."
-    ""
+    "J'imagine que les choses ne partaient pas bien."
 
 # game/story/chapter_1.rpy:1401
 translate French deny_deal_0f1ba46c_1:
 
     # D "Yep."
-    D ""
+    D "Ouaip."
 
 # game/story/chapter_1.rpy:1404
 translate French deny_deal_198894ff_3:
 
     # "With my meager dinner in hand, I walk back to where Theo waits, his plate piled high with what looks like half the menu."
-    ""
+    "Avec mon maigre repas en main, je retourne vers là où Theo attend, son plateau bien empilé avec ce qui apparaît être la moitié du menu."
 
 # game/story/chapter_1.rpy:1405
 translate French deny_deal_e57a39c0_3:
 
     # "All of which is meat."
-    ""
+    "Tout ce qui est de la viande."
 
 # game/story/chapter_1.rpy:1406
 translate French deny_deal_63bd357f_3:
 
     # "As I approach, he eyes my selection."
-    ""
+    "Tandis que j'approche, il lorgne ma sélection."
 
 # game/story/chapter_1.rpy:1407
 translate French deny_deal_bd9c77dc:
 
     # T "Guess I can't completely fault you,{w=0.3} use to be obsessed with Bob Link's in high school."
-    T ""
+    T "J'imagine que je peux pas complétement te blâmer,{w=0.3} j'étais obsédé par les Bob Link's au lycée."
 
 # game/story/chapter_1.rpy:1408
 translate French deny_deal_f4a5b3d8:
 
     # "There's a note of hurt in his voice."
-    ""
+    "Il y a une note de blessure dans sa voix."
 
 # game/story/chapter_1.rpy:1409
 translate French deny_deal_b894ef70_2:
 
     # "Guess things weren't off to a great start."
-    ""
+    "J'imagine que les choses ne partaient pas bien."
 
 # game/story/chapter_1.rpy:1410
 translate French deny_deal_0f1ba46c_2:
 
     # D "Yep."
-    D ""
+    D "Ouaip."
 
 # game/story/chapter_1.rpy:1448
 translate French introducing_becca_c79d21a6:
 
     # "We maneuver through the crowd, and Theo leads me to a quieter corner where a girl{w=0.3} with spiky hair and spikier clothes sits alone{w=0.1}, her eyes glued to a laptop screen. A half-eaten sandwich lies forgotten beside her."
-    ""
+    "Nous manoeuvrons à travers la foule, et Theo m'amène à un coin plus tranquille où une fille{w=0.3} avec des cheveux en lame et des vêtements plus lacérés est assise seule.{w=0.1}, ses yeux glués à son écran d'ordinateur. Un sandwich entamé est oublié à côté d'elle."
 
 # game/story/chapter_1.rpy:1452
 translate French introducing_becca_146e6f7b:
 
     # T "And this here is my amazing{w=0.1}, awesome{w=0.1}, beautiful{w=0.1} sister Rebecca!"
-    T ""
+    T "Et voici ma merveilleuse{w=0.1}, génialissime{w=0.1}, magnifique{w=0.1} soeur Rebecca!"
 
 # game/story/chapter_1.rpy:1458
 translate French introducing_becca_9a4a4bbe:
 
     # "The dino snaps her head towards Theo in an angry snarl.{w=0.3} Her fangs are even spikier."
-    ""
+    "La dino tourne sa tête vers Theo dans un grongnement colérique.{w=0.3} Ses crocs sont encore plus tranchants."
 
 # game/story/chapter_1.rpy:1460
 translate French introducing_becca_c5cf5fb4:
 
     # R "Theo I swear,{w=0.3} I don't want to meet another one of your new-"
-    R ""
+    R "Theo je jure,{w=0.3} je ne veux pas rencontrer un autre de tes nouve-"
 
 # game/story/chapter_1.rpy:1464
 translate French introducing_becca_4a6871c6:
 
     # "Her eyes flick up briefly before staring at me."
-    ""
+    "Ses yeux clignent brièvement avant de m'observer."
 
 # game/story/chapter_1.rpy:1466
 translate French introducing_becca_74ac987f:
 
     # D "{cps=5}...{/cps}"
-    D ""
+    D "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1468
 translate French introducing_becca_6fa205ee:
 
     # "{cps=5}...{/cps}{w=0.3} I should probably say something."
-    ""
+    "{cps=5}...{/cps}{w=0.3} Je devrais probablement dire quelque chose."
 
 # game/story/chapter_1.rpy:1474
 translate French introducing_becca_03fada0d:
 
     # D "Uh{w=0.3}, hi{cps=5}...{/cps} I'm Dev."
-    D ""
+    D "Euh{w=0.3}, salut{cps=5}...{/cps} je m'appelle Dev."
 
 # game/story/chapter_1.rpy:1476
 translate French introducing_becca_af0de72b:
 
     # "Smooth Dev{w=0.1}, real smooth."
-    ""
+    "Propre Dev{w=0.1}, très propre."
 
 # game/story/chapter_1.rpy:1480
 translate French introducing_becca_072d2072:
 
     # R "{cps=5}...{/cps}{nw=0.2}"
-    R ""
+    R "{cps=5}...{/cps}{nw=0.2}"
 
 # game/story/chapter_1.rpy:1486
 translate French introducing_becca_0a183b77:
 
     # extend " You're{w=0.3} a human{cps=5}...{/cps} "
-    extend ""
+    extend " T'es{w=0.3} un humain{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1490
 translate French introducing_becca_15c373b5:
 
     # "An uncomfortable laugh escapes my mouth."
-    ""
+    "Un rire inconforable s'échappe de ma bouche."
 
 # game/story/chapter_1.rpy:1495
 translate French introducing_becca_239083eb:
 
     # D "Last I checked{cps=5}...{/cps} Is that an issue?"
-    D ""
+    D "Aux dernières nouvelles{cps=5}...{/cps} C'est un problème?"
 
 # game/story/chapter_1.rpy:1500
 translate French introducing_becca_ee89c4f1:
 
     # R "{cps=5}...{/cps}"
-    R ""
+    R "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1507
 translate French introducing_becca_3b367fa7:
 
     # R "No."
-    R ""
+    R "Non."
 
 # game/story/chapter_1.rpy:1534
 translate French introducing_becca_1d30f4e5:
 
     # "And with that, she turns away. Her fingers are already dancing across the keys."
-    ""
+    "Et avec ça, elle se retourne. Ses doigts dansent déjà sur les touches."
 
 # game/story/chapter_1.rpy:1538
 translate French introducing_becca_3f739ce1:
 
     # "I sigh."
-    ""
+    "Je soupire."
 
 # game/story/chapter_1.rpy:1542
 translate French introducing_becca_7d069490:
 
     # T "Don't worry{w=0.3}, the fact she is even talking to you means she likes you."
-    T ""
+    T "Ne t'inquiètes pas{w=0.3}, le fait qu'elle t'ait parlé signifie qu'elle t'aime bien."
 
 # game/story/chapter_1.rpy:1550
 translate French introducing_becca_942932d2:
 
     # "Judging by the absolute death glare she is giving Theo I question whether that is true."
-    ""
+    "À en juger par le regard assasin absolu qu'elle jette à Theo je doute que ça soit vrai."
 
 # game/story/chapter_1.rpy:1578
 translate French introducing_becca_85bbff4a:
 
     # T "You don't really see humans here{w=0.2}, or even in town."
-    T ""
+    T "On voit pas vraiment des humains par ici{w=0.2}, ou même en ville."
 
 # game/story/chapter_1.rpy:1582
 translate French introducing_becca_8d5f1750:
 
     # T "Was like that even last year."
-    T ""
+    T "C'était déjà comme ça l'an dernier."
 
 # game/story/chapter_1.rpy:1586
 translate French introducing_becca_eb6875dd:
 
     # D "Really?"
-    D ""
+    D "Vraiment?"
 
 # game/story/chapter_1.rpy:1590
 translate French introducing_becca_ada30134:
 
     # T "Yep{w=0.3}, you're a bit of a rarity at CCC."
-    T ""
+    T "Ouaip{w=0.3}, t'es un peu une rareté à la FCI."
 
 # game/story/chapter_1.rpy:1594
 translate French introducing_becca_f1f2faa3:
 
     # "I remember Elliot's comment about me being the only human here.{w=0.2} Huh{w=0.3}, did no one else apply the same scholarship I got?"
-    ""
+    "Je me rappelle du commentaire d'Elliot sur moi étant le seul humain ici.{w=0.2} Huh{w=0.3}, personne d'autre n'a postulé pour la même bourse que j'ai eu?"
 
 # game/story/chapter_1.rpy:1598
 translate French introducing_becca_09a45c68:
 
     # D "Well{w=0.3}, no one really seems to care if that is the case."
-    D ""
+    D "Bon{w=0.3}, tout le monde s'en moque si c'est le cas."
 
 # game/story/chapter_1.rpy:1600
 translate French introducing_becca_ce5cb190:
 
     # R "People have far more to worry about here than some random human walking around."
-    R ""
+    R "Les gens ont des choses bien plus préocupantes ici qu'un humain se baladant ici au hasard."
 
 # game/story/chapter_1.rpy:1604
 translate French introducing_becca_20373c13:
 
     # "Harsh{w=0.3}, but fair{cps=5}...{/cps}"
-    ""
+    "C'est dur{w=0.3}, mais juste{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1606
 translate French introducing_becca_edd55f3d:
 
     # "Despite her comments, her gaze remains fixed on her screen. The steady click-click-click of her typing somehow cuts through the noise."
-    ""
+    "En dépit de ses commentaires, son regard reste fixé sur son écran. Le clic-clic-clic constant de son écriture au clavier étrangement coupe à travers le bruit."
 
 # game/story/chapter_1.rpy:1612
 translate French introducing_becca_106c918a:
 
     # "I try to focus on my food, but my thoughts keep drifting."
-    ""
+    "J'essaie de me concentrer sur ma nourriture, mais mes pensées continuent de diverger."
 
 # game/story/chapter_1.rpy:1614
 translate French introducing_becca_c1d02fa4:
 
     # "It was weird to be sitting here, sharing a meal with two near-strangers{w=0.3}, one of whom seemed as though she'd rather be alone and another who couldn't wait to spend the rest of his day dragging me all over the campus."
-    ""
+    "C'était bizarre d'être assis ici, partageant un repas avec deux presque-inconnus{w=0.3}, un d'entre eux qui semblait préférer être seule et l'autre qui ne pouvait attendre de passer le reste de sa journée à me traîner à travers tout le campus."
 
 # game/story/chapter_1.rpy:1616
 translate French introducing_becca_847b79ca:
 
     # "I've never really been this far from home before, and this is going to be my life for the next several years."
-    ""
+    "Je n'ai jamais été aussi loin de la maison avant, et ça va être comme ça pour les prochaines années."
 
 # game/story/chapter_1.rpy:1622
 translate French introducing_becca_800d37ee:
 
     # T "So{w=0.2}, Dev{w=0.2}, what brought you to CCC?"
-    T ""
+    T "Donc{w=0.2}, Dev{w=0.2}, qu'est ce qui t'a ammené à la FCI?"
 
 # game/story/chapter_1.rpy:1624
 translate French introducing_becca_ec466717:
