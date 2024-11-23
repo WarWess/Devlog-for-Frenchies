@@ -622,7 +622,7 @@ translate French chapter_1_aba19dc3:
 translate French chapter_1_b3d5482c:
 
     # "I check it again,{w=0.3} trying to convince myself that I was going the right way."
-    "Je la regarde encore,{w=0.3} essayant de me convaincre que j'allais au bon endroit."
+    "Je la vérifie encore,{w=0.3} essayant de me convaincre que j'allais au bon endroit."
 
 # game/story/chapter_1.rpy:608
 translate French chapter_1_d1048ba9:
@@ -1486,7 +1486,7 @@ translate French accept_deal_be54ef29:
 translate French accept_deal_eabae449:
 
     # "I've done better work back on my crappy kitchen stove."
-    "J'ai déjà fait bien mieux sur ma cuisinière tout pourrie."
+    "J'ai déjà fait bien mieux sur ma cuisinière toute pourrie."
 
 # game/story/chapter_1.rpy:1306
 translate French accept_deal_e79d7b0b:
@@ -1738,13 +1738,13 @@ translate French deny_deal_5d27d87a:
 translate French deny_deal_60570914:
 
     # "He gives me a grin."
-    "Il me fait un sourire."
+    "Il me lance un grand sourire."
 
 # game/story/chapter_1.rpy:1379
 translate French deny_deal_1bc379dc:
 
     # T "Well look at mister 'master chef' over here!{w=0.3} Anyways lets go grab a seat."
-    T "Hé ben regardez ici môssieur 'Top chef'!{w=0.3} Enfin bref allons chercher un siège."
+    T "Hé ben voyez ici môssieur 'Top chef'!{w=0.3} Enfin bref allons chercher un siège."
 
 # game/story/chapter_1.rpy:1382
 translate French deny_deal_dc9d075f:
@@ -2074,1459 +2074,1459 @@ translate French introducing_becca_800d37ee:
 translate French introducing_becca_ec466717:
 
     # D "Scholarship."
-    D ""
+    D "La bourse."
 
 # game/story/chapter_1.rpy:1628
 translate French introducing_becca_23e8cc1d:
 
     # T "Really?{w=0.2} That's sick dude!"
-    T ""
+    T "Vraiment?{w=0.2} C'est ouf mec!"
 
 # game/story/chapter_1.rpy:1634
 translate French introducing_becca_6daa40cf:
 
     # R "Lucky you{cps=5}...{/cps}"
-    R ""
+    R "T'en as de la chance{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1640
 translate French introducing_becca_4d559994:
 
     # T "What was the scholarship for{w=0.2}, you some sort of genius or sports star!"
-    T ""
+    T "C'est pour quelle raison la bourse{w=0.2}, t'es une sorte de génie ou de star du sport?"
 
 # game/story/chapter_1.rpy:1649
 translate French introducing_becca_2cb1ba2d:
 
     # "He gives me a playful nudge."
-    ""
+    "Il me donne un coup de coude espiègle."
 
 # game/story/chapter_1.rpy:1656
 translate French introducing_becca_e6668ede:
 
     # D "For being human I think{cps=5}...{/cps}?{nw=0.3}"
-    D ""
+    D "Pour être un humain j'imagine{cps=5}...{/cps}?{nw=0.3}"
 
 # game/story/chapter_1.rpy:1658
 translate French introducing_becca_78039ae2:
 
     # extend " I don't really fully understand it myself to be honest."
-    extend ""
+    extend " Je ne comprends pas complétement moi même pour être honnête."
 
 # game/story/chapter_1.rpy:1660
 translate French introducing_becca_f574a710:
 
     # "They both look at me with a confused expression."
-    ""
+    "Ils me dévisagent tous les deux avec une expression confuse."
 
 # game/story/chapter_1.rpy:1662
 translate French introducing_becca_1cc06d8a:
 
     # D "I looked it up and it seemed to be something to try and get more humans in these fancier colleges. There was even some big lawsuit about it."
-    D ""
+    D "J'ai cherché et ça semblait être quelque chose pour essayer d'avoir plus d'humains dans les universités les plus renommées. Il y a même eu un gros procès à ce propos."
 
 # game/story/chapter_1.rpy:1668
 translate French introducing_becca_612af6c6:
 
     # T "But you're the only one here."
-    T ""
+    T "Mais t'es le seul ici."
 
 # game/story/chapter_1.rpy:1674
 translate French introducing_becca_99e88900:
 
     # D "I know{cps=5}...{/cps} I mean{w=0.3} it's weird enough no one else got the scholarship, but{w=0.3} you'd think even without it there would be more humans here."
-    D ""
+    D "Je sais{cps=5}...{/cps} Je veux dire{w=0.3} c'est assez étrange que personne d'autre n'ait eu la même bourse, mais{w=0.3} on pourrait penser que même sans il y aurait plus d'humains ici."
 
 # game/story/chapter_1.rpy:1678
 translate French introducing_becca_a57bd493:
 
     # R "Not really. Dinosaurs are just better suited for college than humans."
-    R ""
+    R "Pas vraiment. Les dinosaures sont justes mieux adaptés pour la fac que les humains."
 
 # game/story/chapter_1.rpy:1682
 translate French introducing_becca_e968267a:
 
     # T "{cps=6}Rebecca...{/cps}"
-    T ""
+    T "{cps=6}Rebecca...{/cps}"
 
 # game/story/chapter_1.rpy:1688
 translate French introducing_becca_e5bc7244:
 
     # R "It's true. Our memory and attention span are better. Makes cramming for SATs and entry exams a breeze compared to humans."
-    R ""
+    R "C'est vrai. Notre mémoire et temps d'attention sont meilleurs. Ça change le bachotage et les examens d'entrées en un jeu d'enfant comparé aux humains."
 
 # game/story/chapter_1.rpy:1692
 translate French introducing_becca_11fc662e:
 
     # D "That's{cps=5}...{/cps}{w=0.3} I don't think that's true{cps=5}...{/cps}"
-    D ""
+    D "C'est{cps=5}...{/cps}{w=0.3} Je ne pense pas que ça soit vrai{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1696
 translate French introducing_becca_da30bf8c:
 
     # T "It's not{w=0.3}, she is just messing with you."
-    T ""
+    T "C'est faux{w=0.3}, elle se moque juste de toi."
 
 # game/story/chapter_1.rpy:1703
 translate French introducing_becca_434e4ac0:
 
     # R "Am I?"
-    R ""
+    R "Ah bon?"
 
 # game/story/chapter_1.rpy:1730
 translate French introducing_becca_74ac987f_1:
 
     # D "{cps=5}...{/cps}"
-    D ""
+    D "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1734
 translate French introducing_becca_ffd0fc31:
 
     # D "Right{cps=5}...{/cps} Well{cps=5}...{/cps}{nw=0.5}"
-    D ""
+    D "D'accord{cps=5}...{/cps} Bon{cps=5}...{/cps}{nw=0.5}"
 
 # game/story/chapter_1.rpy:1738
 translate French introducing_becca_a794adbc:
 
     # extend " It doesn't help that it's all so different here.{w=0.3} And I don't really know anyone."
-    extend ""
+    extend " Ça n'aide pas que tout soit si différent ici.{w=0.3} Et je ne connais pas vraiment personne."
 
 # game/story/chapter_1.rpy:1744
 translate French introducing_becca_a11fcce1:
 
     # "Theo laughs, momentarily confusing me."
-    ""
+    "Theo rit, ce qui m'étonne momentanément."
 
 # game/story/chapter_1.rpy:1748
 translate French introducing_becca_83abfefc:
 
     # T "You know me!{w=0.3} And now you know Rebecca.{w=0.2} Are you saying we're no one?"
-    T ""
+    T "Tu me connais!{w=0.3} Et maintenant tu connais Rebecca.{w=0.2} T'es en train d'insinuer qu'on est personne?"
 
 # game/story/chapter_1.rpy:1756
 translate French introducing_becca_e67b4161:
 
     # "He nudges his sister with an elbow but earns only an annoyed glance."
-    ""
+    "Il donne un coup de coude à sa soeur mais reçoit seulement un regard agacée."
 
 # game/story/chapter_1.rpy:1786
 translate French introducing_becca_13dda9c9:
 
     # D "No, of course not."
-    D ""
+    D "No, bien sûr que non."
 
 # game/story/chapter_1.rpy:1790
 translate French introducing_becca_0d1d6a52:
 
     # D "But there's more to college than just meeting people{w=0.3}, isn't there?"
-    D ""
+    D "Mais la fac c'est plus que simplement rencontrer des gens{w=0.3}, pas vrai?"
 
 # game/story/chapter_1.rpy:1794
 translate French introducing_becca_772a8f6a:
 
     # T "Making friends is just the beginning. You'll find your groove{w=0.2}, dive into projects{w=0.2}, and before you know it{w=0.1}, you're part of the fabric here."
-    T ""
+    T "Se faire des amis c'est juste le début. Tu vas trouver ta place{w=0.2}, te plonger dans des projets{w=0.2}, et avant que tu le saches{w=0.1}, tu feras partie du décor."
 
 # game/story/chapter_1.rpy:1799
 translate French introducing_becca_31b90d53:
 
     # "Rebecca suddenly stops typing and looks up at her brother with a scowl."
-    ""
+    "Rebecca s'arrête soudainement de taper et fixe son frère avec un grognement."
 
 # game/story/chapter_1.rpy:1807
 translate French introducing_becca_912f1107:
 
     # R "He just met us{w=0.2}, so just stop acting like we've known each other for years or something."
-    R ""
+    R "Il vient tout juste de nous rencontrer{w=0.2}, alors arrête de te comporter comme si on se connaîssait depuis des années."
 
 # game/story/chapter_1.rpy:1811
 translate French introducing_becca_99c8be04:
 
     # "I mean{w=0.3}, she isn't wrong, but{cps=5}...{/cps} it still seems a bit rude."
-    ""
+    "Je veux dire{w=0.3}, elle n'a pas tort, mais{cps=5}...{/cps} c'était quand même un peu méchant."
 
 # game/story/chapter_1.rpy:1817
 translate French introducing_becca_47d6d44f:
 
     # T "Ehh, don't mind miss grumpy. She gets like this sometimes, but she doesn't mean anything by it."
-    T ""
+    T "Ehh, t'occupes pas de Miss grognon. Elle est comme ça parfois, mais elle n'y pense rien."
 
 # game/story/chapter_1.rpy:1825
 translate French introducing_becca_e9b941a4:
 
     # R "Stop acting like I'm not here{cps=5}...{/cps} or like I'm a child!"
-    R ""
+    R "Arrête d'agir comme si j'étais pas là{cps=5}...{/cps} ou que j'étais une gamine!"
 
 # game/story/chapter_1.rpy:1832
 translate French introducing_becca_8462e7d2:
 
     # T "Becca, your warm and fuzzy welcome is exactly why I brought Dev here.{w=0.3} Wanted him to feel right at home."
-    T ""
+    T "Becca, ton acceuil doux et chaleureux est exactement ce pourquoi j'ai amené Dev ici.{w=0.3} Je voulais qu'il se sente comme à la maison."
 
 # game/story/chapter_1.rpy:1838
 translate French introducing_becca_ee89c4f1_1:
 
     # R "{cps=5}...{/cps}"
-    R ""
+    R "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1865
 translate French introducing_becca_50131430:
 
     # T "Anyway{w=0.3}, all I'm trying to say is to not let the college scare you. You'll find your way."
-    T ""
+    T "Bref{w=0.3}, tout ce que j'essaie de dire c'est de ne pas laisser la face te faire peur. Tu trouveras ta voie."
 
 # game/story/chapter_1.rpy:1871
 translate French introducing_becca_c2c6d0c5:
 
     # "Rebecca snorts but says nothing."
-    ""
+    "Rebecca ronchonne mais ne dit rien."
 
 # game/story/chapter_1.rpy:1877
 translate French introducing_becca_d556042a:
 
     # T "Or Becca{w=0.3}—don't let her scare you, either."
-    T ""
+    T "Ou Becca{w=0.3}-ne la laisse pas t'effrayer non plus."
 
 # game/story/chapter_1.rpy:1884
 translate French introducing_becca_5f2c69dd:
 
     # R "Theo, if he runs off because of me, he isn't going to last here long anyway."
-    R ""
+    R "Theo, s'il s'enfuit à cause de moi, il ne durera pas longtemps ici dans ce cas."
 
 # game/story/chapter_1.rpy:1912
 translate French introducing_becca_3f371a2a:
 
     # "She seems{cps=5}...{/cps}"
-    ""
+    "Elle semble{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1914
 translate French introducing_becca_f822e506:
 
     # "{cps=5}...{/cps}"
-    ""
+    "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1918
 translate French introducing_becca_da578d08:
 
     # "Actually{w=0.5}, I don't know what to make of her."
-    ""
+    "En fait{w=0.5}, je ne sais pas quoi penser d'elle."
 
 # game/story/chapter_1.rpy:1922
 translate French introducing_becca_f3f06e3d:
 
     # "She has been focused on her laptop nearly this whole time, typing up a storm about{cps=5}...{/cps} something."
-    ""
+    "Elle était concentrée sur son ordinateur presque tout ce temps, écrivant des pavés à propose de{cps=5}...{/cps} quelque chose."
 
 # game/story/chapter_1.rpy:1924
 translate French introducing_becca_f3e190c7:
 
     # "I'm not at a good angle to really see what it is{w=0.3}, and I don't want to seem like I'm spying."
-    ""
+    "Je ne suis pas à un bon angle pour vraiment voir ce que c'est{w=0.3}, et je ne veux pas avoir l'air d'espionner."
 
 # game/story/chapter_1.rpy:1928
 translate French introducing_becca_730ad955:
 
     # "Maybe I should just ask."
-    ""
+    "Peut-être que je devrais juste demander."
 
 # game/story/chapter_1.rpy:1932
 translate French introducing_becca_f691dae6:
 
     # "A sort of icebreaker{w=0.3}, even if she doesn't exactly seem like she likes me{cps=5}...{/cps}"
-    ""
+    "Pour briser la glace en quelque sorte{w=0.3}, même si elle n'a pas exactement l'air de m'aimer{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1938
 translate French introducing_becca_0702df45:
 
     # D "So{w=0.3}, what are you writing?"
-    D ""
+    D "Alors{w=0.3}, qu'est ce que tu écris?"
 
 # game/story/chapter_1.rpy:1942
 translate French introducing_becca_97d4e3e4:
 
     # "Rebecca's eyes flick up, wide for a moment{nw}"
-    ""
+    "Les yeux de Rebecca clignent, élargis pendant un instant{nw}"
 
 # game/story/chapter_1.rpy:1944
 translate French introducing_becca_1dba352a:
 
     # extend " before turning into a sharp scowl."
-    extend ""
+    extend " avant que se transformer en un froncement sévère."
 
 # game/story/chapter_1.rpy:1946
 translate French introducing_becca_fc38ee0f:
 
     # R "Mind your own business."
-    R ""
+    R "Mèle toi de tes affaires."
 
 # game/story/chapter_1.rpy:1970
 translate French introducing_becca_a0c60466:
 
     # "Okay{w=0.5}, guess I struck a nerve."
-    ""
+    "Okay{w=0.5}, je crois que j'ai touché une corde sensible."
 
 # game/story/chapter_1.rpy:1972
 translate French introducing_becca_c4d17a9c:
 
     # "I shrug{w=0.3}, focus back on my food, but I can't help but feel a little stung. I was just trying to make conversation{cps=5}...{/cps}"
-    ""
+    "Je hausse les épaules{w=0.3}, me reconcentrant sur ma nourriture, mais je ne peux m'empêché de me sentir un peu blessé. J'essayais juste de faire la conversation{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:1973
 translate French introducing_becca_811a00b6:
 
     # "Theo is done with his plate, wiping his mouth with the back of his hand."
-    ""
+    "Theo a fini son assiette, essuyant sa bouche avec le dos de sa main."
 
 # game/story/chapter_1.rpy:1975
 translate French introducing_becca_925157fc:
 
     # "He leans back in his chair, eyes catching mine for a moment before they shift to Rebecca.{w=0.3} He gives me a sly grin."
-    ""
+    "Il se penche sur sa chaise, ses yeux trouvant les miens pendant un instant avant de glisser vers Rebecca.{w=0.3} Il me lance un sourire malin."
 
 # game/story/chapter_1.rpy:1985
 translate French introducing_becca_2de68702:
 
     # "With cat-like stealth, Theo slides up behind Rebecca, peering over her shoulder."
-    ""
+    "Avec la discrétion d'un chat, Theo se glisse derrière Rebecca, observant par dessus son épaule."
 
 # game/story/chapter_1.rpy:1988
 translate French introducing_becca_e9c268f9:
 
     # T "{i}\"The Chimera launch themselves at you once again, a writhing mass of bodies holding you in place, the strength of a half-dozen arms finally overpowering yours—\"{/i}"
-    T ""
+    T "{i}\"La Chimère s'élance sur vous une fois de plus, une masse distordue de corps vous maintenant en place, la force d'une demi-douzaine de bras dominant finallement votre-\"{/i}"
 
 # game/story/chapter_1.rpy:2001
 translate French introducing_becca_206faf04:
 
     # "Rebecca's cheeks flare red as she whirls around, shoving him away."
-    ""
+    "Les joues de Rebecca virent au rouge tandis qu'elle se retourne, le repoussant"
 
 # game/story/chapter_1.rpy:2004
 translate French introducing_becca_102ffe31:
 
     # R "Theo! Get out of my stuff!"
-    R ""
+    R "Theo! Dégage de mes affaires!"
 
 # game/story/chapter_1.rpy:2005
 translate French introducing_becca_8c398835:
 
     # "Her voice is half an octave higher than before."
-    ""
+    "Sa voix est un demi-octave plus haut qu'avant."
 
 # game/story/chapter_1.rpy:2009
 translate French introducing_becca_c425431e:
 
     # T "Aww don't be like that Becca{w=0.3}, it was just getting good!"
-    T ""
+    T "Aww soit pas comme ça Becca{w=0.3}, ça commençait à devenir intéressant!"
 
 # game/story/chapter_1.rpy:2013
 translate French introducing_becca_adcf5e26:
 
     # "She glares at him with enough intensity to start a fire,{nw=1.0}"
-    ""
+    "Elle lui jette un regard tellement ardent qu'il pourrait déclencher un incendie,{nw=1.0}"
 
 # game/story/chapter_1.rpy:2021
 translate French introducing_becca_9b8d0361:
 
     # extend " before flicking him on the snoot."
-    extend ""
+    extend " avant de lui mettre une pichnette sur le museau."
 
 # game/story/chapter_1.rpy:2023
 translate French introducing_becca_00085d38:
 
     # T "Ow!"
-    T ""
+    T "AIe!"
 
 # game/story/chapter_1.rpy:2027
 translate French introducing_becca_bbda8fb3:
 
     # R "It's not for you to read{w=0.3}—or anyone else here, for that matter."
-    R ""
+    R "C'est pas pour que tu le lises{w=0.3}-ni personne d'autre ici, par ailleurs."
 
 # game/story/chapter_1.rpy:2031
 translate French introducing_becca_59bb8dac:
 
     # "She slams her laptop shut, her gaze now fixed on the table between us."
-    ""
+    "Elle ferme son ordinateur dans un claquement, son regard fixé sur la table entre nous."
 
 # game/story/chapter_1.rpy:2033
 translate French introducing_becca_e243de01:
 
     # "{w=0.5}I can't help but feel a twinge of guilt for having sparked this exchange."
-    ""
+    "{w=0.5}Je ne peux m'empêcher de sentir un brin de culpabilité pour avoir déclenché cet échange."
 
 # game/story/chapter_1.rpy:2035
 translate French introducing_becca_12d30e6b:
 
     # "I clear my throat."
-    ""
+    "Je m'éclaircis la gorge."
 
 # game/story/chapter_1.rpy:2040
 translate French introducing_becca_c42219d4:
 
     # D "Didn't mean to pry, I don't know if I'd survive having someone else read my writings out loud. It's just that I like learning from other people's work and what I heard sounded good. I like your flow.."
-    D ""
+    D "Je ne voulais pas être indiscret, je ne sais pas si je survivrais d'avoir quelqu'un lire à voix haute mes textes. C'est juste que j'aime bien apprendre du travail des autres et ce que j'avais entendu me plaisait. J'aime ton flow.."
 
 # game/story/chapter_1.rpy:2043
 translate French introducing_becca_a0b64a4c:
 
     # R "Wait, so you write too?"
-    R ""
+    R "Attends, tu écris toi aussi?"
 
 # game/story/chapter_1.rpy:2044
 translate French introducing_becca_8619f2c6:
 
     # "I shrug."
-    ""
+    "Je hausse les épaules."
 
 # game/story/chapter_1.rpy:2046
 translate French introducing_becca_57a0bdd8:
 
     # D "A bit. I'm not very good, though."
-    D ""
+    D "Un peu. Je ne suis pas très bon, cependant."
 
 # game/story/chapter_1.rpy:2050
 translate French introducing_becca_e280e42d:
 
     # D "Well I thought it sounded pretty cool{cps=5}...{/cps}{nw=0.3}"
-    D ""
+    D "Ben je pensais que ça sonnait plutôt cool{cps=5}...{/cps}{nw=0.3}"
 
 # game/story/chapter_1.rpy:2052
 translate French introducing_becca_4f26a1de:
 
     # extend " I didn't mean to pry."
-    extend ""
+    extend " Je ne voulais pas être indiscret"
 
 # game/story/chapter_1.rpy:2055
 translate French introducing_becca_ee89c4f1_2:
 
     # R "{cps=5}...{/cps}"
-    R ""
+    R "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2056
 translate French introducing_becca_7099378e:
 
     # "Rebecca shakes her head, and after a moment of hesitation{w=0.3}, reopens her laptop."
-    ""
+    "Rebecca secoue la tête, et après un moment d'hésitation{w=0.3}, rouvre son ordinateur."
 
 # game/story/chapter_1.rpy:2059
 translate French introducing_becca_156ad8db:
 
     # R "It's fine.{w=0.3} Just{cps=5}...{/cps} forget it."
-    R ""
+    R "C'est rien.{w=0.3}Juste{cps=5}...{/cps} oublie ça."
 
 # game/story/chapter_1.rpy:2065
 translate French introducing_becca_d9e3c757:
 
     # "It's probably best I leave her be."
-    ""
+    "C'est probablement mieux que je la laisse tranquille."
 
 # game/story/chapter_1.rpy:2067
 translate French introducing_becca_bc07b1a8:
 
     # T "So{w=0.3}, what's got you so invested in writing now, I'm sure Dev would like to know too."
-    T ""
+    T "Donc{w=0.3}, qu'est ce qui t'as si invesitit dans l'écriture maintenant, je suis sûr que Dev aimerait le savoir aussi."
 
 # game/story/chapter_1.rpy:2072
 translate French introducing_becca_474c9287:
 
     # D "Dude{cps=5}...{/cps}"
-    D ""
+    D "Mec{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2074
 translate French introducing_becca_32f27d1c:
 
     # T "C'mon, don't tell me you aren't curious."
-    T ""
+    T "Allez, me dit pas que t'es pas curieux."
 
 # game/story/chapter_1.rpy:2075
 translate French introducing_becca_8619f2c6_1:
 
     # "I shrug."
-    ""
+    "J'hausse les épaules."
 
 # game/story/chapter_1.rpy:2079
 translate French introducing_becca_ab8361e2:
 
     # D "It's not our business."
-    D ""
+    D "C'est pas nos affaires."
 
 # game/story/chapter_1.rpy:2081
 translate French introducing_becca_c79e4be5:
 
     # R "He's right, it's not."
-    R ""
+    R "Il a raison, c'est pas les vôtres."
 
 # game/story/chapter_1.rpy:2082
 translate French introducing_becca_6f81e327:
 
     # "While it's true that curiosity is killing me, if we'd exchanged places, I'd be just as annoyed."
-    ""
+    "Bien que ça soit vrai que la curiosité me tue de savoir, si j'étais à sa place, je serais tout autant agacé."
 
 # game/story/chapter_1.rpy:2084
 translate French introducing_becca_c32c074d:
 
     # T "Two against one! It's not fair."
-    T ""
+    T "Deux contre un! C'est pas juste."
 
 # game/story/chapter_1.rpy:2085
 translate French introducing_becca_5ecad642:
 
     # "Theo places a hand on his chest, dramatically feigning being hurt by my betrayal to our newly formed friendship."
-    ""
+    "Theo place une main sur son torse, faisant dramatiquement semblant d'être blessé par ma trahison de notre amitié fraîchement formée."
 
 # game/story/chapter_1.rpy:2091
 translate French introducing_becca_fb051535:
 
     # D "Do you try to peek at other people's phones when they're not looking too?"
-    D ""
+    D "T'essaies de reluquer les téléphones des autres quand ils ne font pas attention aussi?"
 
 # game/story/chapter_1.rpy:2101
 translate French introducing_becca_a9e49f9e:
 
     # "Theo's mouth hangs open while Rebecca{w=0.3}, surprisingly, snickers at my remark."
-    ""
+    "La bouche de Theo pend tandis que Rebecca{w=0.3}, surprenamment, rigole à ma remarque."
 
 # game/story/chapter_1.rpy:2102
 translate French introducing_becca_f751ab00:
 
     # T "I don't- I wouldn't- ah!"
-    T ""
+    T "Je ne- Je ne ferai- ah!"
 
 # game/story/chapter_1.rpy:2107
 translate French introducing_becca_e001e7cb:
 
     # R "He totally does that."
-    R ""
+    R "Il le fait totalement."
 
 # game/story/chapter_1.rpy:2110
 translate French introducing_becca_91b32d47:
 
     # T "Well then, keep your secrets Becca, bet it's more fanfiction about colorful horses anyways."
-    T ""
+    T "Bon alors, garde tes secrets Becca, j'parie que c'est encore de la fanfiction à propos de chevaux colorés de toute façon."
 
 # game/story/chapter_1.rpy:2113
 translate French introducing_becca_7f6dac13:
 
     # D "{cps=5}...{/cps}wha-"
-    D ""
+    D "{cps=5}...{/cps}quoi-"
 
 # game/story/chapter_1.rpy:2115
 translate French introducing_becca_8f1248f8:
 
     # R "{b}Don't!{/b}"
-    R ""
+    R "{b}Chut!{/b}"
 
 # game/story/chapter_1.rpy:2124
 translate French introducing_becca_15f6e53a:
 
     # "As I poke at the few last crumbs of my meal, a new face suddenly strides up to our table."
-    ""
+    "Tandis que je pique les dernières miettes de mon repas, soudainement un nouveau visage marche à grand pas vers notre table."
 
 # game/story/chapter_1.rpy:2134
 translate French introducing_becca_0fd0bcbc:
 
     # E "Raptor Jesus, those assholes can't give me one moment of-"
-    E ""
+    E "Raptor Jésus, ces connards ne peuvent pas me laisser un instant-"
 
 # game/story/chapter_1.rpy:2161
 translate French introducing_becca_217398f4:
 
     # E "{cps=5}...{/cps}"
-    E ""
+    E "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2163
 translate French introducing_becca_74ac987f_2:
 
     # D "{cps=5}...{/cps}"
-    D ""
+    D "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2165
 translate French introducing_becca_c395f8f8:
 
     # "I'm not sure which one of us is more confused about the other's presence."
-    ""
+    "Je ne sais pas qui est le plus perturbé par la présence de l'autre."
 
 # game/story/chapter_1.rpy:2169
 translate French introducing_becca_398f89a7:
 
     # T "Elliot!{w=0.3} What's up man? Have you met Dev yet?"
-    T ""
+    T "Elliot!{w=0.3} Comment qu'c'est man? T'as déjà rencontré Dev?"
 
 # game/story/chapter_1.rpy:2173
 translate French introducing_becca_08d6c657:
 
     # "Finally breaking off the stare, Elliot's face drops with a grimace."
-    ""
+    "Brisant finalement le regard, le visage d'Elliot retombe en une grimace."
 
 # game/story/chapter_1.rpy:2177
 translate French introducing_becca_c1cecd43:
 
     # "Of course my newest friend would also happen to be friends with the guy that left me to get lost in campus. All things considered{w=0.3}, it makes sense that overwhelmingly friendly Theo would be friends with basically anyone."
-    ""
+    "Evidemment qu'il se trouve que mon nouvel ami est ami avec le type qui m'a laissé me perdre dans le campus. Tout bien considéré{w=0.3}, ça fait sense que l'amicalement extravagant Theo soit ami avec globalement tout le monde."
 
 # game/story/chapter_1.rpy:2181
 translate French introducing_becca_2e423c60:
 
     # E "What the hell is he doing here?"
-    E ""
+    E "Qu'est ce qu'il fout ici?"
 
 # game/story/chapter_1.rpy:2186
 translate French introducing_becca_5bc7e465:
 
     # R "He was invited.{w=0.3} Unlike you."
-    R ""
+    R "Il a été invité.{w=0.3} Contrairement à toi."
 
 # game/story/chapter_1.rpy:2211
 translate French introducing_becca_3770093a:
 
     # "Rebecca coming up to my defense surprises me.{w=0.3} She must dislike Elliot more than she dislikes this random human her brother dragged along."
-    ""
+    "Rebecca qui prend ma défense me surprend.{w=0.3} Elle ne doit pas plus aimer Elliot que cet humain au hasard que son frère a ramené."
 
 # game/story/chapter_1.rpy:2217
 translate French introducing_becca_a5129a46:
 
     # T "So you two DO know each other!"
-    T ""
+    T "Donc vous deux VOUS connaissez!"
 
 # game/story/chapter_1.rpy:2221
 translate French introducing_becca_5d3f0e2f:
 
     # D "He was the 'orientation' I mentioned to you when we met."
-    D ""
+    D "C'est lui 'l'orientation' que je t'avais mentionné quand on s'est rencontré."
 
 # game/story/chapter_1.rpy:2226
 translate French introducing_becca_8fc6becf:
 
     # T "Really?{w=0.3} You know he spent like an hour trying to find the dorms, right?{w=0.3} You really just left him hanging?"
-    T ""
+    T "Vraiment?{w=0.3} Tu sais qu'il a perdu une heure à chercher les dortoirs, pas vrai?{w=0.3} Tu l'as juste laissé en plan?"
 
 # game/story/chapter_1.rpy:2230
 translate French introducing_becca_973a973a:
 
     # E "{cps=5}...{/cps}{w=0.3} I gave him a map."
-    E ""
+    E "{cps=5}...{/cps}{w=0.3} Je lui avais donné une carte."
 
 # game/story/chapter_1.rpy:2247
 translate French introducing_becca_90f17ff1:
 
     # T "Elliot{cps=5}...{/cps}"
-    T ""
+    T "Elliot{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2251
 translate French introducing_becca_1de11c3e:
 
     # E "Look{w=0.3}, I had another{cps=5}...{/cps} I had stuff to deal with."
-    E ""
+    E "Écoute{w=0.3}, j'avais un autre{cps=5}...{/cps} J'avais d'autre trucs à gérer."
 
 # game/story/chapter_1.rpy:2267
 translate French introducing_becca_eeb0dc5e:
 
     # T "{cps=5}Elliot...{/cps}"
-    T ""
+    T "{cps=5}Elliot...{/cps}"
 
 # game/story/chapter_1.rpy:2271
 translate French introducing_becca_e0ca86f1:
 
     # E "Ok, fine{w=0.3}, I'm sorry!{w=0.5} Damn{cps=5}...{/cps}"
-    E ""
+    E "Ok, bon{w=0.3}, je suis désolé!{w=0.5} Bon sang{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2275
 translate French introducing_becca_f5e74fb6:
 
     # T "{cps=5}...{/cps}"
-    T ""
+    T "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2298
 translate French introducing_becca_59410c6c:
 
     # T "Well, the important thing is that you learn from your mistakes!"
-    T ""
+    T "Bon, le plus important c'est que tu apprennes de tes erreurs!"
 
 # game/story/chapter_1.rpy:2302
 translate French introducing_becca_9c515328:
 
     # E "Sure{cps=5}...{/cps} Thanks Dad."
-    E ""
+    E "Bien sûr{cps=5}...{/cps} Merci P'pa."
 
 # game/story/chapter_1.rpy:2307
 translate French introducing_becca_9e61d5a5:
 
     # T "Anytime!"
-    T ""
+    T "Quand tu veux!"
 
 # game/story/chapter_1.rpy:2313
 translate French introducing_becca_3d4652cd:
 
     # R "Why are you even here?"
-    R ""
+    R "Pourquoi es-tu là?"
 
 # game/story/chapter_1.rpy:2317
 translate French introducing_becca_5b439c91:
 
     # E "Because Theo texted me he was eating{cps=5}...{/cps} and I always sit here?"
-    E ""
+    E "Parce que Theo m'a texté qu'il mangeait{cps=5}...{/cps} et que je m'assoie toujours ici?"
 
 # game/story/chapter_1.rpy:2321
 translate French introducing_becca_a3bc51e2:
 
     # R "Unfortunately{cps=5}...{/cps}"
-    R ""
+    R "Malheureusement{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2343
 translate French introducing_becca_d9a1373d:
 
     # "Truthfully{w=0.3}, I'm still a bit annoyed about what Elliot pulled. However, not only has the conversation already moved on, but Theo's eyes light up like he's just had the best idea."
-    ""
+    "Honnêtement{w=0.3}, je suis toujours fâché par ce qu'Elliot a fait. Cependant, non seulement nous avons déjà changé de sujet, mais les yeux de Theo se sont illuminés comme s'il avait eu la meilleure idée du monde."
 
 # game/story/chapter_1.rpy:2354
 translate French introducing_becca_99b9ec68:
 
     # T "I think it's time for proper introductions!"
-    T ""
+    T "Je pense qu'il est l'heure des vraies présentations!"
 
 # game/story/chapter_1.rpy:2360
 translate French introducing_becca_09d63fd3:
 
     # E "Theo{w=0.5}, we've all met before."
-    E ""
+    E "Theo{w=0.5}, on s'est déjà tous rencontrés."
 
 # game/story/chapter_1.rpy:2366
 translate French introducing_becca_0f25ef1d:
 
     # R "Yeah, what is this{w=0.3}, elementary school?"
-    R ""
+    R "Ouais, on est où{w=0.3}, à l'école élémentaire?"
 
 # game/story/chapter_1.rpy:2370
 translate French introducing_becca_ca6a4e59:
 
     # T "Nah, nah, this is different!{w=0.3} Dev's new here. It's only fair."
-    T ""
+    T "Nan, nan, c'est différent!{w=0.3} Dev est nouveau. C'est équitable."
 
 # game/story/chapter_1.rpy:2372
 translate French introducing_becca_b508f644:
 
     # "I glance around the table.{w=0.3} Despite his enthusiasm, it's clear he's the only one on board with doing this."
-    ""
+    "Je jette un oeil à la table.{w=0.3} En dépit de son enthousiasme, il est clair qu'il est le seul à fond de faire ça."
 
 # game/story/chapter_1.rpy:2376
 translate French introducing_becca_a49802ea:
 
     # "Not to mention{w=0.3}, it's a bit childish{cps=5}...{/cps}"
-    ""
+    "Sans compter que{w=0.3}, c'est un peu pour les enfants{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2380
 translate French introducing_becca_63469269:
 
     # D "I mean{w=0.3}, I already know your names..."
-    D ""
+    D "Je veux dire{w=0.3}, je connais déjà vos noms..."
 
 # game/story/chapter_1.rpy:2384
 translate French introducing_becca_33871fb5:
 
     # "Theo waves a hand dismissively."
-    ""
+    "Theo fait un geste dédaigneux de la main."
 
 # game/story/chapter_1.rpy:2388
 translate French introducing_becca_a9eb9a6a:
 
     # "He points to himself with both thumbs, grinning."
-    ""
+    "Il pointe vers lui avec ses deux pouces, et un grand sourire."
 
 # game/story/chapter_1.rpy:2392
 translate French introducing_becca_7834f87b:
 
     # T "I'm Theodore Chase, but you can call me Theo.{w=0.3} Second year here at CCC and future creator of the next big indie game!"
-    T ""
+    T "Je suis Theodore Chase, mais vous pouvez m'appeler Theo.{w=0.3} Deuxième année ici à la FCI et futur créateur du prochain meilleur jeu indé!"
 
 # game/story/chapter_1.rpy:2396
 translate French introducing_becca_37afa6a5:
 
     # T "Our dad is a microraptor, and our mom is a pterodactyl, which I take after both of them. Which is why I look all {cps=5}fUnKy{/cps}."
-    T ""
+    T "Notre papa est un microraptor, et notre maman une ptérodactyle, dont j'ai pris des deux. C'est pourquoi j'ai l'air aussi {cps=5}cHeLoU{/cps}."
 
 # game/story/chapter_1.rpy:2401
 translate French introducing_becca_d86d28e2:
 
     # R "A genetic {cps=100}{b}freak{/b} {/cps}is what you mean."
-    R ""
+    R "Tu veux plutôt dire une {cps=100}{b}abomination{/b} {/cps} génétique."
 
 # game/story/chapter_1.rpy:2406
 translate French introducing_becca_de7bf6de:
 
     # T "You're just jealous you only took after dad."
-    T ""
+    T "T'es juste jalouse de n'avoir pris que de papa."
 
 # game/story/chapter_1.rpy:2410
 translate French introducing_becca_eab3d608:
 
     # T "I like meat, video games, programming, FND let's plays, and{nw=0.5}"
-    T ""
+    T "J'aime la viande, les jeux vidéos, développer, les let's play de FND, et{nw=0.5}"
 
 # game/story/chapter_1.rpy:2412
 translate French introducing_becca_b5a60fe2:
 
     # extend " {cps=5}uhhhh...{/cps}"
-    extend ""
+    extend " {cps=5}uhhhh...{/cps}"
 
 # game/story/chapter_1.rpy:2438
 translate French introducing_becca_7dfbc834:
 
     # T "I think that's it."
-    T ""
+    T "Je crois que c'est tout."
 
 # game/story/chapter_1.rpy:2443
 translate French introducing_becca_f9870d01:
 
     # "For all the hassle he caused about introducing oneself properly, he sure gave the rest of us a very underwhelming presentation. Eh{w=0.3}, I give it a six point five out of ten. Sufficient{w=0.3}, but won't be entering any lists for the best of anything this year."
-    ""
+    "Après tout le bazar qu'il a fait à propos de bien se présenter, il nous a donné une présentation très décevante. Eh{w=0.3}, je lui donne un six et demi sur dix. C'est suffisant{w=0.3}, mais ça n'entrera dans aucune listes des meilleurs quoi-que-ce-soit de l'année."
 
 # game/story/chapter_1.rpy:2450
 translate French introducing_becca_045a974f:
 
     # "He looks to his sister.{w=0.3} The glare he receives in response could melt steel."
-    ""
+    "Il braque ses yeux sur sa soeur.{w=0.3} Le regard qu'il reçoit en réponse pourrait faire fondre de l'acier."
 
 # game/story/chapter_1.rpy:2477
 translate French introducing_becca_9b7bb40c:
 
     # "Elliot is just picking at his food{w=0.3}, seemingly ignoring Theo."
-    ""
+    "Elliot est juste en train de piquer sa nourriture{w=0.3}, ignorant apparemment Theo."
 
 # game/story/chapter_1.rpy:2483
 translate French introducing_becca_5a8c762f:
 
     # "Finally, he turns to me."
-    ""
+    "Enfin, il se tourne vers moi."
 
 # game/story/chapter_1.rpy:2487
 translate French introducing_becca_74ac987f_3:
 
     # D "{cps=5}...{/cps}"
-    D ""
+    D "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2491
 translate French introducing_becca_f5e74fb6_1:
 
     # T "{cps=5}...{/cps}"
-    T ""
+    T "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2495
 translate French introducing_becca_848966bf:
 
     # "Crap{cps=5}...{/cps}"
-    ""
+    "Merde{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2499
 translate French introducing_becca_0426e764:
 
     # T "Come {cps=6}ooooonnnn...{/cps}"
-    T ""
+    T "All{cps=6}eeeeeeeeez...{/cps}"
 
 # game/story/chapter_1.rpy:2501
 translate French introducing_becca_1de47ce4:
 
     # T "Show these two how it's done{w=0.3}, don't hold anything back!"
-    T ""
+    T "Montre leur comment on fait{w=0.3}, ne te retiens pas!"
 
 # game/story/chapter_1.rpy:2503
 translate French introducing_becca_c2f0f63f:
 
     # D "I would really prefer not to{cps=5}...{/cps}"
-    D ""
+    D "Je préfererais vraiement pas{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2507
 translate French introducing_becca_0514f916:
 
     # T "This is a safe space Dev, you can be honest with us."
-    T ""
+    T "T'es dans un coin sûr Dev, tu peux être honnête avec nous."
 
 # game/story/chapter_1.rpy:2511
 translate French introducing_becca_93fba5a1:
 
     # T "Also{w=0.3}, please throw me a bone{w=0.3}, you can't leave me hanging after revealing all my darkest secrets like that."
-    T ""
+    T "Et puis{w=0.3}, file moi un coup de main{w=0.3}, tu peux pas me laisser en plan après avoir révélé mes secrets les plus sombres comme ça."
 
 # game/story/chapter_1.rpy:2513
 translate French introducing_becca_bd704876:
 
     # "It's becoming increasingly difficult to say no to the guy."
-    ""
+    "Ça devient de plus en plus difficile de dire non à ce gars."
 
 # game/story/chapter_1.rpy:2515
 translate French introducing_becca_74ac987f_4:
 
     # D "{cps=5}...{/cps}"
-    D ""
+    D "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2520
 translate French introducing_becca_41e33ee1:
 
     # D "Fine{cps=5}...{/cps}"
-    D ""
+    D "Bien{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2525
 translate French introducing_becca_abda7dd7:
 
     # D "My name is Dev Loper and this is my first year here.{w=0.3} I don't really know what I want to do in the future."
-    D ""
+    D "Mon nom est Dev Loper et c'est ma première année ici.{w=0.3} Je sais pas vraiement ce que je veux faire dans le futur."
 
 # game/story/chapter_1.rpy:2526
 translate French introducing_becca_07a9a0dc:
 
     # D "I guess I like video games as well, and{w=0.3} YouSnoot shorts{cps=5}...{/cps}{nw}"
-    D ""
+    D "Je crois aussi que j'aime bien les jeux vidéos, et{w=0.3} YouSnoot shorts{cps=5}...{/cps}{nw}"
 
 # game/story/chapter_1.rpy:2528
 translate French introducing_becca_5b0b94d2:
 
     # extend " not sure what else{cps=5}...{/cps}"
-    extend ""
+    extend " pas sûr quoi d'autre{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2529
 translate French introducing_becca_208737a1:
 
     # T "That was great!"
-    T ""
+    T "C'était super!"
 
 # game/story/chapter_1.rpy:2534
 translate French introducing_becca_74839b4c:
 
     # D "My name is Dev Loper and this is my first year here."
-    D ""
+    D "Mon nom est Dev Loper et c'est ma première année ici."
 
 # game/story/chapter_1.rpy:2537
 translate French introducing_becca_f5e74fb6_2:
 
     # T "{cps=5}...{/cps}"
-    T ""
+    T "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2539
 translate French introducing_becca_d29d793c:
 
     # T "Was{cps=5}...{/cps}was that it?"
-    T ""
+    T "C'est{cps=5}...{/cps}c'était tout?"
 
 # game/story/chapter_1.rpy:2540
 translate French introducing_becca_33a72bb5:
 
     # D "Yeah."
-    D ""
+    D "Ouais."
 
 # game/story/chapter_1.rpy:2542
 translate French introducing_becca_6bf307e8:
 
     # T "That wasn't much of an introduction{cps=5}...{/cps}"
-    T ""
+    T "C'était pas vraiment une introduction, ça{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2545
 translate French introducing_becca_498f4333:
 
     # R "Theo{w=0.3}, we are strangers{w=0.3}, normal people don't like throwing their life story at the feet of strangers."
-    R ""
+    R "Theo{w=0.3}, on ne se connait pas{w=0.3}, les gens normaux ne déballent pas leur vie aux inconnus."
 
 # game/story/chapter_1.rpy:2554
 translate French introducing_becca_75127e3f:
 
     # D "Well{w=0.3}, I'm Dev A. Loper. As you know{w=0.3}, I'm a freshman here, and yeah{w=0.3}, I got in on a scholarship for{cps=5}...{/cps} reasons that are still kind of beyond me."
-    D ""
+    D "Bon{w=0.3}, je suis Dev A. Loper. Comme vous le savez{w=0.3}, je suis nouveau ici, et ouais{w=0.3}, j'ai eu une bourse ici pour{cps=5}...{/cps} des raisons qui m'échapent toujours."
 
 # game/story/chapter_1.rpy:2558
 translate French introducing_becca_b18f63c4:
 
     # D "I'm not exactly sure what I'm doing here, to be honest.{w=0.3} I like games,{w=0.1} tech stuff{cps=5}...{/cps} but there's no grand plan or anything."
-    D ""
+    D "Je suis pas vraiment sûr de ce que je fais ici, pour être honnête.{w=0.3} J'aime les jeux vidéos,{w=0.3} la hi-tech{cps=5}...{/cps} mais j'ai pas de grand plan de prévu ou autre."
 
 # game/story/chapter_1.rpy:2563
 translate French introducing_becca_65b4b961:
 
     # D "I guess you could say I'm sort of winging it?{w=0.3} Which sounds really bad out loud now that I'm saying it."
-    D ""
+    D "J'imagine qu'on peut dire que j'improvise?{w=0.3} Ce qui sonne pas terrible maintenant que je le dit à haut voix."
 
 # game/story/chapter_1.rpy:2569
 translate French introducing_becca_2d2b433c:
 
     # D "Back home I wasn't exactly{cps=5}...{/cps} well,{w=0.3} let's just say social circles and I didn't really overlap. The 'fitting in' part of life's always been a bit of a challenge."
-    D ""
+    D "Chez moi J'étais pas exactement{cps=5}...{/cps} bah,{w=0.3} disons juste que les cercles sociaux et moi ça faisait deux. La partie 'trouver sa place' dans la vie a toujours été un peu un défi."
 
 # game/story/chapter_1.rpy:2575
 translate French introducing_becca_97076685:
 
     # D "And here? Well,{w=0.3} it's like that,{w=0.3} but with a side of \"Oh hey, you're different from literally everyone else.\" So there's that."
-    D ""
+    D "Et ici? Eh bien,{w=0.3} c'est pareil,{w=0.3} mais avec un \"Oh hey, t'es différent de littéralement tout les autres.\" en bonus. Donc il y ça."
 
 # game/story/chapter_1.rpy:2580
 translate French introducing_becca_9300bb6c:
 
     # D "Honestly?{w=0.3} Sometimes it feels like everyone's got their act together but me. Like there's this secret to life that everyone knows but forgot to tell me about."
-    D ""
+    D "Honnêtement?{w=0.3} Parfois j'ai l'impression que tout le monde a ce qu'il faut mais pas moi. Genre il y a ce secret de la vie que tout le monde connait mais oublie de m'en parler."
 
 # game/story/chapter_1.rpy:2584
 translate French introducing_becca_f5e74fb6_3:
 
     # T "{cps=5}...{/cps}"
-    T ""
+    T "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2587
 translate French introducing_becca_04b32a48:
 
     # T "O-ok,{w=0.3} that was good, really{w=0.3} uh{w=0.3}, really took that 'everything' to heart."
-    T ""
+    T "O-ok,{w=0.3} c'était bien, vraiment{w=0.3} euh{w=0.3}, t'as vraiment pris le 'tout dire' à coeur."
 
 # game/story/chapter_1.rpy:2592
 translate French introducing_becca_80300e09:
 
     # R "Yeah, thanks for trauma dumping on us{w=0.3}, it was great."
-    R ""
+    R "Ouais, merci de nous avoir déversé tes traumas à la figure{w=0.3}, c'était bien."
 
 # game/story/chapter_1.rpy:2597
 translate French introducing_becca_217398f4_1:
 
     # E "{cps=5}...{/cps}"
-    E ""
+    E "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2602
 translate French introducing_becca_ab661584:
 
     # E "Wait is he done?{w=0.3} I zoned out there for a moment."
-    E ""
+    E "Attendez il a fini?{w=0.3} J'ai zoné pendant un instant."
 
 # game/story/chapter_1.rpy:2608
 translate French introducing_becca_d0cac0fd:
 
     # T "I think he was messing with us."
-    T ""
+    T "Je pense qu'il nous faisait une blague."
 
 # game/story/chapter_1.rpy:2613
 translate French introducing_becca_217398f4_2:
 
     # E "{cps=5}...{/cps}"
-    E ""
+    E "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2615
 translate French introducing_becca_fb91ec0f:
 
     # extend " whatever."
-    extend ""
+    extend " Peu importe."
 
 # game/story/chapter_1.rpy:2624
 translate French introducing_becca_4325100a:
 
     # D "Oh, right.{w=0.3} I forgot to add. I'm human?"
-    D ""
+    D "Oh, c'est vrai.{w=0.3} J'ai oublié d'ajouter. Je suis humain?"
 
 # game/story/chapter_1.rpy:2629
 translate French introducing_becca_113f362f:
 
     # R "We noticed."
-    R ""
+    R "On a remarqué."
 
 # game/story/chapter_1.rpy:2634
 translate French introducing_becca_69800fea:
 
     # E "Are you{cps=5}...{/cps} actually asking us if you are?"
-    E ""
+    E "Est-ce que{cps=5}...{/cps} t'es en train de nous demander si t'en es un?"
 
 # game/story/chapter_1.rpy:2636
 translate French introducing_becca_297b6517:
 
     # D "No? I just{cps=5}...{/cps} because he{cps=5}...{/cps}"
-    D ""
+    D "Non? J'ai juste{cps=5}...{/cps} parce qu'il{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2641
 translate French introducing_becca_df5a940c:
 
     # D "Nevermind{cps=5}...{/cps}"
-    D ""
+    D "Laissez tomber{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2647
 translate French introducing_becca_5b82f7ab:
 
     # "There's a moment of silence.{w=0.3} Rebecca sighs in that kind of disappointment you hear from your parents when they tell you they're not angry but, again, disappointed."
-    ""
+    "Il y a un instant de silence.{w=0.3} Rebacca soupire dans cette sorte de déception que tu entends de tes parents quand ils te disent qu'ils ne sont pas en colère mais, encore une fois, déçus."
 
 # game/story/chapter_1.rpy:2649
 translate French introducing_becca_cfadb2a5:
 
     # "It's just as discouraging."
-    ""
+    "C'est tout aussi décourageant."
 
 # game/story/chapter_1.rpy:2657
 translate French introducing_becca_a7685eba:
 
     # "Theo looks at Rebecca and Elliot expectantly."
-    ""
+    "Theo regarde Rebecca et Elliot dans l'attente."
 
 # game/story/chapter_1.rpy:2661
 translate French introducing_becca_ee89c4f1_3:
 
     # R "{cps=5}...{/cps}"
-    R ""
+    R "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2663
 translate French introducing_becca_217398f4_3:
 
     # E "{cps=5}...{/cps}"
-    E ""
+    E "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2665
 translate French introducing_becca_6909281f:
 
     # T "Come on{w=0.3}, both me and Dev did it!"
-    T ""
+    T "Allez{w=0.3}, moi et Dev l'avons tous les deux fait!"
 
 # game/story/chapter_1.rpy:2672
 translate French introducing_becca_fee8b80d:
 
     # E "Fine{w=0.3}, if it'll get you off this bit."
-    E ""
+    E "Bien{w=0.3}, si ça te fait arrêter avec ça."
 
 # game/story/chapter_1.rpy:2680
 translate French introducing_becca_21c078ac:
 
     # "He clears his throat rather sarcastically."
-    ""
+    "Il s'éclaircit la gorge de manière plutôt sarcastique."
 
 # game/story/chapter_1.rpy:2684
 translate French introducing_becca_a0c009e8:
 
     # E "Hello class{w=0.3}, I'm 23 years old{w=0.3}, and my name is Elliot Reddington of the Reddington family{cps=5}...{/cps}"
-    E ""
+    E "Bonjour ma classe{w=0.3}, j'ai 23 ans{w=0.3}, et mon nom est Elliot Reddington de la famille Reddington{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2690
 translate French introducing_becca_217398f4_4:
 
     # E "{cps=5}...{/cps}"
-    E ""
+    E "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2696
 translate French introducing_becca_a42d50fa:
 
     # E "Nothing{w=0.3}, really?"
-    E ""
+    E "Rien du tout{w=0.3}, vraiment?"
 
 # game/story/chapter_1.rpy:2708
 translate French introducing_becca_0d21c612:
 
     # "I look around and find both Theo and Rebecca are also looking at me."
-    ""
+    "Je regarde autout de moi et vois Theo et Rebecca me regardant aussi tous les deux."
 
 # game/story/chapter_1.rpy:2712
 translate French introducing_becca_530c34d2:
 
     # D "Wait-{w=0.3} Was I supposed to know who the Reddingtons are?"
-    D ""
+    D "Attend-{w=0.3} j'étais supposé savoir qui sont les Reddington?"
 
 # game/story/chapter_1.rpy:2716
 translate French introducing_becca_5c53c418:
 
     # E "People typically have a reaction when they find out I am a Reddington."
-    E ""
+    E "Les gens ont une réaction typiquement quand ils découvrent que je suis un Reddington."
 
 # game/story/chapter_1.rpy:2718
 translate French introducing_becca_8619f2c6_2:
 
     # "I shrug."
-    ""
+    "Je hausse les épaules."
 
 # game/story/chapter_1.rpy:2724
 translate French introducing_becca_27da1e5d:
 
     # E "You know{w=0.3}, like the real estate company?"
-    E ""
+    E "Tu sais{w=0.3}, genre l'entreprise immobilière?"
 
 # game/story/chapter_1.rpy:2726
 translate French introducing_becca_74ac987f_5:
 
     # D "{cps=5}...{/cps}"
-    D ""
+    D "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2730
 translate French introducing_becca_dee0ba78:
 
     # E "What about Red Origin, the freaking space company?"
-    E ""
+    E "Et Red Origin, la satanée entreprise spatiale?"
 
 # game/story/chapter_1.rpy:2735
 translate French introducing_becca_74ac987f_6:
 
     # D "{cps=5}...{/cps}"
-    D ""
+    D "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2741
 translate French introducing_becca_b6cdb95f:
 
     # "Rebecca seems to have lost interest in the conversation but Elliot and Theo continue to stare at me.{w=0.3} I shrug again, thinking how much I'd rather have the earth swallow me up right here, right now."
-    ""
+    "Rebecca semble s'être désintéressée de la conversation mais Elliot et Theo continuent de me fixer du regard.{w=0.3} Je hausse de nouveau les épaules, pensant à quel point je préfèrerais que la terre m'avale là maintenant, tout de suite."
 
 # game/story/chapter_1.rpy:2745
 translate French introducing_becca_a9496aad:
 
     # E "Whatever{w=0.3}, that's all you get."
-    E ""
+    E "Peu importe{w=0.3}, c'est tout ce que tu as."
 
 # game/story/chapter_1.rpy:2751
 translate French introducing_becca_aeaa05f0:
 
     # T "O-ok{w=0.3}, that was good{cps=5}...{/cps} "
-    T ""
+    T "O-ok{w=0.3}, c'était bien{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2757
 translate French introducing_becca_710f0dcf:
 
     # T "Rebecca?"
-    T ""
+    T "Rebecca?"
 
 # game/story/chapter_1.rpy:2761
 translate French introducing_becca_06398373:
 
     # "She sighs."
-    ""
+    "Elle soupire."
 
 # game/story/chapter_1.rpy:2765
 translate French introducing_becca_aa354f19:
 
     # R "You know my name already, and you know I'm his sister."
-    R ""
+    R "Tu connais déjà mon nom, et tu sais que je suis sa soeur."
 
 # game/story/chapter_1.rpy:2771
 translate French introducing_becca_09ef9f14:
 
     # D "And that you're a fast typer."
-    D ""
+    D "Et que tu tapes vite."
 
 # game/story/chapter_1.rpy:2775
 translate French introducing_becca_9ec58e68:
 
     # "Rebecca stares at me, bemused."
-    ""
+    "Rebecca m'observe, stupéfaite."
 
 # game/story/chapter_1.rpy:2779
 translate French introducing_becca_1c295cad:
 
     # R "That, too.{w=0.3} Sure.{w=0.3} You know that.{nw}"
-    R ""
+    R "Ça, aussi.{w=0.3} Bien sûr.{w=0.3} Tu sais ça.{nw}"
 
 # game/story/chapter_1.rpy:2783
 translate French introducing_becca_3393bef9:
 
     # extend " Guess I'm done with my presentation."
-    extend ""
+    extend " J'imagine que j'en ai fini avec ma présentation."
 
 # game/story/chapter_1.rpy:2787
 translate French introducing_becca_f5e74fb6_4:
 
     # T "{cps=5}...{/cps}"
-    T ""
+    T "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2789
 translate French introducing_becca_74ac987f_7:
 
     # D "{cps=5}...{/cps}"
-    D ""
+    D "{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2795
 translate French introducing_becca_56788ece:
 
     # T "Right{cps=5}...{/cps} Well{w=0.3}, now we're no longer strangers!"
-    T ""
+    T "Bien{cps=5}...{/cps} Bon{w=0.3}, maintenant on n'est plus des étrangers!"
 
 # game/story/chapter_1.rpy:2816
 translate French introducing_becca_13f42f95:
 
     # "Small talk fills the rest of our lunch{w=0.3}, it's still awkward but{w=0.3}, maybe not as much as before."
-    ""
+    "Les discussions remplissent le reste de notre déjeuner{w=0.3}, c'est toujours bizarre mais{w=0.3}, peut être plus autant qu'avant."
 
 # game/story/chapter_1.rpy:2820
 translate French introducing_becca_4d10a096:
 
     # "It's mostly Theo driving the conversation{w=0.3}, with Elliot occasionally jumping in with a sarcastic remark or two."
-    ""
+    "C'est en grande partie Theo qui mène la conversation{w=0.3}, avec occasionellement Elliot qui rejoint avec une remarque sarcastique ou deux."
 
 # game/story/chapter_1.rpy:2826
 translate French introducing_becca_bc95d046:
 
     # "Rebecca stays mostly quiet{w=0.3}, only offering a word when directly spoken to or when she has a sharp comment."
-    ""
+    "Rebecca reste principalement silencieuse{w=0.3}, ne répondant seulement que lorsqu'on lui parle directement ou quand elle a un commentaire acerbe."
 
 # game/story/chapter_1.rpy:2831
 translate French introducing_becca_a8aefaf2:
 
     # "I find myself chiming in more than I expected."
-    ""
+    "Je me trouve à intervenir dans la conversation plus souvent que je ne m'y attendais."
 
 # game/story/chapter_1.rpy:2833
 translate French introducing_becca_61a994be:
 
     # "We talk about classes, professors known for their impossible exams, and the best spots on campus to grab a midnight snack."
-    ""
+    "Nous parlons des cours, des professeurs connus pour leurs examens impossible, et les meilleurs endroits du campus pour attraper un goûter de minuit." 
 
 # game/story/chapter_1.rpy:2835
 translate French introducing_becca_409b948c:
 
     # "It's all pretty mundane stuff, but{w=0.3} it feels good{w=0.3}—normal, even."
-    ""
+    "Ce n'est que des choses plutôt banales, mais{w=0.3} ça fait bien{w=0.3}-normal, même."
 
 # game/story/chapter_1.rpy:2837
 translate French introducing_becca_e49a17c2:
 
     # "Maybe Theo had a point after all when he forced us through those introductions."
-    ""
+    "Peut être que Theo avait raison aprsè tout quand il nous a forcé avec ces introductions."
 
 # game/story/chapter_1.rpy:2863
 translate French introducing_becca_5f0870d2:
 
     # "As the cafeteria starts to empty and the noise level drops, Theo slaps his hands on the table, startling me."
-    ""
+    "Alors que la cafétéria commence à se vider et que le bruit diminue, Theo claque ses mains sur la table, me faisant sursauter."
 
 # game/story/chapter_1.rpy:2865
 translate French introducing_becca_4c76e572:
 
     # T "Hey Dev, you wanna come over and play some games?{w=0.3} I've got a pretty sweet setup back at my dorm. Elliot can vouch for it."
-    T ""
+    T "Hey Dev, tu veux venir avec nous et jouer à des jeux?{w=0.3} J'ai une plutôt beau setup dans ma chambre. Elliot peut te l'assurer."
 
 # game/story/chapter_1.rpy:2869
 translate French introducing_becca_8dfa0899:
 
     # "Elliot nods, grinning."
-    ""
+    "Elliot hoche la tête, en souriant."
 
 # game/story/chapter_1.rpy:2873
 translate French introducing_becca_e885ab8c:
 
     # E "Yeah, he's not lying{w=0.3}, well except about it being 'his'."
-    E ""
+    E "Ouais, il ne ment pas{w=0.3}, enfin sauf pour le 'à lui'."
 
 # game/story/chapter_1.rpy:2877
 translate French introducing_becca_70f21b6d:
 
     # T "The games are mine{w=0.3}, the TV and console are his{cps=5}...{/cps}"
-    T ""
+    T "Les jeux sont à moi{w=0.3}, la télé et la console sont à lui{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2884
 translate French introducing_becca_da54b5d7:
 
     # "Rebecca snorts."
-    ""
+    "Rebecca renifle."
 
 # game/story/chapter_1.rpy:2886
 translate French introducing_becca_962024fb:
 
     # R "Only reason to ever go to their room."
-    R ""
+    R "La seule raison d'aller dans leur chambre."
 
 # game/story/chapter_1.rpy:2892
 translate French introducing_becca_961739b8:
 
     # D "Oh, so you're the acquired taste roommate."
-    D ""
+    D "Oh, donc tu es le colocatire qui faut apprendre à aimer."
 
 # game/story/chapter_1.rpy:2900
 translate French introducing_becca_ee9854dc:
 
     # E "The {b}WHAT{/b}?"
-    E ""
+    E "Le {b}QUOI{/b}"
 
 # game/story/chapter_1.rpy:2902
 translate French introducing_becca_13cd186b:
 
     # "Theo blanches. Elliot looks alarmed."
-    ""
+    "Theo devient livide. Elliot a l'air alarmé."
 
 # game/story/chapter_1.rpy:2927
 translate French introducing_becca_bf1d4b42:
 
     # "Rebecca simply snorts again."
-    ""
+    "Rebecca se contente de renifler encore."
 
 # game/story/chapter_1.rpy:2935
 translate French introducing_becca_783d2865:
 
     # "I hesitate{w=0.3}, but only for a moment. It sounds like fun, and honestly{w=0.3}, I could use a break from all the stress of today."
-    ""
+    "J'hésite{w=0.3}, mais seulement un instant. Ça a l'air amusant, et honnêtement{w=0.3}, je pourrais prendre une pause de tout le stress d'aujourd'hui."
 
 # game/story/chapter_1.rpy:2942
 translate French introducing_becca_c3a3d8cb:
 
     # D "Yeah, sure, that sounds great."
-    D ""
+    D "Ouais, bien sûr, ça a l'air super."
 
 # game/story/chapter_1.rpy:2947
 translate French introducing_becca_b0ea9968:
 
     # T "Awesome!{w=0.3} You're gonna love it."
-    T ""
+    T "Génial!{w=0.3} Tu vas adorer."
 
 # game/story/chapter_1.rpy:2962
 translate French introducing_becca_a1861576:
 
     # "Theo, Elliot, and myself shuffle into their dorm room, while Rebecca goes off to do her own thing without saying goodbye. I asked Theo about it, but he said she does that when she's had her fill of socializing for the moment."
-    ""
+    "Theo, Elliot, et moi même traînons les pieds vers leur chambre, pedant que Rebecca part de son côté sans dire au revoir. J'ai interrogé Theo à ce propos, mais il me répondit qu'elle fait ça quand elle a fait sa part de sociabilisation pour le moment."
 
 # game/story/chapter_1.rpy:2986
 translate French introducing_becca_723e33dd:
 
     # "Their room mirrors mine in size,{w=0.3} but feels entirely different."
-    ""
+    "Leur chambre est identique à la mien en taille,{w=0.3} mais semble entièrement différente."
 
 # game/story/chapter_1.rpy:2997
 translate French introducing_becca_f451775e:
 
     # "Posters of old-school video games plaster the walls,{w=0.3} and there's a vibe here."
-    ""
+    "Des posters de jeux vidéos rétro couvrent les murs,{w=0.3} et ça donne une ambiance."
 
 # game/story/chapter_1.rpy:3001
 translate French introducing_becca_efb70da8:
 
     # "Two vibes, actually."
-    ""
+    "Deux ambiance, en fait."
 
 # game/story/chapter_1.rpy:3003
 translate French introducing_becca_887371cd:
 
     # "Elliot's half is meticulously clean with everything in its place, while Theo's side is a storm of sketches and scattered game cases where one can't even take a step without looking down first."
-    ""
+    "La moitié d'Elliot est méticuleusement nettoyé avec tout à sa place, tandis que le côté de Theo est un fouilli de dessins et de boîtes de jeux dispersées où on ne peut pas mettre le pied sans y faire attention."
 
 # game/story/chapter_1.rpy:3007
 translate French introducing_becca_59294787:
 
     # "Well,{w=0.3} I guess you can try walking in blind,{w=0.3} but stepping on these cases would be just as bad as stepping on a LEGO. If not for Elliot's tidy half, I wouldn't know the color of the floor."
-    ""
+    "Bon,{w=0.3} j'imagine que tu peux y aller à l'aveugle,{w=0.3} mais marcher sur ces boîtes doit faire aussi mal que de marcher sur un LEGO. Si ce n'était pas pour le côté propre d'Elliot, je ne reconnaîtrais pas la couleur du sol."
 
 # game/story/chapter_1.rpy:3009
 translate French introducing_becca_0d759172:
 
     # "I'm not sure if I've ever seen anything that demonstrates the duality of order and chaos so perfectly."
-    ""
+    "Je ne suis pas sûr d'avoir déjà vu quelque chose qui démontre la dualité de l'ordre et du chaos aussi parfaitement."
 
 # game/story/chapter_1.rpy:3015
 translate French introducing_becca_7801c4ca:
 
     # "Theo grabs a couple of controllers and tosses one my way."
-    ""
+    "Theo attrape une paire de manettes et en lance une vers moi."
 
 # game/story/chapter_1.rpy:3021
 translate French introducing_becca_ca191dd1:
 
     # T "Get ready to get schooled."
-    T ""
+    T "Prépare-toi à te faire scolariser."
 
 # game/story/chapter_1.rpy:3028
 translate French introducing_becca_73b019b9:
 
     # "Elliot settles into his desk chair,{w=0.3} swiveling to face us."
-    ""
+    "Elliot s'installe dans sa chaise de bureau,{w=0.3} se tournant pour nous faire face."
 
 # game/story/chapter_1.rpy:3034
 translate French introducing_becca_918c03e7:
 
     # E "I'd join,{w=0.3} but I've seen how this ends.{nw=0.5}"
-    E ""
+    E "Je viendrais bien,{w=0.3} mais je sais comment ça va finir.{nw=0.5}"
 
 # game/story/chapter_1.rpy:3036
 translate French introducing_becca_d8610591:
 
     # extend " I'll just enjoy the show."
-    extend ""
+    extend " Je vais juste apprécier le spectacle."
 
 # game/story/chapter_1.rpy:3121
 translate French introducing_becca_be39ccab:
