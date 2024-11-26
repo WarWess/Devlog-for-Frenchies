@@ -472,7 +472,7 @@ translate French strings:
 
     # renpy/common/00gui.rpy:453
     old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
-    new "Êtes-vous sûr de vouloir retourner au menu principal?\nVous perdrez la progression non-sauvegardée."
+    new "Êtes-vous sûr de vouloir retourner au menu principal?\nVous perdrez votre progression non-sauvegardée."
 
     # renpy/common/00gui.rpy:454
     old "Are you sure you want to continue where you left off?"
