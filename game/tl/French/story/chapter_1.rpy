@@ -2914,7 +2914,7 @@ translate French introducing_becca_f5e74fb6_1:
 translate French introducing_becca_848966bf:
 
     # "Crap{cps=5}...{/cps}"
-    "Merde{cps=5}...{/cps}"
+    "Crotte{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2499
 translate French introducing_becca_0426e764:
@@ -4234,7 +4234,7 @@ translate French introducing_becca_168bd608:
 translate French introducing_becca_972c2b45:
 
     # "I'm no programmer.{w=0.3} Heck,{w=0.3} I've never designed anything more complex than a custom character in a game's character creator."
-    "Je ne suis pas un développeur.{w=0.3} Merde,{w=0.3} j'ai jamais construit rien de plus compliqué qu'un personnage custom dans un créateur de personnage d'un jeu."
+    "Je ne suis pas un développeur.{w=0.3} Purée,{w=0.3} j'ai jamais construit rien de plus compliqué qu'un personnage custom dans un créateur de personnage d'un jeu."
 
 # game/story/chapter_1.rpy:3870
 translate French introducing_becca_b3e5d109:
