@@ -1,7 +1,7 @@
 # Devlog-for-Frenchies
 Fan-based french translation for DevLog : A Post Modern College Experience
 
-## TODO : TRADUCTIONS A FAIRE POUR LA 0.2
+## TODO : TRADUCTIONS A FAIRE POUR LA 0.2, REVISION Du CHAPITRE UN
 
 Pour travailler sur le projet:
 1. créer une branche feat/{quelque chose} depuis la branche develop
