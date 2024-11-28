@@ -1420,7 +1420,7 @@ translate French kind_deal_f088f5ec:
 translate French kind_deal_a0ccc7b5:
 
     # T "You sure, man? It's really not that big a deal."
-    T "T'es sûr, man? C'est vraiment pas un soucis."
+    T "T'es sûr, vieux? C'est vraiment pas un soucis."
 
 # game/story/chapter_1.rpy:1264
 translate French kind_deal_0b3e344f:
@@ -1594,7 +1594,7 @@ translate French accept_deal_9d4e450d_3:
 translate French accept_deal_5984e0e2:
 
     # T "Man, this is good stuff. Are you sure you're good with only that?"
-    T "Mec, c'est des bons trucs. T'es sûr que ça t'ira avec juste ça?"
+    T "La vache, c'est des bons trucs. T'es sûr que ça t'ira avec juste ça?"
 
 # game/story/chapter_1.rpy:1333
 translate French accept_deal_03e5470d_1:
@@ -2350,7 +2350,7 @@ translate French introducing_becca_97d4e3e4:
 translate French introducing_becca_1dba352a:
 
     # extend " before turning into a sharp scowl."
-    extend " avant que se transformer en un froncement sévère."
+    extend " avant que se transformer en un air menaçant."
 
 # game/story/chapter_1.rpy:1946
 translate French introducing_becca_fc38ee0f:
@@ -2650,7 +2650,7 @@ translate French introducing_becca_c395f8f8:
 translate French introducing_becca_398f89a7:
 
     # T "Elliot!{w=0.3} What's up man? Have you met Dev yet?"
-    T "Elliot!{w=0.3} Comment qu'c'est man? T'as déjà rencontré Dev?"
+    T "Elliot!{w=0.3} Comment qu'c'est vieux? T'as déjà rencontré Dev?"
 
 # game/story/chapter_1.rpy:2173
 translate French introducing_becca_08d6c657:
@@ -2914,7 +2914,7 @@ translate French introducing_becca_f5e74fb6_1:
 translate French introducing_becca_848966bf:
 
     # "Crap{cps=5}...{/cps}"
-    "Merde{cps=5}...{/cps}"
+    "Crotte{cps=5}...{/cps}"
 
 # game/story/chapter_1.rpy:2499
 translate French introducing_becca_0426e764:
@@ -4066,7 +4066,7 @@ translate French introducing_becca_06925408:
 translate French introducing_becca_f2803905:
 
     # D "Whoa, slow down, man."
-    D "Whoa, du calme, man."
+    D "Whoa, du calme, mec."
 
 # game/story/chapter_1.rpy:3737
 translate French introducing_becca_497b8c7d:
@@ -4162,7 +4162,7 @@ translate French introducing_becca_11760699:
 translate French introducing_becca_605d8ebd:
 
     # T "Sweet, man, then this is a match made in Heaven. Don't worry, I'll do the heavy lifting on that end."
-    T "Nickel, man, alors c'est une combinaison des enfers. T'inquiète, je m'occuperais du plus gros pour cette partie."
+    T "Nickel, vieux, alors c'est une combinaison des enfers. T'inquiète, je m'occuperais du plus gros pour cette partie."
 
 # game/story/chapter_1.rpy:3818
 translate French introducing_becca_944fb7d0:
@@ -4234,7 +4234,7 @@ translate French introducing_becca_168bd608:
 translate French introducing_becca_972c2b45:
 
     # "I'm no programmer.{w=0.3} Heck,{w=0.3} I've never designed anything more complex than a custom character in a game's character creator."
-    "Je ne suis pas un développeur.{w=0.3} Merde,{w=0.3} j'ai jamais construit rien de plus compliqué qu'un personnage custom dans un créateur de personnage d'un jeu."
+    "Je ne suis pas un développeur.{w=0.3} Punaise,{w=0.3} j'ai jamais construit rien de plus compliqué qu'un personnage custom dans un créateur de personnage d'un jeu."
 
 # game/story/chapter_1.rpy:3870
 translate French introducing_becca_b3e5d109:
@@ -4330,7 +4330,7 @@ translate French introducing_becca_a90eb206:
 translate French introducing_becca_01c11c23:
 
     # "Man,{w=0.3} college is supposed to be about figuring out your future,{w=0.3} not jumping headfirst into some crazy project on day one."
-    "Man,{w=0.3} la fac c'est supposée être là pour décider de ton future,{w=0.3} pas foncer tête la première dans des projets timbrés jour un."
+    "Mec,{w=0.3} la fac c'est supposée être là pour décider de ton future,{w=0.3} pas foncer tête la première dans des projets timbrés jour un."
 
 # game/story/chapter_1.rpy:3945
 translate French introducing_becca_714671c1:
