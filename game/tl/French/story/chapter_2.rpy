@@ -4,265 +4,265 @@
 translate French chapter_2_d88e1063:
 
     # "{cps=6}{bt=5}{i}YAWN{/i}{/bt}{/cps}"
-    ""
+    "{cps=6}{bt=5}{i}BAILLE{/i}{/bt}{/cps}"
 
 # game/story/chapter_2.rpy:17
 translate French chapter_2_1e26f01e:
 
     # "Wow,{w=0.3} these dorm room beds are actually surprisingly nice."
-    ""
+    "Wow,{w=0.3} les lits de ces chambres sont surprenamment bien."
 
 # game/story/chapter_2.rpy:19
 translate French chapter_2_be36bc95:
 
     # "I figured that the dorms here would be as simple and functional as possible, but this is probably better than my own room back home."
-    ""
+    "Je m'étais dit que les dortoirs ici seraient aussi simples et fonctionnels que possible, mais c'est probablement meilleur que ma propre chambre à la maison."
 
 # game/story/chapter_2.rpy:21
 translate French chapter_2_d01e5cba:
 
     # "The walls are perhaps a bit plain,{w=0.3} but I never found a band I liked enough to get their posters, and even action figures or cars were more my dad's thing."
-    ""
+    "Les murs sont peut-être un peu austères,{w=0.3} mais je n'ai jamais trouvé un groupe que j'aimais assez pour obtenir leurs posters, et même les figurines ou les voitures c'était plus le truc de mon père."
 
 # game/story/chapter_2.rpy:23
 translate French chapter_2_b4450d07:
 
     # "Still,{w=0.3} I appreciate the sturdy carpentry that has gone into making these beds solid.{w=0.1} I try to shake myself awake and find that the mattress doesn't shift at all{w=0.2}, no matter how much I thrash around."
-    ""
+    "Tout de même,{w=0.3} j'apprécie la charpenterie efficace qui a été utilisée pour faire ces lits solides.{w=0.3} J'essaie de me remuer et me rend compte que le matelas ne bouge pas du tout{w=0.3}, peu importe à quel point je me débats."
 
 # game/story/chapter_2.rpy:25
 translate French chapter_2_dd0b9cc1:
 
     # "Makes sense,{w=0.3} considering the very different bodies and species that are supposed to fit in these."
-    ""
+    "C'est logique,{w=0.3} considérant les corps et les espèces très différents qui sont supposés rentrer dedans."
 
 # game/story/chapter_2.rpy:27
 translate French chapter_2_49949a31:
 
     # "Man,{w=0.3} they must've spent half their budget on these beds.{w=0.1} It's like lying on a cloud that's made out of{cps=5}...{/cps} softer clouds."
-    ""
+    "La vache,{w=0.3} ils doivent dépenser la moitié de leur budget dans ces lits.{w=0.1} C'est comme être allongé sur un nuage fait de{cps=5}...{/cps} nuages plus légers."
 
 # game/story/chapter_2.rpy:29
 translate French chapter_2_12d3b6fb:
 
     # "I could get used to this,{w=0.2} seriously. No wonder dinosaurs almost went extinct{w=0.3}—they probably spent all day lounging around,{w=0.1} too comfy to notice the meteor."
-    ""
+    "Je pourrais m'y habituer,{w=0.2} sérieusement. Tu m'étonnes que les dinosaures ont failli s'éteindre{w=0.3}-ils passaient probablement leurs journées allongés,{w=0.3} trop confortables pour remarquer la météorite."
 
 # game/story/chapter_2.rpy:31
 translate French chapter_2_0aa6debf:
 
     # "You can just sink into the mattress and just{cps=5}...{/cps} Let go-"
-    ""
+    "Tu pourrais juste plonger dans le matelas et juste{cps=5}...{/cps} Laisser aller-"
 
 # game/story/chapter_2.rpy:33
 translate French chapter_2_fef5afea:
 
     # "{cps=6}{bt=10}{i}Snore{/i}{/bt}{/cps}"
-    ""
+    "{cps=6}{bt=10}{i}Ronfle{/i}{/bt}{/cps}"
 
 # game/story/chapter_2.rpy:37
 translate French chapter_2_e73cad8b:
 
     # "Wait{cps=5}...{/cps}"
-    ""
+    "Attend{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:39
 translate French chapter_2_7dfa5df7:
 
     # "Something is wrong."
-    ""
+    "Quelque chose cloche."
 
 # game/story/chapter_2.rpy:41
 translate French chapter_2_09d9dbdb:
 
     # "I'm comfortable."
-    ""
+    "Je suis confortable."
 
 # game/story/chapter_2.rpy:43
 translate French chapter_2_6a11a1af:
 
     # "TOO comfortable."
-    ""
+    "TROP confortable."
 
 # game/story/chapter_2.rpy:47
 translate French chapter_2_34ed6e70:
 
     # "Alarm bells are triggered in my brain.{w=0.1} Holdovers from one too many \"talks\" my boss gave me back when I had a summer job.{w=0.2} The type that came with a deep frown and a stern warning about coming in late because{cps=5}...{/cps}"
-    ""
+    "Des alarmes se déclenchent dans mon cerveau.{w=0.1} Des signaux venant d'une des trop nombreuses \"leçons\" que mon chef me donnait quand j'avais un job d'été.{w=0.2} Du genre qui viennent avec un froncement de sourcils et un avertissement pour être arrivé en retard car{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:65
 translate French chapter_2_10a97fe1:
 
     # D "{sc}OH CRAP! I SLEPT IN!{/sc}"
-    D ""
+    D "{sc}OH PUNAISE! J'AI TROP DORMI!{/sc}"
 
 # game/story/chapter_2.rpy:71
 translate French chapter_2_b5a9f90a:
 
     # "I grab my phone from the nightstand, and looking at the time is like being punched in the gut:{w=0.3} It's 9:48 AM."
-    ""
+    "J'attrape mon téléphone de la table de nuit, et regarder l'heure est comme reçevoir un coup dans le ventre:{w=0.3} Il est 9H48."
 
 # game/story/chapter_2.rpy:77
 translate French chapter_2_f822e506:
 
     # "{cps=5}...{/cps}"
-    ""
+    "{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:82
 translate French chapter_2_c7580bc3:
 
     # "My first class starts at 10:00!"
-    ""
+    "Mon premier cours commence à 10 heures!"
 
 # game/story/chapter_2.rpy:87
 translate French chapter_2_27a9b19c:
 
     # "How did this happen?{w=0.3} I know I set my alarm for 8:30–"
-    ""
+    "Comment est-ce arrivé?{w=0.3} Je sais que j'avais mis mon réveil à 8H30-"
 
 # game/story/chapter_2.rpy:92
 translate French chapter_2_f822e506_1:
 
     # "{cps=5}...{/cps}"
-    ""
+    "{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:97
 translate French chapter_2_72278f93:
 
     # "{cps=5}...{/cps} 8:30 {cps=5}{i}PM{/i}...{/cps}"
-    ""
+    "{cps=5}...{/cps} 8H30 {cps=5}{i}du soir{/i}...{/cps}"
 
 # game/story/chapter_2.rpy:102
 translate French chapter_2_635b3ea7:
 
     # "Whatever,{w=0.3} I {i}literally{/i} have no time to dwell on it."
-    ""
+    "Peu importe,{w=0.3} J'ai {i}littéralement{/i} pas le temps de m'en inquiéter."
 
 # game/story/chapter_2.rpy:136
 translate French chapter_2_4d2ac087:
 
     # "I sprint across the room,{w=0.3} clothes flying in every direction as I search for everything I'll need for the day."
-    ""
+    "Je fonce à travers la pièce,{w=0.3} des vêtements volant dans tous les sens alors que je cherche tout ce qu'il me faudra pour la journée."
 
 # game/story/chapter_2.rpy:138
 translate French chapter_2_28b22609:
 
     # "The day that also happens to be my official first day as a Cretaceous College of Computing student. No pressure."
-    ""
+    "Journée qui se trouve aussi être mon premier jour officiel en tant qu'étudiant à la Faculté Crétacée d'Informatique. Pas de pression."
 
 # game/story/chapter_2.rpy:140
 translate French chapter_2_4094aa14:
 
     # "Usually, I wouldn't care much about this, but my phone displays a text received just a few minutes ago from Theo."
-    ""
+    "Habituellement, je n'en tiendrais pas vraiment compte, mais mon téléphone affiche un message reçu il y a quelques minutes de Theo."
 
 # game/story/chapter_2.rpy:171
 translate French chapter_2_d8605944:
 
     # "My sleep-deprived brain needs an extra few moments to process the text."
-    ""
+    "Mon cerveau en manque de sommeil a besoin de quelques instants pour calculer le message."
 
 # game/story/chapter_2.rpy:181
 translate French chapter_2_f3c8cbde:
 
     # "First day tradition?{w=0.3} How come I haven't heard about it before?"
-    ""
+    "Tradition du premier jour?{w=0.3} Comment ça se fait que je n'en avais pas encore entendu parler?"
 
 # game/story/chapter_2.rpy:186
 translate French chapter_2_6f46b883:
 
     # "It's ridiculous.{w=0.3} I'm{cps=5}...{/cps}"
-    ""
+    "C'est ridicule.{w=0.3} Je{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:196
 translate French chapter_2_d6b9f090:
 
     # "In the midst of my search for clothes in respectable condition, I quickly scrawl Theo's suggestion on my smooth forehead."
-    ""
+    "Au milieu de ma recherche de vêtements dans des conditions respectables, je griffonne rapidement la suggéstion de Theo sur mon front lisse."
 
 # game/story/chapter_2.rpy:197
 translate French chapter_2_5582fa57:
 
     # "Well,{w=0.3} it's not so smooth this morning. My hairline is starting to grow in again;{w=0.1} looks like I'll have to shave soon before it gets too long."
-    ""
+    "Bon,{w=0.3} pas si lisse que ça ce matin. Mes cheveux commencent à repousser;{w=0.1} on dirait que je vais devoir me raser bientôt avant qu'ils ne soient trop long."
 
 # game/story/chapter_2.rpy:199
 translate French chapter_2_1851b73a:
 
     # "And looking closer, I'm finding it increasingly hard to tell what the scribbled symbol on my forehead is supposed to be."
-    ""
+    "Et en y regardant de plus près, je me rend compte que c'est de plus en plus difficile de dire ce que le symbole gribouillé sur mon front est supposé être."
 
 # game/story/chapter_2.rpy:200
 translate French chapter_2_a10fc3a2:
 
     # "Ugh,{w=0.3} why did I do this?"
-    ""
+    "Ugh,{w=0.3} pourquoi ai-je fais ça?"
 
 # game/story/chapter_2.rpy:204
 translate French chapter_2_063cab95:
 
     # "I idly glance at the marker as I go to set it down on my desk."
-    ""
+    "Je jette un oeil au marqueur alors que je le repose sur mon bureau."
 
 # game/story/chapter_2.rpy:205
 translate French chapter_2_e73cad8b_1:
 
     # "Wait{cps=5}...{/cps}"
-    ""
+    "Attend{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:208
 translate French chapter_2_e6391dfe:
 
     # extend " {sc}{cps=5}PERMANENT{/cps} MARKER?!{/sc}"
-    extend ""
+    extend " {sc}MARQUEUR {cps=5}PERMANENT{/cps}?!{/sc}"
 
 # game/story/chapter_2.rpy:221
 translate French chapter_2_fd14098e:
 
     # "Oh no{cps=5}...{/cps}"
-    ""
+    "Oh non{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:226
 translate French chapter_2_4d5fe550:
 
     # "No time to fix it!{w=0.1} Just gotta hope I can find some way to get rid of it later."
-    ""
+    "Pas le temps de régler ça!{w=0.1} Je dois juste espérer que je pourrais trouver un moyen de m'en débarraser plus tard."
 
 # game/story/chapter_2.rpy:241
 translate French chapter_2_4ca04164:
 
     # "A pair of jeans from my duffle{w=0.3}—check. Shirt{cps=5}...{/cps} shirt{cps=5}...{/cps} there!{w=0.1} It's crumpled but it'll have to do.{w=0.1} Comfortable shoes for all the running between classes, and a pair of mismatched socks to tie it all together."
-    ""
+    "Une paire de jeans de mon sac{w=0.3}-check. T-shirt{cps=5}...{/cps} t-shirt{cps=5}...{/cps} voilà!{w=0.1} Il est froissé mais ça devra faire l'affaire.{w=0.1} Chaussures confortables pour courir entre chaque cours, et une paire de chaussettes dépareillées pour finir l'ensemble."
 
 # game/story/chapter_2.rpy:242
 translate French chapter_2_121da07f:
 
     # "No one's gonna see them under my jeans, anyway."
-    ""
+    "Personne ne les verra sous mon jean, de toute façon."
 
 # game/story/chapter_2.rpy:253
 translate French chapter_2_78c55e47:
 
     # "In record time, I'm dressed and fumbling to tie my shoes with hands shaking from adrenaline."
-    ""
+    "En un temps reccord, je suis habillé et ai du mal à faire mes lacets à cause de mes mains tremblant à cause de l'adrénaline."
 
 # game/story/chapter_2.rpy:259
 translate French chapter_2_00f0f445:
 
     # "Teeth{w=0.3}—no time to brush 'em.{w=0.1} I grab a stick of gum instead and chew it until my jaw starts screaming for mercy."
-    ""
+    "Les dents{w=0.3}-pas le temps de les brosser.{w=0.3} J'attrape un chewing-gum et mâche jusqu'à ce que ma mâchoire commence à crier pitié."
 
 # game/story/chapter_2.rpy:264
 translate French chapter_2_c5e2877d:
 
     # "Phone,{w=0.1} wallet,{w=0.1} keys{w=0.1}—shove them into my pockets as I rush out the door. The hallway is empty; everyone else is already where they need to be."
-    ""
+    "Téléphone,{w=0.1} portefeuille,{w=0.1} clés{w=0.1}-fourrés dans mes poches tandis que je fonce à la porte. Le couloir est vide; tout le monde est déjà là où il doit l'être."
 
 # game/story/chapter_2.rpy:273
 translate French chapter_2_b3811142:
 
     # "I run down the stairs and out of the building,{w=0.2} only to find the colorful campus outside is already buzzing with activity;{w=0.3} I dodge a couple of triceratops playing frisbee and nearly trip over a velociraptor on a bike."
-    ""
+    "Je dévale les escaliers et vers la sortie,{w=0.2} et ne peux que constater que l'extérieur coloré du campus bourdonne déjà d'activité;{w=0.3} J'esquive quelques tricératops jouant au frisbee et trébuche presque sur un vélociraptor sur son vélo."
 
 # game/story/chapter_2.rpy:316
 translate French chapter_2_0c5bcb18:
@@ -6520,51 +6520,51 @@ translate French strings:
 
     # game/story/chapter_2.rpy:144
     old "HEY!!"
-    new ""
+    new "HEY!!"
 
     # game/story/chapter_2.rpy:144
     old "You awake?"
-    new ""
+    new "T'es debout?"
 
     # game/story/chapter_2.rpy:144
     old "??"
-    new ""
+    new "??"
 
     # game/story/chapter_2.rpy:144
     old "probably not."
-    new ""
+    new "probablement pas."
 
     # game/story/chapter_2.rpy:144
     old "well when you come back to the land of the living, I want you to know morning classes freakin BLLLOOOWWWW!"
-    new ""
+    new "ben quand tu serais revenu parmis les vivants, je veux que tu sache que les cours du matin sont NULLLLLLLLL!"
 
     # game/story/chapter_2.rpy:144
     old "if you are awake yet i'm gonna be in the cafeteria at 9"
-    new ""
+    new "si t'es déjà debout je serai à la cafétéria à 9h"
 
     # game/story/chapter_2.rpy:144
     old "i miss you T_T"
-    new ""
+    new "tu me manques T_T"
 
     # game/story/chapter_2.rpy:144
     old "dude!"
-    new ""
+    new "frère!"
 
     # game/story/chapter_2.rpy:144
     old "almost forgot, we got a first day tradition."
-    new ""
+    new "presque oublié, on a un tradition du premier jour."
 
     # game/story/chapter_2.rpy:144
     old "you should write ‘#1' on your forehead. all the freshmen are doing it"
-    new ""
+    new "tu devrais marquer ‘#1' sur ton front. tous les nouveaux le font"
 
     # game/story/chapter_2.rpy:191
     old "Gonna go with it anyway."
-    new ""
+    new "Vais le faire de toute façon."
 
     # game/story/chapter_2.rpy:191
     old "Super duper not gonna go with it. AT ALL."
-    new ""
+    new "Super méga pas le faire. DU TOUT."
 
     # game/story/chapter_2.rpy:1245
     old "Stop overthinking it and compliment her drawing!"
