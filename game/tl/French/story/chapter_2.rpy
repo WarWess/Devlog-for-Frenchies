@@ -268,427 +268,427 @@ translate French chapter_2_b3811142:
 translate French chapter_2_0c5bcb18:
 
     # "My lungs burn as I push through the quad,{w=0.2} sidestepping students and jumping over benches like some kind of parkour athlete. Or at least,{w=0.3} that's how it feels."
-    ""
+    "Mes poumons brûlent alors que je traverse le parc,{w=0.2} évitant les étuidants et sautant au dessus des bancs comme une sorte de pro du parkour. Ou du moins,{w=0.3} c'est comme ça que je le ressens."
 
 # game/story/chapter_2.rpy:320
 translate French chapter_2_8b85d627:
 
     # "The MathematiS building looms ahead, and I glance at my phone again{w=0.3}—9:57 AM."
-    ""
+    "Le bâtiment des mathématiques se profile devant moi, et je jette de nouveau un oeil à mon téléphone{w=0.3}-9H57."
 
 # game/story/chapter_2.rpy:321
 translate French chapter_2_dcb0bf0e:
 
     # "Almost there{cps=5}...{/cps}"
-    ""
+    "J'y suis presque{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:322
 translate French chapter_2_d68b5c3a:
 
     # "I'm inside the building,{w=0.2} but now I've gotta find the right classroom."
-    ""
+    "Je suis à l'intérieur du bâtiment,{w=0.2} mais maintenant je dois trouver la bonne classe."
 
 # game/story/chapter_2.rpy:323
 translate French chapter_2_5914a7ff:
 
     # "I'm so close to the finish line,{w=0.3} so close{cps=5}...{/cps}"
-    ""
+    "Je suis si proche de la ligne d'arrivée,{w=0.3} si proche{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:397
 translate French chapter_2_e1bf3a37:
 
     # "I made it!"
-    ""
+    "J'y suis!"
 
 # game/story/chapter_2.rpy:402
 translate French chapter_2_1ef73f84:
 
     # "With two entire minutes to spare, at that."
-    ""
+    "Avec deux bonnes minutes d'avance, en plus."
 
 # game/story/chapter_2.rpy:404
 translate French chapter_2_337f9daa:
 
     # "Now if only I could stop the fiery pain in my lungs and legs."
-    ""
+    "Maintenant si seulement je pouvais arrêter la douleur ardente dans mes poumons et mes jambes."
 
 # game/story/chapter_2.rpy:413
 translate French chapter_2_72527a9c:
 
     # "Stepping into the first class of my college life, it's{cps=5}...{/cps}"
-    ""
+    "Entrer dans le premier cours de ma vie à la faculté, c'est{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:418
 translate French chapter_2_f822e506_2:
 
     # "{cps=5}...{/cps}"
-    ""
+    "{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:423
 translate French chapter_2_62dbff83:
 
     # "Not exactly what I was expecting."
-    ""
+    "Pas exactement ce à quoi je m'attendais."
 
 # game/story/chapter_2.rpy:424
 translate French chapter_2_210fc7ca:
 
     # "I assumed all the classes would be in large auditorium style rooms,{w=0.1} a gigantic whiteboard dominating the whole back wall,{w=0.1} semi-comfy seats. But this?"
-    ""
+    "J'imaginais que toutes les classes seraient dans le style de grands amphitéâtres,{w=0.1} un tableau blanc gigantesque dominant tout le mur arrière,{w=0.1} des sièges à moitié confortables. Mais ça?"
 
 # game/story/chapter_2.rpy:429
 translate French chapter_2_7c8c919c:
 
     # "It's a simple room,{w=0.3} with wooden desks and chairs, complete with metal legs that you just know aren't properly balanced. The desks even have a cubby hole beneath them to hold books and whatever else you can fit."
-    ""
+    "C'est une pièce simple,{w=0.3} avec des bureaux et des chaises en bois, complétés par des pieds en métal que tu sais non-équilibrés proprement. Les bureaux ont même cet espace cubique en dessous pour placer les livrer et tout ce que tu peux y faire rentrer."
 
 # game/story/chapter_2.rpy:430
 translate French chapter_2_deb17d0c:
 
     # "At the very front, there's the teacher's desk, and a blackboard."
-    ""
+    "Tout devant, il y a le bureau du professeur, et un tableau noir."
 
 # game/story/chapter_2.rpy:435
 translate French chapter_2_fb42a311:
 
     # "A blackboard."
-    ""
+    "Un tableau noir."
 
 # game/story/chapter_2.rpy:440
 translate French chapter_2_7f9b5150:
 
     # "Not a white one for markers. A black one with tiny pieces of chalk under it."
-    ""
+    "Pas un blanc pour les marqueurs. Un noir avec des petits morceaux de craies en dessous."
 
 # game/story/chapter_2.rpy:441
 translate French chapter_2_f822e506_3:
 
     # "{cps=5}...{/cps}"
-    ""
+    "{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:446
 translate French chapter_2_657a7c0e:
 
     # "This just looks like high school."
-    ""
+    "Ça ressemble juste comme le lycée."
 
 # game/story/chapter_2.rpy:447
 translate French chapter_2_790d3b48:
 
     # "I cringe at the thought of all the chalk-scraping hell to come,{w=0.1} as if math couldn't be bad enough on its own."
-    ""
+    "Je grimace à l'idée de tout les tortures à la craie grattante à venir,{w=0.1} comme si les maths en elles-mêmes n'étaient pas assez terribles."
 
 # game/story/chapter_2.rpy:452
 translate French chapter_2_e6f5cde6:
 
     # "Hmmm{cps=5}...{/cps}"
-    ""
+    "Hmmm{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:457
 translate French chapter_2_f6563cb5:
 
     # "Do I just sit anywhere, or is this {i}actually{/i} like high school and we have assigned seats?"
-    ""
+    "Est-ce que je m'assoie où je veux, ou c'est {i}actuellement{/i} comme le lycée et nous avons des places assignées?"
 
 # game/story/chapter_2.rpy:462
 translate French chapter_2_a1727a81:
 
     # "Beyond that, I need to consider that some students have wings and actual horns.{w=0.3} Should I sit at the front to make sure I can see at all, or hide behind them to avoid standing out so much?"
-    ""
+    "Par dessus tout, je dois prendre en compte que certains étudiants ont des ailes et des vraies cornes.{w=0.3} Devrais-je m'assoir devant pour m'assurer que je verrai, ou me cacher derrière pour éviter de trop me faire remarquer?"
 
 # game/story/chapter_2.rpy:466
 translate French chapter_2_d338a7ae:
 
     # MrHu "You must be the human I-."
-    MrHu ""
+    MrHu "Tu dois être l'humain dont j'ai-"
 
 # game/story/chapter_2.rpy:472
 translate French chapter_2_582d91ee:
 
     # D "{sc}Ah!{/sc}"
-    D ""
+    D "{sc}Ah!{/sc}"
 
 # game/story/chapter_2.rpy:478
 translate French chapter_2_69122fc4:
 
     # "I jump at a voice right behind me, feeling my heart skip one too many beats.{w=0.3} Turning to its source, I find a short, heavyset pachysaurus,{w=0.1} looking at me with a stern but tired expression."
-    ""
+    "Je saute à la voix juste derrière moi, sentant mon coeur battre trop vite.{w=0.3} Me retournant vers sa source, je trouve un petit et corpulent pachysaurus,{w=0.1} m'observant avec un regard strict mais fatigué."
 
 # game/story/chapter_2.rpy:483
 translate French chapter_2_d4f855fe:
 
     # "Based on the way he is dressed{w=0.2} - dress pants, a tie and a well ironed shirt{w=0.3} - I am guessing he's our professor?"
-    ""
+    "Vu la façon dont il est habillé{w=0.2} - pantalon de costume, cravate et chemise bien repassée{w=0.3} - je déduis que c'est notre professeur?"
 
 # game/story/chapter_2.rpy:489
 translate French chapter_2_09bfd8b9:
 
     # "Either that, or a really old student."
-    ""
+    "Soit ça, soit un étudiant très vieux."
 
 # game/story/chapter_2.rpy:494
 translate French chapter_2_4e0c4fac:
 
     # "Which is not an entirely unreasonable assumption.{w=0.3} This is a college, I remind myself, not a high school, no matter how much it looks like one."
-    ""
+    "Ce qui est une hypothèse pas entièrement déraisonnée.{w=0.3} C'est la fac, me rappelé-je, pas le lycée, peu importe à quel point cela y ressemble."
 
 # game/story/chapter_2.rpy:500
 translate French chapter_2_a740bef5:
 
     # "And even if it was a high school, it would be okay for anyone of any age to get their education done.{w=0.3} Commendable, even."
-    ""
+    "Et même si c'était le lycée, cela serait normal pour n'importe qui de n'importe quel âge de faire son éducation.{w=0.3} Admirable, même."
 
 # game/story/chapter_2.rpy:505
 translate French chapter_2_a8fdd81a:
 
     # MrHu "Kid,{w=0.2} are you listening?"
-    MrHu ""
+    MrHu "Gamin,{w=0.3} est-ce que tu écoutes?"
 
 # game/story/chapter_2.rpy:510
 translate French chapter_2_e251e9c4:
 
     # "Crap,{w=0.2} I spaced out, didn't I?"
-    ""
+    "Flûte,{w=0.2} j'étais absent, pas vrai?"
 
 # game/story/chapter_2.rpy:511
 translate French chapter_2_0dd1716d:
 
     # D "Uh, yeah{cps=5}...{/cps} I mean no.{w=0.3} Sorry. What did you ask me?"
-    D ""
+    D "Uh, ouais{cps=5}...{/cps} je veux dire non.{w=0.3} Désolé. Qu'est-ce que vous me demandiez?"
 
 # game/story/chapter_2.rpy:512
 translate French chapter_2_4d8f3b08:
 
     # MrHu "Your name.{w=0.3} You're the only human kid around this year."
-    MrHu ""
+    MrHu "Ton nom.{w=0.3} Tu es le seul humain ici cette année."
 
 # game/story/chapter_2.rpy:518
 translate French chapter_2_66d97ff2:
 
     # D "Yes, I'm Dev Loper."
-    D ""
+    D "Oui, je suis Dev Loper."
 
 # game/story/chapter_2.rpy:524
 translate French chapter_2_bff950c2:
 
     # MrH "Julian Hawthorn."
-    MrH ""
+    MrH "Julian Hawthorn."
 
 # game/story/chapter_2.rpy:525
 translate French chapter_2_800a7aea:
 
     # "Mr. Hawthorn speaks in a surprisingly deep,{w=0.1} gravelly rumble."
-    ""
+    "M. Hawthorn parle avec une voix qui, surprenament,{w=0.1} sonne comme un grondement graveleux."
 
 # game/story/chapter_2.rpy:531
 translate French chapter_2_b11be2da:
 
     # "His eyes suddenly narrow,{w=0.1} honing in on the marker on my forehead."
-    ""
+    "Ses yeux se plissent soudainement,{w=0.1} pointant vers la marque sur mon front."
 
 # game/story/chapter_2.rpy:534
 translate French chapter_2_997e9e64:
 
     # MrH "Already enjoying college life, are we, Mister Loper?"
-    MrH ""
+    MrH "Déjà en train d'apprécier la vie à la fac, n'est-ce pas, Monsieur Loper?"
 
 # game/story/chapter_2.rpy:535
 translate French chapter_2_ee219e1f:
 
     # MrH "I hope you'll take your academics seriously.{w=0.3} College is more than a place for partying and marking each other up when you pass out."
-    MrH ""
+    MrH "J'espère que vous prendrez au sérieux votre cursus.{w=0.3} La faculté c'est plus qu'un endroit pour faire la fête et vous marquer entre vous lorsque vous êtes dans les pommes."
 
 # game/story/chapter_2.rpy:538
 translate French chapter_2_202303b9:
 
     # D "No, I{cps=5}...{/cps} a friend told me it was a freshman tradition{cps=5}...{/cps}"
-    D ""
+    D "Non, je{cps=5}...{/cps} un ami m'a dit que c'était une tradition pour les nouveaux{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:542
 translate French chapter_2_e705acf9:
 
     # "Mr. Hawthorn looks around, prompting me to do the same."
-    ""
+    "M. Hawthorn regarde aux alentours, me poussant à faire de même."
 
 # game/story/chapter_2.rpy:543
 translate French chapter_2_0948ca10:
 
     # "Not a single other student has \"#1\" on their head."
-    ""
+    "Pas un seul autre étudiant a un \"#1\" sur son front."
 
 # game/story/chapter_2.rpy:546
 translate French chapter_2_05344ded:
 
     # MrH "If you insist{cps=5}...{/cps}"
-    MrH ""
+    MrH "Si vous le dites{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:550
 translate French chapter_2_24449e8d:
 
     # MrH "But as for academics, I'll be your professor for this class. Just pay attention, and you'll do fine, I'm sure."
-    MrH ""
+    MrH "Mais pour ce qui est des cours, je serai votre professeur dans cette classe. Soyez juste attentif, et vous débrouillerez bien, j'en suis sûr."
 
 # game/story/chapter_2.rpy:557
 translate French chapter_2_171ae39a:
 
     # MrH "I'll be your professor for this class. Just pay attention, and you'll do fine, I'm sure."
-    MrH ""
+    MrH "Je serai votre professeur dans cette classe. Soyez juste attentif, et vous débrouillerez bien, j'en suis sûr."
 
 # game/story/chapter_2.rpy:563
 translate French chapter_2_efca3de9:
 
     # D "You mentioned \"only human kid this year\"? Have there been other humans before then?"
-    D ""
+    D "Vous avez mentionné \"le seul humain ici cette année\"? Y'a-t-il alors déjà d'autres humains avant?"
 
 # game/story/chapter_2.rpy:569
 translate French chapter_2_d98e2f99:
 
     # MrH "No,{w=0.3} but we're hoping to have a more varied student body in the coming semesters."
-    MrH ""
+    MrH "Non,{w=0.3} mais nous espérons avoir une promotion plus variée dans les semestres à venir."
 
 # game/story/chapter_2.rpy:571
 translate French chapter_2_4390a807:
 
     # "This is good. It feels like I'm making a good impression.{w=0.3} I think."
-    ""
+    "C'est bien. Il semble que je fasse une bonne impression.{w=0.3} Je pense."
 
 # game/story/chapter_2.rpy:577
 translate French chapter_2_22fd1812:
 
     # "But{w=0.2} now that I'm talking to him, I am still wondering about the seating, so{cps=5}...{/cps}"
-    ""
+    "Mais{w=0.2} maintenant que je lui parle, je suis toujours perplexe par rapport au placement, alors{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:583
 translate French chapter_2_280631bf:
 
     # D "Thanks. I'm new to this whole \"college\" thing, do we have assigned seats or{cps=5}...{/cps}?"
-    D ""
+    D "Merci. Je suis nouveau à tout ce machin de \"la faculté\", est-ce qu'on a des places assignées ou{cps=5}...{/cps}?"
 
 # game/story/chapter_2.rpy:590
 translate French chapter_2_bc3493ca:
 
     # "He chuckles at the question. My ears grow warm out of a slight feeling of embarrassment"
-    ""
+    "Il glousse à ma question. Mes oreilles chauffent d'un légér sentiment d'embarras."
 
 # game/story/chapter_2.rpy:591
 translate French chapter_2_b5a8afe2:
 
     # MrH "No, kiddo. You're all adults,{w=0.2} sit where you like. I must warn you though, it's \"first come first serve\", so if you want the good seats you'll want to get here early."
-    MrH ""
+    MrH "Non, fiston. Vous êtes tous des adultes,{w=0.3} assois-toi où tu veux. Je dois te prévenir cependant, c'est \"premier arrivé premier servi\", donc si tu veux les bonnes places tu préfereras venir ici plus tôt."
 
 # game/story/chapter_2.rpy:592
 translate French chapter_2_731fd93a:
 
     # D "Thanks, Mr. Hawthorn."
-    D ""
+    D "Merci, M. Hawthorn."
 
 # game/story/chapter_2.rpy:606
 translate French chapter_2_58de3408:
 
     # "Out of courtesy - and to get on his good side - I offer a handshake, which he accepts with a smile."
-    ""
+    "Par politesse - et pour s'attirer ses faveurs - j'offre une poignée de main, qu'il accepte avec un sourire."
 
 # game/story/chapter_2.rpy:617
 translate French chapter_2_342b75af:
 
     # "This is an adjustment.{w=0.3} With how similarly this place looks to high school, I was expecting more of the same. But{w=0.1} he's right.{w=0.3} I {i}am{/i} an adult now."
-    ""
+    "C'est un ajustement.{w=0.3} Vu comment l'endroit est similaire au lycée, je m'attendais à plus de choses en commun. Mais{w=0.1} il a raison.{w=0.3} Je {i}suis{/i} un adulte maintenant."
 
 # game/story/chapter_2.rpy:627
 translate French chapter_2_8d7712c2:
 
     # "That'll be an adjustment to wrap my head around now too."
-    ""
+    "Ça sera aussi un ajustement pour me faire une idée de tout ça maintenant."
 
 # game/story/chapter_2.rpy:642
 translate French chapter_2_f1762a33:
 
     # "I hear the clamor of voices approaching the already half-filled room. How does this work?{w=0.3} Is this like the \"guy code\"? Where you don't - and I emphasize - you {i}don't{/i} choose the seat next to one already in use? Or will people even care at all?"
-    ""
+    "J'entends la clameur des voix approchant la salle déjà mi-remplie. Comment ça marche?{w=0.3} Est-ce que c'est le \"code des mecs\"? Où tu ne choisi - et je mets l'emphase - tu {i}ne choisi pas{/i} la place à côté d'une déjà occupée? Ou est-ce que les gens s'en préoccupent tout court?"
 
 # game/story/chapter_2.rpy:664
 translate French chapter_2_8b260cae:
 
     # "Hmmm."
-    ""
+    "Hmmm."
 
 # game/story/chapter_2.rpy:677
 translate French chapter_2_a699a71c:
 
     # "I just take a random spot in the middle.{w=0.2} Ideal.{w=0.3} Won't make me look too eager, but I also won't have to squint to see anything important."
-    ""
+    "Je prends juste une place au hasard vers le milieu.{w=0.2} L'idéal.{w=0.3} Ça ne me donnera pas trop l'air avide, mais je n'aurais pas à me forcer pour lire quoique ce soit d'important."
 
 # game/story/chapter_2.rpy:683
 translate French chapter_2_10442f23:
 
     # "I hear the professor clear his throat.{w=0.3} Silence sets in."
-    ""
+    "J'entends le professeur s'éclaircir la gorge.{w=0.3} Le silence tombe."
 
 # game/story/chapter_2.rpy:688
 translate French chapter_2_a3edbfe6:
 
     # MrH "As some of you who have had me in other classes might know,{w=0.2} my name is Professor Hawthorn."
-    MrH ""
+    MrH "Comme certains d'entre vous qui m'auraient eu dans d'autres cours peuvent le savoir,{w=0.3} mon nom est Professeur Hawthorn."
 
 # game/story/chapter_2.rpy:693
 translate French chapter_2_bed9a135:
 
     # MrH "For the sake of those that have mistakenly walked into the wrong class,{w=0.2} which happens far more often than I would hope: this is College Algebra,{w=0.3} an introductory course to advanced algebra."
-    MrH ""
+    MrH "Pour le bien de ceux qui seraient inadvertamment entrés dans la mauvaise classe,{w=0.2} ce qui arrive bien plus souvent que je ne l'espérerais: c'est l'Algèbre Universitaire,{w=0.3} un cours d'introduction à l'algèbre avancé."
 
 # game/story/chapter_2.rpy:720
 translate French chapter_2_a3d5c9e2:
 
     # "A few students sheepishly stand up and walk out, to which Mr. Hawthorn just rubs his temples in frustration."
-    ""
+    "Quelques étudiants se lèvent d'un air penaud et sortent, ce à quoi M. Hawthorn se frotte juste les tempes de frustration."
 
 # game/story/chapter_2.rpy:721
 translate French chapter_2_091906dc:
 
     # "I double check my schedule, just to be sure.{w=0.3} Yep, my adrenaline spiked brain didn't fail me - this is the right class."
-    ""
+    "Je revérifie mon agenda, juste pour être sûr.{w=0.3}Ouaip, mon cerveau shooté à l'adrénaline ne s'est pas trompé - c'est le bon cours."
 
 # game/story/chapter_2.rpy:728
 translate French chapter_2_f60d8d0a:
 
     # MrH "Anyway,{w=0.3} for this first week we will just be doing a refresher on what you {b}should{/b} have been taught in your senior year of high school."
-    MrH ""
+    MrH "Enfin bref,{w=0.3} pour cette première semaine nous allons juste faire un rappel de ce que vous {b}devriez{/b} avoir appris pendant votre terminale au lycée."
 
 # game/story/chapter_2.rpy:733
 translate French chapter_2_f9b7bba8:
 
     # MrH "After that we will be jumping into the more fun stuff."
-    MrH ""
+    MrH "Après ça nous attaquerons la partie plus amusante."
 
 # game/story/chapter_2.rpy:738
 translate French chapter_2_f940ee35:
 
     # "Mr. Hawthorn gives an awkward toothy smile.{w=0.3} Despite his forced attempt at enthusiasm, no one in class can be bothered to offer so much as an uninterested grunt."
-    ""
+    "M. Hawthorn lance un sourire dentu bizarre.{w=0.3} Malgré sa tentative forcée d'enthousiasme, personne dans la classe ne semble préoccupé de répondre plus qu'un grognement désintéressé."
 
 # game/story/chapter_2.rpy:743
 translate French chapter_2_e5b80836:
 
     # MrH "Right{cps=5}...{/cps}"
-    MrH ""
+    MrH "Très bien{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:769
 translate French chapter_2_77bac1ba:
 
     # "The rest of the class is exactly as he said.{w=0.1} Just a bunch of stuff I only half remember from high school.{w=0.3} I have a feeling YouSnoot and other people's notes are gonna be a necessary resource this year."
-    ""
+    "Le reste du cours est exactement comment il l'avait dit.{w=0.1} Juste un tas de trucs dont je me souviens à moitié du lycée.{w=0.3} J'ai la sensation que YouSnoot et les notes d'autres personnes vont être une ressource nécessaire cette année."
 
 # game/story/chapter_2.rpy:770
 translate French chapter_2_d8368c36:
 
     # "Maybe from Theo, and if that fails, then Rebecca or Elliot. Not sure if they like me enough to help me, but worth a try I guess."
-    ""
+    "Peut-être de Theo, et si ça ne va pas, alors Rebecca ou Elliot. Pas sûr qu'ils m'apprécient assez pour m'aider, mais ça vaut le coup de tenter j'imagine."
 
 # game/story/chapter_2.rpy:775
 translate French chapter_2_ac024d27:
 
     # "It's difficult to stay focused in the class, all things considered.{w=0.3} My mind begins to quickly drift,{w=0.2} and the fact that Mr. Hawthorn talks in such a monotone voice doesn't help.{w=0.3} It actually becomes impossible to stay focused."
-    ""
+    "C'est difficile de rester concentré en cours, toutes choses considérées.{w=0.3} Mon esprit diverge rapidement,{w=0.2} et le fait que M. Hawthorn parle avec une voix si monotone n'aide pas.{w=0.3} Cela devient en fait impossible de rester concentré."
 
 # game/story/chapter_2.rpy:791
 translate French chapter_2_759dd33d:

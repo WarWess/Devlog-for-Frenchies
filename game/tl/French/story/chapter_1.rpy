@@ -472,7 +472,7 @@ translate French chapter_1_74ac987f_1:
 translate French chapter_1_56ce58db:
 
     # "Well{cps=5}...{/cps} That's a promising start."
-    "Bon{cps=5}...{/cps} C'est un bon début."
+    "Bon{cps=5}...{/cps} Ça promet comme début."
 
 # game/story/chapter_1.rpy:449
 translate French chapter_1_3acfd18b:

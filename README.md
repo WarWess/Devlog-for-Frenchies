@@ -27,3 +27,8 @@ si des gens sont plus doués que moi en VSCode-ing et proposent des amélioratio
 
 + *college* :  **fac** | **faculté** | **université**. Préférence pour les deux premiers, tant que c'est pas trop étrange.
 + *Cretaceous College of Computing* : **Facultée Crétacée d'Informatique** et donc **FCI**. J'ai cherché, **crétacée** est bien l'adjectif (au féminin). 
+
+## Raccourcis pratiques : 
+
++ Ç : `ALT + 128`
++ É : `ALT + 144`
