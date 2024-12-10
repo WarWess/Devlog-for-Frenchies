@@ -64,7 +64,7 @@ translate French chapter_2_fef5afea:
 translate French chapter_2_e73cad8b:
 
     # "Wait{cps=5}...{/cps}"
-    "Attend{cps=5}...{/cps}"
+    "Attends{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:39
 translate French chapter_2_7dfa5df7:
@@ -208,7 +208,7 @@ translate French chapter_2_063cab95:
 translate French chapter_2_e73cad8b_1:
 
     # "Wait{cps=5}...{/cps}"
-    "Attend{cps=5}...{/cps}"
+    "Attends{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:208
 translate French chapter_2_e6391dfe:
@@ -340,7 +340,7 @@ translate French chapter_2_210fc7ca:
 translate French chapter_2_7c8c919c:
 
     # "It's a simple room,{w=0.3} with wooden desks and chairs, complete with metal legs that you just know aren't properly balanced. The desks even have a cubby hole beneath them to hold books and whatever else you can fit."
-    "C'est une pièce simple,{w=0.3} avec des bureaux et des chaises en bois, complétés par des pieds en métal que tu sais non-équilibrés proprement. Les bureaux ont même cet espace cubique en dessous pour placer les livrer et tout ce que tu peux y faire rentrer."
+    "C'est une pièce simple,{w=0.3} avec des bureaux et des chaises en bois, complétés par des pieds en métal que tu sais bien bancals. Les bureaux ont même cet espace cubique en dessous pour placer les livrer et tout ce que tu peux y faire rentrer."
 
 # game/story/chapter_2.rpy:430
 translate French chapter_2_deb17d0c:
@@ -370,13 +370,13 @@ translate French chapter_2_f822e506_3:
 translate French chapter_2_657a7c0e:
 
     # "This just looks like high school."
-    "Ça ressemble juste comme le lycée."
+    "Ça ressemble juste au lycée."
 
 # game/story/chapter_2.rpy:447
 translate French chapter_2_790d3b48:
 
     # "I cringe at the thought of all the chalk-scraping hell to come,{w=0.1} as if math couldn't be bad enough on its own."
-    "Je grimace à l'idée de tout les tortures à la craie grattante à venir,{w=0.1} comme si les maths en elles-mêmes n'étaient pas assez terribles."
+    "Je grimace à l'idée de tout les tortures à coup de craie grincante à venir,{w=0.1} comme si les maths en elles-mêmes n'étaient pas assez terribles."
 
 # game/story/chapter_2.rpy:452
 translate French chapter_2_e6f5cde6:
@@ -394,7 +394,7 @@ translate French chapter_2_f6563cb5:
 translate French chapter_2_a1727a81:
 
     # "Beyond that, I need to consider that some students have wings and actual horns.{w=0.3} Should I sit at the front to make sure I can see at all, or hide behind them to avoid standing out so much?"
-    "Par dessus tout, je dois prendre en compte que certains étudiants ont des ailes et des vraies cornes.{w=0.3} Devrais-je m'assoir devant pour m'assurer que je verrai, ou me cacher derrière pour éviter de trop me faire remarquer?"
+    "Par dessus tout, je dois prendre en compte que certains étudiants ont des ailes et des grosses cornes.{w=0.3} Devrais-je m'assoir devant pour m'assurer que je verrai, ou me cacher derrière pour éviter de trop me faire remarquer?"
 
 # game/story/chapter_2.rpy:466
 translate French chapter_2_d338a7ae:
@@ -412,13 +412,13 @@ translate French chapter_2_582d91ee:
 translate French chapter_2_69122fc4:
 
     # "I jump at a voice right behind me, feeling my heart skip one too many beats.{w=0.3} Turning to its source, I find a short, heavyset pachysaurus,{w=0.1} looking at me with a stern but tired expression."
-    "Je saute à la voix juste derrière moi, sentant mon coeur battre trop vite.{w=0.3} Me retournant vers sa source, je trouve un petit et corpulent pachysaurus,{w=0.1} m'observant avec un regard strict mais fatigué."
+    "Je sursaute à la voix juste derrière moi, sentant mon coeur battre trop vite.{w=0.3} Me retournant vers la source, je trouve un petit et corpulent pachysaurus,{w=0.1} m'observant avec un regard strict mais fatigué."
 
 # game/story/chapter_2.rpy:483
 translate French chapter_2_d4f855fe:
 
     # "Based on the way he is dressed{w=0.2} - dress pants, a tie and a well ironed shirt{w=0.3} - I am guessing he's our professor?"
-    "Vu la façon dont il est habillé{w=0.2} - pantalon de costume, cravate et chemise bien repassée{w=0.3} - je déduis que c'est notre professeur?"
+    "Vu la façon dont il est habillé{w=0.2} - pantalon de costume, cravate et chemise bien repassée{w=0.3} - j'en déduis que c'est notre professeur?"
 
 # game/story/chapter_2.rpy:489
 translate French chapter_2_09bfd8b9:
@@ -430,13 +430,13 @@ translate French chapter_2_09bfd8b9:
 translate French chapter_2_4e0c4fac:
 
     # "Which is not an entirely unreasonable assumption.{w=0.3} This is a college, I remind myself, not a high school, no matter how much it looks like one."
-    "Ce qui est une hypothèse pas entièrement déraisonnée.{w=0.3} C'est la fac, me rappelé-je, pas le lycée, peu importe à quel point cela y ressemble."
-
+    "Ce qui n'est pas une hypothèse complétement déraisonnée.{w=0.3} C'est la fac, me rappelé-je, pas le lycée, peu importe à quel point cela y ressemble."
+                                    
 # game/story/chapter_2.rpy:500
 translate French chapter_2_a740bef5:
 
     # "And even if it was a high school, it would be okay for anyone of any age to get their education done.{w=0.3} Commendable, even."
-    "Et même si c'était le lycée, cela serait normal pour n'importe qui de n'importe quel âge de faire son éducation.{w=0.3} Admirable, même."
+    "Et même si c'était le lycée, cela serait normal pour n'importe qui à n'importe quel âge de faire son éducation.{w=0.3} Admirable, même."
 
 # game/story/chapter_2.rpy:505
 translate French chapter_2_a8fdd81a:
@@ -538,13 +538,13 @@ translate French chapter_2_171ae39a:
 translate French chapter_2_efca3de9:
 
     # D "You mentioned \"only human kid this year\"? Have there been other humans before then?"
-    D "Vous avez mentionné \"le seul humain ici cette année\"? Y'a-t-il alors déjà d'autres humains avant?"
+    D "Vous avez mentionné \"le seul humain ici cette année\"? Y'a-t-il alors déjà eu d'autres humains avant?"
 
 # game/story/chapter_2.rpy:569
 translate French chapter_2_d98e2f99:
 
     # MrH "No,{w=0.3} but we're hoping to have a more varied student body in the coming semesters."
-    MrH "Non,{w=0.3} mais nous espérons avoir une promotion plus variée dans les semestres à venir."
+    MrH "Non,{w=0.3} mais nous espérons avoir une promotion plus variée durant les semestres à venir."
 
 # game/story/chapter_2.rpy:571
 translate French chapter_2_4390a807:
@@ -604,7 +604,7 @@ translate French chapter_2_8d7712c2:
 translate French chapter_2_f1762a33:
 
     # "I hear the clamor of voices approaching the already half-filled room. How does this work?{w=0.3} Is this like the \"guy code\"? Where you don't - and I emphasize - you {i}don't{/i} choose the seat next to one already in use? Or will people even care at all?"
-    "J'entends la clameur des voix approchant la salle déjà mi-remplie. Comment ça marche?{w=0.3} Est-ce que c'est le \"code des mecs\"? Où tu ne choisi - et je mets l'emphase - tu {i}ne choisi pas{/i} la place à côté d'une déjà occupée? Ou est-ce que les gens s'en préoccupent tout court?"
+    "J'entends la clameur des voix approchant la salle déjà mi-remplie. Comment ça marche?{w=0.3} Est-ce que c'est le \"code des mecs\"? Où tu ne choisi - et je mets l'emphase - tu {i}ne choisi pas{/i} la place à côté d'une autre? Ou est-ce que les gens s'en préoccupent tout court?"
 
 # game/story/chapter_2.rpy:664
 translate French chapter_2_8b260cae:
@@ -646,7 +646,7 @@ translate French chapter_2_a3d5c9e2:
 translate French chapter_2_091906dc:
 
     # "I double check my schedule, just to be sure.{w=0.3} Yep, my adrenaline spiked brain didn't fail me - this is the right class."
-    "Je revérifie mon agenda, juste pour être sûr.{w=0.3}Ouaip, mon cerveau shooté à l'adrénaline ne s'est pas trompé - c'est le bon cours."
+    "Je revérifie mon agenda, juste pour être sûr.{w=0.3} Ouaip, mon cerveau shooté à l'adrénaline ne s'est pas trompé - c'est le bon cours."
 
 # game/story/chapter_2.rpy:728
 translate French chapter_2_f60d8d0a:
@@ -694,991 +694,991 @@ translate French chapter_2_ac024d27:
 translate French chapter_2_759dd33d:
 
     # "It does give me time to think, though.{w=0.3} About what Theo said last night. About making a game."
-    ""
+    "Cela me donne le temps de réfléchir, cependant.{w=0.3} À propos de ce que Theo a dit la nuit dernière. À propos de faire un jeu."
 
 # game/story/chapter_2.rpy:792
 translate French chapter_2_7f68eccc:
 
     # "It's a neat idea."
-    ""
+    "C'est une idée sympa."
 
 # game/story/chapter_2.rpy:797
 translate French chapter_2_d4891b6a:
 
     # "I've been trying to figure out what I want to do with my future anyway, so{w=0.3} maybe game design is it?"
-    ""
+    "J'essayais de trouver ce que j'allais faire dans le future de toute façon, alors{w=0.3} peut-être du game design?"
 
 # game/story/chapter_2.rpy:800
 translate French chapter_2_1fbaca35:
 
     # "I've made mods for games before, but an actual game?"
-    ""
+    "J'ai fait des mods pour des jeux avant, mais un vrai jeu?"
 
 # game/story/chapter_2.rpy:802
 translate French chapter_2_0b1bdd8d:
 
     # "I haven't tried doing anything like it before."
-    ""
+    "Je n'ai jamais essayé de faire quelque chose comme ça auparavant."
 
 # game/story/chapter_2.rpy:804
 translate French chapter_2_d0f3d37b:
 
     # "What would it even be about?{w=0.3} What kind of game would it be?"
-    ""
+    "Et de quoi s'agirait-il?{w=0.3} Quel genre de jeu ça serait?"
 
 # game/story/chapter_2.rpy:813
 translate French chapter_2_d9cff42e:
 
     # "I like fighting games,{w=0.2} and they're not as frustrating as an open world adventure game filled with busywork.{w=0.3} I have a love-hate relationship with those."
-    ""
+    "J'aime les jeux de combat,{w=0.2} et ils ne sont pas aussi frustrants que les jeux d'aventure en monde ouvert emplis d'occupations.{w=0.3} J'ai une relation amour-haine avec ceux-ci."
 
 # game/story/chapter_2.rpy:822
 translate French chapter_2_e03d3334:
 
     # "Open world types usually have either great stories, or the most slapped-on, cardboard-tasting excuse for a plot{w=0.3} and the fetch quests end up being more entertaining."
-    ""
+    "Les mondes ouverts ont générallement soit des bonnes histoires, soit le plot en carton le plus claqué au sol{w=0.3} et les quêtes de 'va chercher' finissent par être le plus amusant."
 
 # game/story/chapter_2.rpy:823
 translate French chapter_2_5e3d3345:
 
     # "And almost no one likes fetch quests.{w=0.2} I'm not sure if I want to meet anyone who does."
-    ""
+    "Et presque personne n'aime les quêtes de 'va chercher'.{w=0.3} Je ne suis pas sûr de vouloir rencontrer quelqu'un qui aime ça."
 
 # game/story/chapter_2.rpy:832
 translate French chapter_2_d8ffb2b7:
 
     # "Visual novels are out of the question.{w=0.1} I mean, reading?{w=0.3} In my videogame?"
-    ""
+    "Les visual novels c'est hors de question.{w=0.1} Je veux dire, lire?{w=0.3} Dans mon jeu?"
 
 # game/story/chapter_2.rpy:841
 translate French chapter_2_fc4c04b7:
 
     # "And then there are shooters.{w=0.3} It could be a BOOM clone,{w=0.2} a linear and narrative focused one{cps=5}...{/cps} or a competitive shooter, ultra replayable, not that many assets required. "
-    ""
+    "Et puis il y a les shooters.{w=0.3} Ça pourrait être un clone de BOOM,{w=0.2} un jeu linéaire et orienté narration{cps=5}...{/cps} ou un shooter compétitif, ultra rejouable, avec pas beaucoup d'assets nécessaires."
 
 # game/story/chapter_2.rpy:846
 translate French chapter_2_435b35c5:
 
     # "What I fear the most about those is the balancing part.{w=0.3} We'd have to make sure that every character offers a fair chance for anyone to win."
-    ""
+    "Ce que je crains le plus à propos de ceux-là c'est l'équilibrage.{w=0.3} Nous devrons nous assurer que chaque personnage offre une chance équitable de gagner pour tout le monde."
 
 # game/story/chapter_2.rpy:850
 translate French chapter_2_72a5267d:
 
     # "But also make them feel different because the first-person POV doesn't help much at making them stand out at first glance."
-    ""
+    "Mais aussi les rendre différents parce que le POV à la première personne n'aide pas beaucoup pour les faire sortir du lot au premier regard."
 
 # game/story/chapter_2.rpy:851
 translate French chapter_2_a0906c4e:
 
     # "And there's the matter of objectives and gameplay{w=0.3} - we can't just have a deathmatch mode and call it a day."
-    ""
+    "Et puis il y a l'histoire des objectifs et du gameplay{w=0.3} - on ne peut pas juste avoir un mode match à mort et c'est tout."
 
 # game/story/chapter_2.rpy:852
 translate French chapter_2_481396db:
 
     # "I hum to myself,{w=0.1} thinking that if I have this many thoughts about shooters,{w=0.2} maybe they're the idea I like the most."
-    ""
+    "Je fredonne à moi même,{w=0.1} pensant que si j'ai autant d'idées pour les shooters,{w=0.2} peut-être qu'ils sont l'idée que j'aime le plus."
 
 # game/story/chapter_2.rpy:860
 translate French chapter_2_439fd7aa:
 
     # "I write all of this down in the empty spaces of the margins of my notes.{w=0.3} Regardless of my feelings on it for now, I'll have to discuss this with Theo later."
-    ""
+    "J'écris tout ça dans les espaces vides des marges de mes notes.{w=0.3} Quels que soient mes sentiments à leur égard, je devrai en discuter avec Theo plus tard."
 
 # game/story/chapter_2.rpy:861
 translate French chapter_2_e86508c6:
 
     # "I can't deny that I'm excited about having an actual friend in college, and having something fun to talk about with them. Something that-"
-    ""
+    "Je ne peux dénier que cela m'excite d'avoir un vrai ami à la fac, et avoir quelque chose de marrant à parler avec lui. Quelque chose qui-"
 
 # game/story/chapter_2.rpy:911
 translate French chapter_2_ae5daa38:
 
     # "My thoughts are interrupted by what could best be described as an \"absolute unit of an individual\" trying their best to enter the classroom as quietly as possible."
-    ""
+    "Mes pensées sont interrompues par ce qui pourrait être décrit au mieux comme un \"individu d'unité absolue\" essayant de son mieux pour entrer dans la classe aussi silencieusement que possible."
 
 # game/story/chapter_2.rpy:921
 translate French chapter_2_b9b85578:
 
     # "Unfortunately for them, however, it seems the world wishes to play the cruelest prank on them by making the door as ear-gratingly squeaky as possible.{w=0.3} It even eclipses Mr. Hawthorn's chalk sounds."
-    ""
+    "Malheureusement pour eux, cependant, il semble que le monde souhaite leur faire la blague la plus cruelle possible en rendant la porte aussi grinçante que possible.{w=0.3} Ça éclipse même le bruit de craie de M. Hawthorn."
 
 # game/story/chapter_2.rpy:923
 translate French chapter_2_2c590b9f:
 
     # "It creaks loud,{w=0.1} long{w=0.1} and clear, making everyone's head turn in their direction."
-    ""
+    "Elle grince bruyamment,{w=0.1} longtemps{w=0.1} et clairement, faisant se retourner les têtes de tout le monde dans sa direction."
 
 # game/story/chapter_2.rpy:929
 translate French chapter_2_06c295ab:
 
     # "Hard not to be distracted by some guy with shoulders that reach 6 feet on their own,{w=0.3} and a neck that is easily twice as long, if not more."
-    ""
+    "Difficile de ne pas être distrait par un gars dont les épaules atteingnent 1m80 d'elles-mêmes,{w=0.3} et un cou qui est facilement deux fois plus long, si ce n'est plus."
 
 # game/story/chapter_2.rpy:934
 translate French chapter_2_63b6d937:
 
     # "The professor looks at the late arrival with quite a bit of annoyance."
-    ""
+    "Le professeur regarde le retardataire avec un certain agacement."
 
 # game/story/chapter_2.rpy:941
 translate French chapter_2_7faac513:
 
     # MrH "Ms. Bennett,{w=0.3} so glad for you to finally decide to join us today."
-    MrH ""
+    MrH "Mlle. Bennett,{w=0.3} je suis si heureux pour vous de vous être finallement décidée de nous joindre aujourd'hui."
 
 # game/story/chapter_2.rpy:946
 translate French chapter_2_e1030edc:
 
     # "That behemoth is a girl!?{w=0.3} I feel the need to slap my own face for my stupid assumption."
-    ""
+    "Ce béhémoth est une fille!?{w=0.3} Je sens l'envie de me giffler pour ma supposition stupide."
 
 # game/story/chapter_2.rpy:951
 translate French chapter_2_7b3b188c:
 
     # "I'm also getting the feeling that these two know each other."
-    ""
+    "J'ai aussi l'impression que ces deux-là se connaissent."
 
 # game/story/chapter_2.rpy:964
 translate French chapter_2_4df0dc7d:
 
     # "The large girl looks around the room as all eyes are on her, and her face turns beet red at the attention."
-    ""
+    "La large fille regarde à travers la pièce alors que tous les yeux sont posés sur elle, et son visage vire au rouge tomate à cause de l'attention."
 
 # game/story/chapter_2.rpy:971
 translate French chapter_2_d8798c55:
 
     # "I see her mouth something to Mr. Hawthorn but don't hear anything at all.{w=0.1} He just rolls his eyes and gestures for her to take a seat."
-    ""
+    "Je vois qu'elle dit à voix basse quelque chose à M. Hawthorn mais je n'entends rien du tout.{w=0.1} Il roule juste des yeux et lui fait signe de prendre place."
 
 # game/story/chapter_2.rpy:986
 translate French chapter_2_c27934a9:
 
     # "I guess he wasn't joking about the seats, the only one left is the one right next to me."
-    ""
+    "J'imagine qu'il ne plaisantait pas à propos des places, la seule restante est celle juste à côté de moi."
 
 # game/story/chapter_2.rpy:987
 translate French chapter_2_f822e506_4:
 
     # "{cps=5}...{/cps}"
-    ""
+    "{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:992
 translate French chapter_2_db700fae:
 
     # "Does it say something about me that the only seat left is beside me?"
-    ""
+    "Est-ce que ça signifie quelque chose à propos de moi que la seule chaise restante est à côté de moi?"
 
 # game/story/chapter_2.rpy:993
 translate French chapter_2_9ffc5299:
 
     # "It's not a bad seat,{w=0.3} and there's someone on my other side. But{w=0.2} now that I take a look, they've scooted closer to the seat to their left, conspicuously a few extra inches farther from me."
-    ""
+    "Ce n'est pas une mauvaise place,{w=0.3} et il y a quelqu'un de mon autre côté. Mais{w=0.2} maintenant que j'y regarde, ils se sont tous rapprochés des sièges à leur gauche, manifestement quelques centimètres plus loin de moi."
 
 # game/story/chapter_2.rpy:1005
 translate French chapter_2_6ed087ef:
 
     # "The chair creaks too as the brontosaur girl tries to adjust to the desk beside me, all while failing to make herself seem smaller."
-    ""
+    "La chaise grince aussi tandis que la brontosaure essaie de s'ajuster à la table à côté de moi, le tout en échouant de se rendre plus petite."
 
 # game/story/chapter_2.rpy:1006
 translate French chapter_2_3043a29f:
 
     # "Her long neck bends down at a painful angle and rests on the floor, not wanting to obscure the person behind her's view of the board."
-    ""
+    "Son cou long se plie dans un angle douloureux et repose sur le sol, ne voulant pas obscurcir la vue vers le tableau de la personne derrière elle."
 
 # game/story/chapter_2.rpy:1038
 translate French chapter_2_099d98c8:
 
     # "Once she's done accommodating her head, the professor gets back to his lecture."
-    ""
+    "Une fois qu'elle a fini d'adapter sa tête, le professeur retourne à sa leçon."
 
 # game/story/chapter_2.rpy:1057
 translate French chapter_2_5367cfc7:
 
     # "I, too, get back to my battle against passing out from boredom.{w=0.3} I decide to write down any game-related idea I have,{w=0.2} or draw an asterisk on every topic that I can't remember anything about."
-    ""
+    "Je retourne, moi aussi, à ma bataille contre l'évanouissement dû à l'ennui.{w=0.3} Je décide d'écrire toutes les idées liées aux jeux que j'ai,{w=0.2} ou dessiner un astérisque sur chaque sujet dont je ne peux rien me rappeler."
 
 # game/story/chapter_2.rpy:1058
 translate French chapter_2_37583017:
 
     # "Math isn't my forte, never was,{w=0.2} but I do remember most of the topics Mr. Hawthorn lists on the black board. I wasn't half bad at them in high school, so I don't feel like paying that much attention anyway."
-    ""
+    "Les maths ne sont pas mon fort, ça ne l'a jamais été,{w=0.2} mais je me rappelle de la plupart des sujets que M. Hawthorn liste sur le tableau. Je n'y étais pas trop mauvais au lycée, donc je ne ressens pas l'envie d'y faire autant attention."
 
 # game/story/chapter_2.rpy:1059
 translate French chapter_2_b28a4132:
 
     # "Back to thinking about other things."
-    ""
+    "De retour à penser à d'autres choses."
 
 # game/story/chapter_2.rpy:1060
 translate French chapter_2_5a066f3e:
 
     # "Maybe we could just start simple.{w=0.3} Like a basic platformer? A point and click game?"
-    ""
+    "Peut-être que nous pourrions commencer simplement.{w=0.3} Comme un platformer basique? Un jeu point and click?"
 
 # game/story/chapter_2.rpy:1078
 translate French chapter_2_af260ff3:
 
     # "Mr. Hawthorn claps once and I jump in my seat at the harsh sound."
-    ""
+    "M. Hawthorn frappe des mains et je sursaute sur ma chaise à cause le bruit soudain."
 
 # game/story/chapter_2.rpy:1084
 translate French chapter_2_a458fd8e:
 
     # MrH "And that will be all for today.{w=0.3} For the rest of class, just study the material and be sure to copy all the notes on the board."
-    MrH ""
+    MrH "Et ce sera tout pour aujourd'hui.{w=0.3} Pour le restant du cours, étudiez juste le contenu et soyez sûr de recopier toutes les notes au tableau."
 
 # game/story/chapter_2.rpy:1089
 translate French chapter_2_46dd54e3:
 
     # MrH "All the information about upcoming tests will be posted at the end of the week, and all of the topics too."
-    MrH ""
+    MrH "Toutes les informations sur les prochains tests seront postées à la fin de la semaine, et tous les sujets aussi."
 
 # game/story/chapter_2.rpy:1119
 translate French chapter_2_2c12c939:
 
     # MrH "A list of references and suggested bibliography can be requested at the library,{w=0.2} just mention my name and the name of the course, and the librarian will give it to you."
-    MrH ""
+    MrH "Une liste de références et bibliographies suggérées peut être demandée à la bibliothèque,{w=0.3} mentionnez juste mon nom et le nom du cours, et le bibliothécaire vous la donnera."
 
 # game/story/chapter_2.rpy:1129
 translate French chapter_2_7115b47a:
 
     # "Oh, shit{cps=5}...{/cps}"
-    ""
+    "Oh, merde{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1134
 translate French chapter_2_278d5293:
 
     # "I realize that I haven't listened to a single thing he said,{w=0.2} besides some random tidbits that don't really connect to one another."
-    ""
+    "Je réalise que je n'ai pas écouté la moindre chose qu'il ait dite,{w=0.2} à part des bribes d'informations au hasard qui ne connectent pas vraiment les unes aux autres."
 
 # game/story/chapter_2.rpy:1139
 translate French chapter_2_12573b79:
 
     # "The value of x will forever remain lost to me if things stay this way."
-    ""
+    "La valeur de x restera à jamais une inconnue si les choses continuent ainsi."
 
 # game/story/chapter_2.rpy:1144
 translate French chapter_2_c36e1315:
 
     # "I quickly copy everything on the board."
-    ""
+    "Je recopie rapidement tout ce qu'il y a au tableau."
 
 # game/story/chapter_2.rpy:1149
 translate French chapter_2_017bbb0f:
 
     # "It's only the first day, I'll{cps=5}...{/cps} figure it out{cps=5}...{/cps} or something."
-    ""
+    "C'est seulement le premier jour, je vais{cps=5}...{/cps} trouver un moyen{cps=5}...{/cps} ou quelque chose."
 
 # game/story/chapter_2.rpy:1185
 translate French chapter_2_e886e7c7:
 
     # "Hmm."
-    ""
+    "Hmm."
 
 # game/story/chapter_2.rpy:1186
 translate French chapter_2_cfdd375b:
 
     # "The brontosaurus girl next to me seems to be writing quite a bit down. Bennett, was it?{w=0.3} But that's her surname, surely."
-    ""
+    "La brontosaure à côté de moi semble plutôt écrire beaucoup. Bennett, n'est pas?{w=0.3} Mais c'est son nom de famille, certainement."
 
 # game/story/chapter_2.rpy:1187
 translate French chapter_2_a15009fc:
 
     # "I wish Mr. Hawthorn had called her by her first name earlier. It would sound weird if I tried to get her attention with a \"Bennett!\" or a \"hey, girl!\""
-    ""
+    "J'aurais aimé que M. Hawthorn l'ait appelée par son prénom auparavant. Cela sonnerait bizarre si j'essayais d'attirer son attention avec un \"Bennett!\" ou un \"hé, mademoiselle!\""
 
 # game/story/chapter_2.rpy:1188
 translate French chapter_2_cffc30c3:
 
     # "Maybe a quick peek at her notes,{w=0.2} then I don't need to bother her."
-    ""
+    "Peut-être qu'un rapide coup d'œil furtif à ses notes,{w=0.2} et je n'ai pas à l'embêter."
 
 # game/story/chapter_2.rpy:1192
 translate French chapter_2_b9d44414:
 
     # "I glance closer and see{cps=5}...{/cps}"
-    ""
+    "Je jette un oeil de plus près et vois{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1193
 translate French chapter_2_f822e506_5:
 
     # "{cps=5}...{/cps}"
-    ""
+    "{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1194
 translate French chapter_2_ea93fc96:
 
     # "She wrote nothing down."
-    ""
+    "Qu'elle n'a rien écrit."
 
 # game/story/chapter_2.rpy:1195
 translate French chapter_2_bce1b802:
 
     # "Even though she came in late, she hasn't even written down the notes from the board.{w=0.3} Her notebook is covered in detailed doodles that extend from one page to another."
-    ""
+    "Bien qu'elle soit arrivée en retard, elle n'a même pas recopié les notes au tableau.{w=0.3} Son cahier est recouvert de dessins détaillés qui s'étendent d'une page à l'autre."
 
 # game/story/chapter_2.rpy:1196
 translate French chapter_2_a439b59a:
 
     # "Huh."
-    ""
+    "Huh."
 
 # game/story/chapter_2.rpy:1197
 translate French chapter_2_a19b08a8:
 
     # "They're actually pretty good.{w=0.3} Like, jaw-droppingly good."
-    ""
+    "Ils sont plutôt bien en vrai.{w=0.3} Genre, à tomber par terre."
 
 # game/story/chapter_2.rpy:1198
 translate French chapter_2_70c727fa:
 
     # "The one in the middle especially, it looks like some demon. The shading is uncannily realistic despite only being done in pencil."
-    ""
+    "Celui au milieu en particulier, on dirait une sorte de démon. L'ombrage est mystérieusement réaliste bien qu'il ne soit fait qu'au crayon."
 
 # game/story/chapter_2.rpy:1199
 translate French chapter_2_a2075dce:
 
     # "Although looking at it more closely{cps=5}...{/cps} is that{cps=5}...{/cps}"
-    ""
+    "Cependant en y regardant de plus près{cps=5}...{/cps} est-ce que c'est{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1200
 translate French chapter_2_f0941cf0:
 
     # "It's Mr. Hawthorn, but as some weird Japanese demon thing,{w=0.1} a big club on his back and an expression of anger like those on old Japanese samurai ink drawings."
-    ""
+    "C'est M. Hawthorn, mais en tant que démon truc japonais bizarre,{w=0.1} une grosse masse dans son dos et une expression de colère comme ceux sur ces vieux dessins de samouraïs japonais à l'encre"
 
 # game/story/chapter_2.rpy:1207
 translate French chapter_2_34358a33:
 
     # "Guess she didn't take the dressing down he gave her well.{w=0.3} Can't blame her for that.{w=0.3} Had it been me in her place, well I don't quite know what I would do."
-    ""
+    "J'imagine qu'elle n'a pas bien pris la leçon qu'il lui a donnée.{w=0.3} Je ne peux pas lui en vouloir.{w=0.3} Si j'avais été à sa place, eh bien je ne saurais pas vraiment ce que j'aurais fait."
 
 # game/story/chapter_2.rpy:1212
 translate French chapter_2_60547a20:
 
     # "Probably drop dead from shame, to be honest."
-    ""
+    "Je serais probablement mort de honte, pour être honnête."
 
 # game/story/chapter_2.rpy:1217
 translate French chapter_2_0ee30fa4:
 
     # "The drawing looks pretty cool though!"
-    ""
+    "Le dessin à l'air plutôt cool cependant!"
 
 # game/story/chapter_2.rpy:1218
 translate French chapter_2_f8cad7a1:
 
     # "Glancing up at the bronto to make sure she hasn't noticed me staring, I notice she looks{cps=5}...{/cps} sad?"
-    ""
+    "En jetant un oeil au bronto pour m'assurer qu'elle ne m'ait pas remarqué en train de reluquer, je remarque qu'elle a l'air{cps=5}...{/cps} triste?"
 
 # game/story/chapter_2.rpy:1223
 translate French chapter_2_66825647:
 
     # "Does she not like her own drawing?{w=0.3} But it looks so good!"
-    ""
+    "Est-ce qu'elle n'aime pas ses propres dessins?{w=0.3} Mais ils sont si bien!"
 
 # game/story/chapter_2.rpy:1228
 translate French chapter_2_a020e07d:
 
     # "Maybe I should compliment it?"
-    ""
+    "Peut-être que je devrais les complimenter?"
 
 # game/story/chapter_2.rpy:1233
 translate French chapter_2_ef17eecc:
 
     # "But,{w=0.3} would that come off as creepy?{w=0.3} Like I'm spying on her?"
-    ""
+    "Mais,{w=0.3} ne serais-ce pas vu comme glauque?{w=0.3} Genre je suis en train de l'espionner?"
 
 # game/story/chapter_2.rpy:1238
 translate French chapter_2_814b2b30:
 
     # "I guess I could ask her if she's doing alright,{w=0.2} then it's more like I'm only concerned about her."
-    ""
+    "J'imagine que je pourrais demander si elle va bien,{w=0.2} et dans ce cas ça serait plus comme si je m'inquiétais pour elle."
 
 # game/story/chapter_2.rpy:1243
 translate French chapter_2_90c67a09:
 
     # "But I {i}am{/i} also just some random stranger,{w=0.2} so would I be overstepping?"
-    ""
+    "Mais je {i}suis{/i} juste aussi un étranger au hasard,{w=0.2} donc est-ce que je ne dépasserais pas les bornes?"
 
 # game/story/chapter_2.rpy:1268
 translate French ask_art_b12f0454:
 
     # D "Hey, that's a cool drawing."
-    D ""
+    D "Hey, c'est un dessin cool."
 
 # game/story/chapter_2.rpy:1279
 translate French ask_art_ad64ca6b:
 
     # "She freezes like a deer caught in headlights.{w=0.1} Slowly,{w=0.2} she lifts her head,{w=0.3} but her eyes remain hidden behind a curtain of messy hair."
-    ""
+    "Elle se fige comme un lapin dans les phares d'une voiture.{w=0.1} Lentement,{w=0.2} elle lève la tête,{w=0.3} mais ses yeux restent cachés derrière un fouillis de cheveux."
 
 # game/story/chapter_2.rpy:1284
 translate French ask_art_08ddb07e:
 
     # "I push on,{w=0.2} hoping to break the ice."
-    ""
+    "Je continue,{w=0.2} espérant briser la glace."
 
 # game/story/chapter_2.rpy:1289
 translate French ask_art_5d23ac23:
 
     # D "Seriously,{w=0.1} it's amazing.{w=0.3} Did you draw that just now?"
-    D ""
+    D "Sérieusement,{w=0.1} c'est incroyable.{w=0.3} Est-ce que tu viens juste de le dessiner?"
 
 # game/story/chapter_2.rpy:1307
 translate French ask_art_505c284f:
 
     # "Her face flushes red. She nods slightly but still doesn't meet my gaze."
-    ""
+    "Son visage vire au rouge. Elle acquiesse lentement mais ne croise toujours pas mon regard."
 
 # game/story/chapter_2.rpy:1308
 translate French ask_art_aa6e3a7b:
 
     # "Okay, so far so good?"
-    ""
+    "Okay, pour le moment ça va?"
 
 # game/story/chapter_2.rpy:1316
 translate French ask_art_75b3027d:
 
     # D "I couldn't help but notice it{cps=5}...{/cps} I-I wasn't spying on you or anything{cps=5}...{/cps}"
-    D ""
+    D "Je pouvais pas m'empêcher de le remarquer{cps=5}...{/cps} J-je ne t'espionnais pas ou quoique ce soit{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1321
 translate French ask_art_ccec3b40:
 
     # "She's just staring back at me{cps=5}...{/cps}"
-    ""
+    "Elle est juste en train de m'observer{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1326
 translate French ask_art_f92e0be4:
 
     # D "It's{cps=5}...{/cps} really detailed and uh{cps=5}...{/cps} neat{cps=5}...{/cps}"
-    D ""
+    D "C'est{cps=5}...{/cps} très détaillé et euh{cps=5}...{/cps} sympa{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1327
 translate French ask_art_c25fc312:
 
     # "She is giving me nothing to work with here,{w=0.3} her face is completely obscured by her hair and she hasn't said a word since she sat down."
-    ""
+    "Elle ne me renvoie pas la balle,{w=0.3} son visage est complétement obstrué par ses cheveux et elle n'a pas dit un mot depuis qu'elle s'est assise."
 
 # game/story/chapter_2.rpy:1328
 translate French ask_art_4fab7b49:
 
     # D "It's, uh{cps=5}...{/cps} Mr. Hawthorn as a demon or something, right?"
-    D ""
+    D "C'est, euh{cps=5}...{/cps} M. Hawthorn en tant que démon ou un truc, pas vrai?"
 
 # game/story/chapter_2.rpy:1348
 translate French ask_art_0b06703b:
 
     # "She gives me a slight nod."
-    ""
+    "Elle hoche la tête doucement."
 
 # game/story/chapter_2.rpy:1349
 translate French ask_art_09efbdcf:
 
     # "A reaction.{w=0.3} Progress!"
-    ""
+    "Un réaction.{w=0.3} On progresse!"
 
 # game/story/chapter_2.rpy:1354
 translate French ask_art_7575e679:
 
     # D "I draw a little bit myself but you are way {b}way{/b} better than me."
-    D ""
+    D "Moi-même je dessine un peu mais tu es {b}bien{/b} meilleure que moi."
 
 # game/story/chapter_2.rpy:1356
 translate French ask_art_839b2fe9:
 
     # D "I mean, I'm not great at drawing or anything, but I can tell you've got talent."
-    D ""
+    D "Je veux dire, je ne suis pas bon au dessin et tout, mais je peux affirmer que tu as du talent."
 
 # game/story/chapter_2.rpy:1362
 translate French ask_art_59b616e6:
 
     # "Her shoulders relax a bit. She tilts her head slightly as if considering my words."
-    ""
+    "Ses épaules se détendent un peu. Elle penche doucement la tête comme si elle considérait mes mots."
 
 # game/story/chapter_2.rpy:1367
 translate French ask_art_6dcfbc56:
 
     # D "I'd love to see more of your drawings if you don't mind."
-    D ""
+    D "J'adorerais voir plus de tes dessins si ça ne te dérange pas."
 
 # game/story/chapter_2.rpy:1371
 translate French ask_art_0f91a98c:
 
     # "Her head darts to the side before she slowly turns the page in her sketchbook. There are more drawings{w=0.1} - landscapes,{w=0.1} creatures,{w=0.1} abstract shapes - all meticulously detailed."
-    ""
+    "Sa tête s'élance vers le côté avant qu'elle ne tourne lentement les pages de son carnet. Il y a plus de dessins{w=0.2} - paysages,{w=0.1} creatures,{w=0.1} formes abstraites - tous méticuleusement détaillés."
 
 # game/story/chapter_2.rpy:1372
 translate French ask_art_d0b3745c:
 
     # D "Wow, these are awesome."
-    D ""
+    D "Wow, ils sont géniaux."
 
 # game/story/chapter_2.rpy:1373
 translate French ask_art_b77d5e3c:
 
     # "She glances at me again and this time there's the tiniest hint of a smile on her lips."
-    ""
+    "Elle me jette un oeil de nouveau et cette fois les minuscules contours d'un sourire apparaissent sur ses lèvres."
 
 # game/story/chapter_2.rpy:1374
 translate French ask_art_ea842de3:
 
     # "I point to one of the drawings that looks like some sort of futuristic cityscape."
-    ""
+    "Je pointe l'un des dessins qui ressemble à une sorte de paysage urbain futuriste."
 
 # game/story/chapter_2.rpy:1375
 translate French ask_art_4d9909e9:
 
     # D "This one is incredible.{w=0.3} The details are insane. I can't even imagine how long it took you."
-    D ""
+    D "Celui-là est incroyable.{w=0.3} Les détails sont dingues. Je ne peux même pas imaginer le temps que ça t'a pris."
 
 # game/story/chapter_2.rpy:1383
 translate French ask_art_af5784d5:
 
     # "Her face lights up with a shy smile and she gestures towards another drawing as if to say \"look at this one too\"."
-    ""
+    "Son visage s'illumine d'un sourire timide et elle fait signe vers un autre dessin comme pour dire \"regarde celui-là aussi\"."
 
 # game/story/chapter_2.rpy:1389
 translate French ask_art_92856187:
 
     # "I lean in closer and notice the intricate lines and shading in each piece. It's clear she puts a lot of thought and effort into her work."
-    ""
+    "Je me penche de plus près et remarque les lignes complexes et l'ombrage de chaque œuvre. Il est clair qu'elle met beaucoup d'effort et de réflexion dans son travail."
 
 # game/story/chapter_2.rpy:1390
 translate French ask_art_031d29ae:
 
     # D "Do you do this often?"
-    D ""
+    D "Tu fais ça souvent ?"
 
 # game/story/chapter_2.rpy:1411
 translate French ask_art_294f4a14:
 
     # "She shrugs, nodding lightly."
-    ""
+    "Elle hausse les épaules, acquiessant doucement."
 
 # game/story/chapter_2.rpy:1412
 translate French ask_art_7dd6b4b7:
 
     # D "Well,{w=0.3} if you ever want to share more of your work, I'd love to see it."
-    D ""
+    D "Eh bien,{w=0.3} si jamais tu veux partager plus de ton travail, j'adorerais le voir."
 
 # game/story/chapter_2.rpy:1432
 translate French ask_alright_bca5b1ab:
 
     # D "Hey,{w=0.3} you okay?"
-    D ""
+    D "Hey,{w=0.3} ça va?"
 
 # game/story/chapter_2.rpy:1443
 translate French ask_alright_a0be0ef9:
 
     # "She turns her head towards me, but with her face nearly completely covered in hair,{w=0.3} it's hard to get a read on her."
-    ""
+    "Elle tourne sa tête vers moi, mais avec son visage presque complétement recouvert par des cheveux,{w=0.3} c'est dur d'y comprendre quelque chose."
 
 # game/story/chapter_2.rpy:1448
 translate French ask_alright_4e882d97:
 
     # D "Uh,{w=0.3} I saw what happened earlier.{w=0.1} That was kinda rough."
-    D ""
+    D "Uh,{w=0.3} j'ai vu ce qui s'est passé plus tôt.{w=0.1} C'était plutôt dur."
 
 # game/story/chapter_2.rpy:1453
 translate French ask_alright_41db5f78:
 
     # "No response.{w=0.1} Not even a nod or a shake of her head. Just more silence and awkwardness."
-    ""
+    "Pas de réponse.{w=0.1} Même pas un oui ou non de la tête. Juste plus de silence et d'embarras."
 
 # game/story/chapter_2.rpy:1458
 translate French ask_alright_f822e506:
 
     # "{cps=5}...{/cps}"
-    ""
+    "{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1459
 translate French ask_alright_96764d5d:
 
     # "She's giving me nothing to work with.{w=0.3} I try to focus on her expression under all the hair, but all I can see is the very tip of her nose and her mouth."
-    ""
+    "Elle ne me renvoie pas la balle.{w=0.3} J'essaie de me concentrer sur son expression derrière tous ces cheveux, mais tout ce que je peux voir c'est le bout de son nez et sa bouche."
 
 # game/story/chapter_2.rpy:1460
 translate French ask_alright_902525ec:
 
     # D "You were looking down and{cps=5}...{/cps} uh{cps=5}...{/cps} I figured I'd make sure you were ok{cps=5}...{/cps}"
-    D ""
+    D "T'avais l'air abattue et{cps=5}...{/cps} euh{cps=5}...{/cps} je m'étais dit que j'allais te demander si ça allait{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1481
 translate French ask_alright_e6b9cc0c:
 
     # "Her lips go through a whole series of different emotions in rapid sequence before settling on a weak smile."
-    ""
+    "Ses lèvres passent à travers toute une série de différentes émotions en séquence rapide avant de s'arrêter sur un sourire faible."
 
 # game/story/chapter_2.rpy:1489
 translate French ask_alright_343210ad:
 
     # "Maybe she's just really shy? I can sympathize with that."
-    ""
+    "Peut-être qu'elle est juste timide? Je peux sympathiser avec ça."
 
 # game/story/chapter_2.rpy:1494
 translate French ask_alright_b7eb43e8:
 
     # Emu "...{w=0.3} ..."
-    Emu ""
+    Emu "...{w=0.3} ..."
 
 # game/story/chapter_2.rpy:1499
 translate French ask_alright_5891524b:
 
     # "I see her mouth move, but I don't hear anything."
-    ""
+    "Je vois sa bouche bouger, mais je n'entends rien."
 
 # game/story/chapter_2.rpy:1504
 translate French ask_alright_c9fe0698:
 
     # D "I'm sorry, I couldn't hear you."
-    D ""
+    D "Je suis désolé, je n'ai pas pu t'entendre."
 
 # game/story/chapter_2.rpy:1510
 translate French ask_alright_b7eb43e8_1:
 
     # Emu "...{w=0.3} ..."
-    Emu ""
+    Emu "...{w=0.3} ..."
 
 # game/story/chapter_2.rpy:1511
 translate French ask_alright_8a5447ce:
 
     # "Again,{w=0.3} her mouth moves, but nothing comes out of it."
-    ""
+    "Encore une fois,{w=0.3} sa bouche bouge, mais rien n'en sort."
 
 # game/story/chapter_2.rpy:1512
 translate French ask_alright_48dcae6e:
 
     # "I had guessed earlier that I couldn't hear her response to Mr. Hawthorn because of the distance between us,{w=0.3} but now I'm not so sure."
-    ""
+    "J'avais deviné plus tôt que je ne pouvais pas entendre sa réponse à M. Hawthorn à cause de la distance entre nous,{w=0.3} mais maintenant je n'en suis pas si sûr."
 
 # game/story/chapter_2.rpy:1517
 translate French ask_alright_ddf87117:
 
     # "I think I can hear a faint whisper, but even with how quiet it is in the class now that most of the students have stormed out, it's impossible to be sure."
-    ""
+    "Je pense que je peux entendre un faible chuchotement, mais même en comptant à quelle point la classe est silencieuse maintenant que tous les étudiants sont entrés, c'est impossible d'être sûr."
 
 # game/story/chapter_2.rpy:1518
 translate French ask_alright_371a1310:
 
     # "Maybe she's just {i}insanely{/i} shy?"
-    ""
+    "Peut-être qu'elle est juste {i}extrêmement{/i} timide?"
 
 # game/story/chapter_2.rpy:1524
 translate French ask_alright_93ada770:
 
     # D "I'm really sorry, I can't hear you.{w=0.1} Could you speak a little louder?"
-    D ""
+    D "Je suis vraiment désolé, je ne peux pas t'entendre.{w=0.1} Peux-tu parler un peu plus fort?"
 
 # game/story/chapter_2.rpy:1531
 translate French ask_alright_537d3360:
 
     # "Her mouth and neck drop at my comment. She buries herself deeper into her hoodie, quickly closing her notebook."
-    ""
+    "Sa bouche et son cou retombent à mon commentaire. Elle se renferme dans son hoodie, fermant rapidement son cahier."
 
 # game/story/chapter_2.rpy:1532
 translate French ask_alright_0083f2c4:
 
     # "Did I say something wrong?{w=0.3} I feel bad about my insistent tone, I shouldn't have done that."
-    ""
+    "Est-ce que j'ai dit quelque chose de mal?{w=0.3} Je me sens mal à cause de mon ton insistant, je n'aurais pas dû faire ça."
 
 # game/story/chapter_2.rpy:1533
 translate French ask_alright_8a673810:
 
     # "I've made her uncomfortable and now I'm feeling just as uncomfortable and terrible too."
-    ""
+    "Je l'ai mise mal à l'aise et mainteant je me sens également tout autant mal à l'aise et terrible."
 
 # game/story/chapter_2.rpy:1565
 translate French ask_alright_a0a8c575:
 
     # "I'm about to apologize, but she turns away from me."
-    ""
+    "Je me prépare à m'excuser, mais elle se détourne de moi."
 
 # game/story/chapter_2.rpy:1567
 translate French ask_alright_a4a42fdc:
 
     # "Great."
-    ""
+    "Génial."
 
 # game/story/chapter_2.rpy:1572
 translate French ask_alright_c2e42832:
 
     # "Perfect job, Dev."
-    ""
+    "Beau boulot, Dev."
 
 # game/story/chapter_2.rpy:1577
 translate French ask_alright_ef538330:
 
     # "You barely said anything to her, and she already hates you.{w=0.3} I {i}knew{/i} I should have just kept my big mouth shut. I scratch my bald head harshly, my fingernails surely leaving red marks along my scalp."
-    ""
+    "Tu lui as à peine dit quelque chose, et elle te déteste déjà.{w=0.3} Je {i}savais{/i} que j'aurais dû fermer ma grande bouche. Je gratte durement ma tête chauve, mes ongles laissant certainement des marques rouges sur mon scalp."
 
 # game/story/chapter_2.rpy:1588
 translate French ask_alright_0fbb3301:
 
     # "I give a brief consideration to the time, but I still have a two hours hour before my next class{cps=5}...{/cps}"
-    ""
+    "Je donne une rapide considération à l'heure, mais j'ai toujours deux heures avant mon prochain cours{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1598
 translate French ask_alright_067209a3:
 
     # "Just as I'm about to think myself into a self-deprecating spiral though, I feel a finger poke my shoulder."
-    ""
+    "Juste alors que je m'appraîtait à m'imaginer dans une spirale dévalorisante cependant, je sens un doigt appuyer sur mon épaule."
 
 # game/story/chapter_2.rpy:1608
 translate French ask_alright_18232d32:
 
     # "It's the bronto girl again."
-    ""
+    "C'est encore la bronto."
 
 # game/story/chapter_2.rpy:1614
 translate French ask_alright_4c2a1dd8:
 
     # "She's sliding a piece of paper over to me."
-    ""
+    "Elle glisse un morceau de papier vers moi."
 
 # game/story/chapter_2.rpy:1615
 translate French ask_alright_a3dcb063:
 
     # "It's a picture of her,{w=0.3} her long neck now comically longer and twisting around so it spells out \"Thank You\" in cursive. At the end is her head, her eyes looking in different directions, with her tongue sticking out and tied into a knot."
-    ""
+    "C'est un dessin d'elle,{w=0.3} son long cou maintenant comiquement plus long et se tortillant pour écrire \"Merci\" en cursif. Au bout se trouve sa tête, ses yeux regardant dans différentes directions, avec sa langue tirée et nouée."
 
 # game/story/chapter_2.rpy:1621
 translate French ask_alright_76211920:
 
     # "Heh."
-    ""
+    "Heh."
 
 # game/story/chapter_2.rpy:1630
 translate French ignore_6267eea1:
 
     # "She's imposing,{w=0.1} silent,{w=0.1} and talented, and her sheer artistic prowess intimidates me almost as much as her size and whole weird vibe."
-    ""
+    "Elle est imposante,{w=0.1} silencieuse,{w=0.1} et talentueuse, et ses pures prouesses artistiques m'intimident presque autant que sa taille et tout son air étrange."
 
 # game/story/chapter_2.rpy:1635
 translate French ignore_515b63f9:
 
     # "I'll admit,{w=0.3} she doesn't look like she has it all together. I get why Mr. Hawthorn was upset with her{w=0.1} - she came in late and caused a bit of a ruckus, disrupting the class."
-    ""
+    "J'admets,{w=0.3} elle n'a pas l'air d'avoir tout compris. Je comprends pourquoi M. Hawthorn était fâché contre elle{w=0.1} - elle est venue en retard et a causé un peu de bazar, perturbant la classe."
 
 # game/story/chapter_2.rpy:1655
 translate French ignore_5da5a7a9:
 
     # "She didn't even apologize before sitting down, though I can't really tell if that was due to arrogance or just shyness."
-    ""
+    "Elle ne s'est même pas excusée avant de s'assoir, bien que je ne puisse pas vraiment dire si c'était dû à l'arrogance ou juste la timidité."
 
 # game/story/chapter_2.rpy:1660
 translate French ignore_b54ea002:
 
     # "Despite that,{w=0.3} I'd rather not add to her embarrassment. Not only on our first day, but right after Mr. Hawthorn ridiculed her in front of the entire class."
-    ""
+    "Malgré cela,{w=0.3} je n'aimerais pas ajouter autre chose à son embarras. Non seulement lors de notre premier jour, mais juste après que M. Hawthorn l'ait ridiculisée devant toute la classe."
 
 # game/story/chapter_2.rpy:1665
 translate French ignore_6a4e5b45:
 
     # "That wasn't cool."
-    ""
+    "C'était pas cool."
 
 # game/story/chapter_2.rpy:1670
 translate French ignore_6f0dc27d:
 
     # "Mr. Hawthorn made a good impression on me, but{w=0.2} considering how he welcomed this Bennett girl, maybe he's got a harsher personality than I expected."
-    ""
+    "M. Hawthorn m'avais fait bonne impression, mais{w=0.2} considérant comment il a accueilli cette Bennett, peut-être qu'il a une personnalitée plus dure que je ne le pensais."
 
 # game/story/chapter_2.rpy:1678
 translate French ignore_07e4b6a8:
 
     # "Point is, the guy's mean, the girl's odd, and I'm a chicken."
-    ""
+    "Mon point est, le gars est méchant, la fille est bizarre, et je suis une poule mouillée."
 
 # game/story/chapter_2.rpy:1683
 translate French ignore_fc378515:
 
     # "Okay, maybe if I were a chicken, things would be easier for me because birds are related to dinosaurs. Aren't they?"
-    ""
+    "Okay, peut-être que si j'étais une poule mouillée, les choses seraient plus simples pour moi car les oiseaux ont des liens avec les dinosaures. Pas vrai?"
 
 # game/story/chapter_2.rpy:1688
 translate French ignore_3c37d915:
 
     # "More than humans like me are."
-    ""
+    "Plus que les humains comme moi."
 
 # game/story/chapter_2.rpy:1693
 translate French ignore_432a19c2:
 
     # "Come to think of it,{w=0.3} what if she's uncomfortable because I'm a human? We still aren't that common in some towns, and for all I know, I could be the first one she's ever been this close to."
-    ""
+    "Maintenant que j'y pense,{w=0.3} et si elle était mal à l'aise parce que je suis humain? Nous ne sommes pas si communs que ça dans certaines villes, et de ce que j'en sais, je pourrais être le premier qu'elle n'a jamais vu d'aussi près."
 
 # game/story/chapter_2.rpy:1699
 translate French ignore_1c29e802:
 
     # "Maybe my mere presence is creeping her out."
-    ""
+    "Peut-être que ma présence l'effraie."
 
 # game/story/chapter_2.rpy:1704
 translate French ignore_f822e506:
 
     # "{cps=5}...{/cps}"
-    ""
+    "{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1705
 translate French ignore_e185a5e7:
 
     # "I knew this might happen when I decided to go here, but the idle thought still stings.{w=0.3} What if this happens again during my next class? And the one after that?"
-    ""
+    "Je savais que ça arriverait lorsque j'ai décidé de venir ici, mais cette pensée fait quand même mal.{w=0.3} Et si cela se reproduit pendant mon prochain cours? Et celui après?"
 
 # game/story/chapter_2.rpy:1710
 translate French ignore_de563111:
 
     # "Is this what the next handful of years here are going to be like?{w=0.3} Judgment because of what I am?"
-    ""
+    "Est-ce à cela que les prochaines années ici vont ressembler?{w=0.3} Du jugement à cause de ce que je suis?"
 
 # game/story/chapter_2.rpy:1711
 translate French ignore_9d9a2956:
 
     # "Maybe I made a mistake coming here after all{cps=5}...{/cps}"
-    ""
+    "Peut-être ai-je fait une erreur en venant ici après tout{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1718
 translate French ignore_f67762c3:
 
     # "A note falls softly in front of me. It's a piece of torn paper, the remnants of doodles seen on its edges.{w=0.3} In the middle, it says something:"
-    ""
+    "Une note tombe doucement devant moi. C'est un morceau de papier déchiré, les restants de dessins visibles sur les bords.{w=0.3} Au milieu, cela dit:"
 
 # game/story/chapter_2.rpy:1723
 translate French ignore_c604580d:
 
     # "{font=BrownBagLunch.ttf}{size=+40}Are you okay?{/size}{/font}"
-    ""
+    "{font=BrownBagLunch.ttf}{size=+40}Tu vas bien?{/size}{/font}"
 
 # game/story/chapter_2.rpy:1724
 translate French ignore_fd42e0c9:
 
     # "The world pauses for a moment as I force my breathing to return to a normal rhythm."
-    ""
+    "Le monde s'arrête pendant un instant alors que je force ma respiration à revenir à un rythme normal."
 
 # game/story/chapter_2.rpy:1744
 translate French ignore_9d8831fd:
 
     # "The note snaps me out of my cascading thoughts, and my jaw slackens as I struggle to formulate an answer."
-    ""
+    "La note me coupe dans ma cascade de pensées, et ma mâchoire se relâche alors que je lutte pour formuler une réponse."
 
 # game/story/chapter_2.rpy:1745
 translate French ignore_b2efaec7:
 
     # "Her head turns to me, bushy brown hair covering what looks like a worried expression,{w=0.2} judging by her pursed lips and hunched shoulders."
-    ""
+    "Sa tête se tourne vers moi, des cheveux bruns en bataille couvrant ce qui semble être une expression inquiète,{w=0.2} à en juger par ses lèvres pincées et ses épaules voutées."
 
 # game/story/chapter_2.rpy:1751
 translate French ignore_806769b8:
 
     # D "Uh, I'm f'okay- Fine!{w=0.3} Okay. Yes.{w=0.2} I'm good."
-    D ""
+    D "Uh, je vais b'okay- Bien!{w=0.3} Okay. Oui.{w=0.3} Je vais bien."
 
 # game/story/chapter_2.rpy:1757
 translate French ignore_56e7dd62:
 
     # "I chuckle nervously, trying to recover from the faux-pas."
-    ""
+    "Je ris nerveusement, essayant de me reprendre après mon lapsus."
 
 # game/story/chapter_2.rpy:1762
 translate French ignore_e64d35be:
 
     # D "I guess I was just{cps=5}...{/cps} getting a little {i}too{/i} into my own head there for a second."
-    D ""
+    D "J'imagine que j'étais juste{cps=5}...{/cps} un petit peu {i}trop{/i} perdu dans mes pensées pendant une minute."
 
 # game/story/chapter_2.rpy:1767
 translate French ignore_e55221e7:
 
     # "She gives an understanding smile back, nodding at the sentiment.{w=0.3} Despite catching me off-guard, the gesture does wonders to calm my nerves and I find myself following up with more explanation."
-    ""
+    "Elle me lance un sourire compréhensif, acquiessant au sentiment.{w=0.3} Bien que me prenant par surprise, le geste fait des merveilles pour calmer mes nerfs et je me retrouve à continuer avec plus d'explications."
 
 # game/story/chapter_2.rpy:1772
 translate French ignore_2333b285:
 
     # D "And uh,{w=0.1} th-thanks for asking,{w=0.3} first day jitters I guess. Never really been this far from home, you know?"
-    D ""
+    D "Et euh,{w=0.1} m-merci d'avoir demandé,{w=0.3} le stress du premier jour j'imagine. J'ai jamais vraiment été aussi loin de chez moi, tu sais?"
 
 # game/story/chapter_2.rpy:1791
 translate French ignore_fe0b9cf4:
 
     # "She nods before patting her chest twice."
-    ""
+    "Elle hoche la tête avant de tapoter son torse deux fois."
 
 # game/story/chapter_2.rpy:1797
 translate French ignore_0bd89723:
 
     # D "Uh{cps=5}...{/cps} I{w=0.1}-I'm not completely sure what you mean by that. S-{w=0.1}sorry{cps=5}...{/cps}"
-    D ""
+    D "Euh{cps=5}...{/cps} Je{w=0.1}-Je ne suis pas complétement sûr de comprendre ce que tu veux dire par là. D-{w=0.1}désolé{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:1798
 translate French ignore_21161fcf:
 
     # "She turns and grabs her note book, writing something down before handing it off to me."
-    ""
+    "Elle se retourne et prend son cahier, écrivant quelque chose avant de le tendre vers moi."
 
 # game/story/chapter_2.rpy:1804
 translate French ignore_e307a2a6:
 
     # Emu "Me too."
-    Emu ""
+    Emu "Moi aussi."
 
 # game/story/chapter_2.rpy:1805
 translate French ignore_feb5322e:
 
     # "She gives me a sheepish grin."
-    ""
+    "Elle arbore un sourire penaud."
 
 # game/story/chapter_2.rpy:1810
 translate French ignore_3f79994a:
 
     # "Of course, why didn't I guess that? Real smooth, Dev. I've practically forgotten how to converse like a normal person recently."
-    ""
+    "Bien sûr, pourquoi ne l'avais-je pas deviné? Bien joué, Dev. J'ai pratiquement oublié comment converser comme une personne normale récemment."
 
 # game/story/chapter_2.rpy:1815
 translate French ignore_7c94669b:
 
     # "Weird though she may be, there's something undeniably easy about talking to her."
-    ""
+    "Aussi bizarre qu'elle puisse être, il y a quelque chose d'indéniablement simple de lui parler."
 
 # game/story/chapter_2.rpy:1820
 translate French ignore_45593620:
 
     # "Or at her.{w=0.3} Is that mean to say?"
-    ""
+    "Ou parler avec elle.{w=0.3} Est-ce méchant de dire ça?"
 
 # game/story/chapter_2.rpy:1824
 translate French ignore_016fb647:
 
     # "Either way,{w=0.2} I find myself mirroring her smile as she angles her notebook towards me again. I see the drawing she was working on before, but then she turns the page,{w=0.2} revealing yet more drawings."
-    ""
+    "Dans tous les cas,{w=0.3} je me retrouve à répliquer son sourire tandis qu'elle penche son cahier de nouveau vers moi. Je vois le dessin sur lequel elle travaillait avant, mais ensuite elle tourne la page,{w=0.2} révélant encore plus de dessins."
 
 # game/story/chapter_2.rpy:1830
 translate French ignore_98ba79a9:
 
     # "Only art:{w=0.3} not a number or note in sight."
-    ""
+    "Seulement de l'art:{w=0.3} pas un nombre ou une note en vue."
 
 # game/story/chapter_2.rpy:1831
 translate French ignore_63f36d58:
 
     # "I let out a snicker."
-    ""
+    "Je laisse échaper un ricanement."
 
 # game/story/chapter_2.rpy:1836
 translate French ignore_ae14da37:
 
     # D "Guess we're both lost causes."
-    D ""
+    D "Je pense qu'on est tous les deux des causes perdues."
 
 # game/story/chapter_2.rpy:1842
 translate French ignore_040d1465:
 
     # "A flash of hurt crosses her face, and for a moment I feel like I've blown it."
-    ""
+    "Un "
 
 # game/story/chapter_2.rpy:1848
 translate French ignore_27852d8b:
@@ -6568,73 +6568,73 @@ translate French strings:
 
     # game/story/chapter_2.rpy:1245
     old "Stop overthinking it and compliment her drawing!"
-    new ""
+    new "Arrête de trop réfléchir et compliemente son dessin!"
 
     # game/story/chapter_2.rpy:1245
     old "Oh yeah, nothing is more creepy than someone showing some kindness! Ask her if she is alright."
-    new ""
+    new "Oh ouais, rien n'est plus malaisant que quelqu'un montrant de la gentillesse! Demande si elle va bien."
 
     # game/story/chapter_2.rpy:1245
     old "As if I have the balls to just talk to some random girl. Keep quiet like the coward I am."
-    new ""
+    new "Comme si j'avais les boules de juste parler à une fille au hasard. Reste silencieux comme la mauviette que je suis."
 
     # game/story/chapter_2.rpy:2428
     old "Sit with her"
-    new ""
+    new "S'assoir avec elle."
 
     # game/story/chapter_2.rpy:2428
     old "Sit outside"
-    new ""
+    new "S'assoir dehors."
 
     # game/story/chapter_2.rpy:3941
     old "Sup skinnie"
-    new ""
+    new "Salut skinnie"
 
     # game/story/chapter_2.rpy:3945
     old "Um, who is this?"
-    new ""
+    new "Um, c'est qui?"
 
     # game/story/chapter_2.rpy:3945
     old "Rebecca"
-    new ""
+    new "Rebecca"
 
     # game/story/chapter_2.rpy:3945
     old "Theo gave me your number"
-    new ""
+    new "Theo m'a donné ton numéro."
 
     # game/story/chapter_2.rpy:3945
     old "Okay"
-    new ""
+    new "Okay"
 
     # game/story/chapter_2.rpy:3945
     old "And the picture you sent?"
-    new ""
+    new "Et l'image que t'as envoyée?"
 
     # game/story/chapter_2.rpy:3945
     old "Just a little goof my roommate made me"
-    new ""
+    new "Juste un ptit bidule que ma coloc m'a fait."
 
     # game/story/chapter_2.rpy:3945
     old "I've been sending these to like everyone"
-    new ""
+    new "J'en ai envoyé à genre tout le monde."
 
     # game/story/chapter_2.rpy:3975
     old "{emoji=thumbsup}"
-    new ""
+    new "{emoji=thumbsup}"
 
     # game/story/chapter_2.rpy:4805
     old "It makes me want to do something."
-    new ""
+    new "Ça me donne envie de faire quelque chose."
 
     # game/story/chapter_2.rpy:4805
     old "I wait."
-    new ""
+    new "J'attends"
 
     # game/story/chapter_2.rpy:5236
     old "Be nosy, ask her."
-    new ""
+    new "Soit fouineur, demande-lui."
 
     # game/story/chapter_2.rpy:5236
     old "Mind your own business."
-    new ""
+    new "Occupes toi de tes affaires."
 

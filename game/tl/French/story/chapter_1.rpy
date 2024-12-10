@@ -3214,7 +3214,7 @@ translate French introducing_becca_0d21c612:
 translate French introducing_becca_530c34d2:
 
     # D "Wait-{w=0.3} Was I supposed to know who the Reddingtons are?"
-    D "Attend-{w=0.3} j'étais supposé savoir qui sont les Reddington?"
+    D "Attends-{w=0.3} j'étais supposé savoir qui sont les Reddington?"
 
 # game/story/chapter_1.rpy:2716
 translate French introducing_becca_5c53c418:
