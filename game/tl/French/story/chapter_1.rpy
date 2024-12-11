@@ -382,7 +382,7 @@ translate French chapter_1_e13be368:
 translate French chapter_1_4d75d45d:
 
     # "I realize a moment too late that I'd blurted that out.{w=0.25} His claw taps impatiently on the top sheet, pointedly not remarking to my very insightful response."
-    "Je réalise un instant trop tard que j'ai laissé échappé ça.{w=0.25} Sa griffe tappe impatiemment sur la feuille du dessus, n'ayant clairement pas remarqué ma réponse très perspicace."
+    "Je réalise un instant trop tard que j'ai laissé s'échappé ça.{w=0.25} Sa griffe tappe impatiemment sur la feuille du dessus, n'ayant clairement pas remarqué ma réponse très perspicace."
 
 # game/story/chapter_1.rpy:384
 translate French chapter_1_22c7d4da:
@@ -1006,7 +1006,7 @@ translate French chapter_1_9d96c85f:
 translate French chapter_1_bdcfeb02:
 
     # "We walk side by side,{w=0.3} my stomach growling louder with each step toward the cafeteria."
-    "Nous marchons côte à côte,{w=0.3} mon estomac grondant de plus en plus fort à chaque pas vers la cafétéria."
+    "Nous marchons côte à côte,{w=0.3} mon estomac gargouillant de plus en plus fort à chaque pas vers la cafétéria."
 
 # game/story/chapter_1.rpy:941
 translate French chapter_1_b3360a27:
@@ -1246,7 +1246,7 @@ translate French eager_deal_450314d3:
 translate French eager_deal_036f9315:
 
     # T "No, no, dude, I get it. C'mon, I'm starving too."
-    T "Non, non, mec, je comprends. Allez, je suis affamé aussi."
+    T "Non, non, vieux, je comprends. Allez, je suis affamé aussi."
 
 # game/story/chapter_1.rpy:1142
 translate French reluctant_deal_74ac987f:
@@ -1312,7 +1312,7 @@ translate French firm_deal_7bfc995b:
 translate French firm_deal_cf913e72:
 
     # T "Are you sure, dude? I swear it's no problem."
-    T "T'es sûr, mec? Je jure c'est pas un problème."
+    T "T'es sûr, vieux? Je jure c'est pas un problème."
 
 # game/story/chapter_1.rpy:1189
 translate French firm_deal_ce504311:
@@ -1408,7 +1408,7 @@ translate French kind_deal_95c368b5:
 translate French kind_deal_3ce16233:
 
     # D "Appreciate it, seriously, dude, but I'll manage.{w=0.3} Got to learn to survive on a budget sooner or later, right?"
-    D "J'apprécie, sérieusement, mec, mais je vais y arriver.{w=0.3} J'dois apprendre à survir à budget serré tôt ou tard, pas vrai?"
+    D "J'apprécie, sérieusement, vieux, mais je vais y arriver.{w=0.3} J'dois apprendre à survir à budget serré tôt ou tard, pas vrai?"
 
 # game/story/chapter_1.rpy:1260
 translate French kind_deal_f088f5ec:
@@ -2080,7 +2080,7 @@ translate French introducing_becca_ec466717:
 translate French introducing_becca_23e8cc1d:
 
     # T "Really?{w=0.2} That's sick dude!"
-    T "Vraiment?{w=0.2} C'est ouf mec!"
+    T "Vraiment?{w=0.2} C'est ouf vieux!"
 
 # game/story/chapter_1.rpy:1634
 translate French introducing_becca_6daa40cf:
@@ -2950,7 +2950,7 @@ translate French introducing_becca_93fba5a1:
 translate French introducing_becca_bd704876:
 
     # "It's becoming increasingly difficult to say no to the guy."
-    "Ça devient de plus en plus difficile de dire non à ce gars."
+    "Ça devient de plus en plus difficile de dire non à ce type."
 
 # game/story/chapter_1.rpy:2515
 translate French introducing_becca_74ac987f_4:
@@ -3028,7 +3028,7 @@ translate French introducing_becca_498f4333:
 translate French introducing_becca_75127e3f:
 
     # D "Well{w=0.3}, I'm Dev A. Loper. As you know{w=0.3}, I'm a freshman here, and yeah{w=0.3}, I got in on a scholarship for{cps=5}...{/cps} reasons that are still kind of beyond me."
-    D "Bon{w=0.3}, je suis Dev A. Loper. Comme vous le savez{w=0.3}, je suis nouveau ici, et ouais{w=0.3}, j'ai eu une bourse ici pour{cps=5}...{/cps} des raisons qui m'échapent toujours."
+    D "Bon{w=0.3}, je suis Dev A. Loper. Comme vous le savez{w=0.3}, je suis nouveau ici, et ouais{w=0.3}, j'ai eu une bourse ici pour{cps=5}...{/cps} des raisons qui m'échappent toujours."
 
 # game/story/chapter_1.rpy:2558
 translate French introducing_becca_b18f63c4:
@@ -4132,7 +4132,7 @@ translate French introducing_becca_e19f56c1:
 translate French introducing_becca_e93a7703:
 
     # T "Dude, great games started development with less than that."
-    T "Mec, des grands jeux ont commencé leurs développements avec moins que ça."
+    T "Vieux, des grands jeux ont commencé leurs développements avec moins que ça."
 
 # game/story/chapter_1.rpy:3792
 translate French introducing_becca_394a8082:
@@ -4162,7 +4162,7 @@ translate French introducing_becca_11760699:
 translate French introducing_becca_605d8ebd:
 
     # T "Sweet, man, then this is a match made in Heaven. Don't worry, I'll do the heavy lifting on that end."
-    T "Nickel, vieux, alors c'est une combinaison des enfers. T'inquiète, je m'occuperais du plus gros pour cette partie."
+    T "Nickel, gars, alors c'est une combinaison des enfers. T'inquiète, je m'occuperais du plus gros pour cette partie."
 
 # game/story/chapter_1.rpy:3818
 translate French introducing_becca_944fb7d0:

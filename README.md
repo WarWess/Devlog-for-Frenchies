@@ -28,9 +28,11 @@ si des gens sont plus doués que moi en VSCode-ing et proposent des amélioratio
 + *college* :  **fac** | **faculté** | **université**. Préférence pour les deux premiers, tant que c'est pas trop étrange.
 + *Cretaceous College of Computing* : **Facultée Crétacée d'Informatique** et donc **FCI**. J'ai cherché, **crétacée** est bien l'adjectif (au féminin). 
 + *`non de dino` `girl ou boy`* : ... j'ai eu un doute, mais comme on a un langage genré, je vais partir sur **`nom de dino`** avec la particule de genre devant : **la brontosaure** ...
-+ *skinnie* et *meteor dodger* : alors ça, c'est dur ...
++ *skinnie* et *meteor dodger* : j'ai choisi de ne pas traduire **skinnie**, j'ai pas d'inspi qui sonnerait mieux que le mot de base. 
++ *dude*,*guy* : plus pour moi car je suis débile, mais c'est à bon vouloir entre **vieux**,**mec**,**gars**,**type**. Je metterais bien *gros* aussi mais askip c'est de l'argot de chez moi XD.
 
 ## Raccourcis pratiques : 
 
 + Ç : `ALT + 128`
 + É : `ALT + 144`
++ œ : `ALT + 0156`
