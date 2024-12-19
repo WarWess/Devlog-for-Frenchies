@@ -3496,7 +3496,7 @@ translate French talk_emily_3e0dbe8c:
 translate French talk_emily_1b6ee037:
 
     # D "I mean, I've been trying to be nice, but you keep snapping at me too.{w=0.3} Insulting me."
-    D "Je veux dire, j'ai essayé d'être gentil, mais tu continues de m'aboyer dessus.{w=0.3} M'insulter."
+    D "Je veux dire, j'ai essayé d'être sympathique, mais tu continues de m'aboyer dessus.{w=0.3} M'insulter."
 
 # game/story/chapter_2.rpy:3722
 translate French talk_emily_f2641728:
@@ -3622,211 +3622,211 @@ translate French talk_emily_e7434322:
 translate French talk_emily_0926988f:
 
     # "I should have asked Rebecca, but going back after the way I left,{w=0.3} I can't imagine that would work out very well."
-    ""
+    "J'aurais dû demander à Rebecca, mais revenir après être parti comme ça,{w=0.3} je ne pense pas que ça se passerait bien."
 
 # game/story/chapter_2.rpy:3847
 translate French talk_emily_676544c9:
 
     # "Plus,{w=0.3} I have another class in less than half an hour, so I can't backtrack now."
-    ""
+    "En plus,{w=0.3} j'ai un autre cours dans moins d'une demi-heure, donc je ne peux pas faire machine arrière."
 
 # game/story/chapter_2.rpy:3852
 translate French talk_emily_a494d76c:
 
     # "Ugh.{w=0.3} It looks like I'm going to have to ask a random student for directions. The thought alone makes me want to retch."
-    ""
+    "Ugh.{w=0.3} On dirait que je vais devoir demander mon chemin à un étudiant au hasard. Le simple fait d'y penser me donne envie de vomir."
 
 # game/story/chapter_2.rpy:3869
 translate French talk_emily_1a39c6be:
 
     # "I eventually stop a psittacosaurus walking towards me, scrolling through their phone. I blurt out my question as fast as I can and they can give me a weird look for bothering them out of nowhere."
-    ""
+    "J'arrête finalement un psittacosaure marchant vers moi, parcourant son téléphone. Je lâche ma question aussi vite que je peux et il me lance un regard étrange pour l'avoir déranger de nulle part."
 
 # game/story/chapter_2.rpy:3874
 translate French talk_emily_4eb3e904:
 
     # D "H{w=0.1}-Hi! Uh, do you know where the counselor's office is?"
-    D ""
+    D "S{w=0.1}-Salut! Euh, tu sais où se trouve le bureau de la conseillère?"
 
 # game/story/chapter_2.rpy:3879
 translate French talk_emily_6ccd2e66:
 
     # "The weird look doesn't disappear from their face, causing me to squirm."
-    ""
+    "Le regard bizarre ne disparaît pas de son visage, me faisant me sentir gêné."
 
 # game/story/chapter_2.rpy:3884
 translate French talk_emily_2cd782c0:
 
     # "After an awkward stare, they eventually give me directions.{w=0.3} It turns out that I'm closer than I thought I was, and I also get a snarky comment on the fact that the school app has a detailed map."
-    ""
+    "Après un regard embarrassant, il me donne finalement la direction.{w=0.3} Il semblerait que je suis plus près que je ne le pensais, et j'ai même eu droit à un commentaire narquois sur le fait que l'appli de l'école a une carte détaillée."
 
 # game/story/chapter_2.rpy:3885
 translate French talk_emily_3b23e879:
 
     # "I open it to double check and yep, it's there.{w=0.3} Feeling horrible, I apologize for wasting their time."
-    ""
+    "Je l'ouvre pour revérifier et ouaip, c'est là.{w=0.3} Me sentant terrible, je m'excuse de lui avoir fait perdre son temps."
 
 # game/story/chapter_2.rpy:3890
 translate French talk_emily_bee1f066:
 
     # unknown "No problem, dude."
-    unknown ""
+    unknown "Pas de problème, mec."
 
 # game/story/chapter_2.rpy:3909
 translate French talk_emily_f1eebb41:
 
     # "They start walking away before throwing one more weird look at me over their shoulder."
-    ""
+    "Il commence à partir avant de me jeter un dernier regard étrange par dessus son épaule."
 
 # game/story/chapter_2.rpy:3914
 translate French talk_emily_2a77c126:
 
     # unknown "Uh,{w=0.1} by the way,{w=0.1} you should chill out, man.{w=0.3} It's just college."
-    unknown ""
+    unknown "Euh,{w=0.1} au fait,{w=0.1} tu devrais te détendre, gars.{w=0.3} C'est juste la fac."
 
 # game/story/chapter_2.rpy:3922
 translate French talk_emily_130a3bab:
 
     # "Leaving me with that odd nugget of wisdom, they turn and briskly walk in the other direction."
-    ""
+    "Me laissant avec ce morceaux bizarre de sagesse, il se retourne et marche d'un air vif vers l'autre direction."
 
 # game/story/chapter_2.rpy:3927
 translate French talk_emily_6cd07a15:
 
     # "Right.{w=0.3} {i}Just{/i} college.{w=0.3} Somehow I doubt that will radically change my approach going forward."
-    ""
+    "C'est vrai.{w=0.3} {i}Juste{/i} la fac.{w=0.3} Pourtant je doute que cela va radicalement changer mon approche en avançant."
 
 # game/story/chapter_2.rpy:3932
 translate French talk_emily_e3bb11bb:
 
     # "Before I am able to put too much thought into that little bit of wisdom I hear the familiar ping of my phone."
-    ""
+    "Avant que je ne sois capable de trop réfléchir à ce bout de sagesse j'entends le ping familier de mon téléphone."
 
 # game/story/chapter_2.rpy:3937
 translate French talk_emily_bd5e98b9:
 
     # "Huh,{w=0.3} I don’t recognize this number."
-    ""
+    "Huh,{w=0.3} je ne reconnais pas ce numéro."
 
 # game/story/chapter_2.rpy:3955
 translate French talk_emily_daaefea6:
 
     # "I just{cps=5}...{/cps} I don't get her.{w=0.1} At{w=0.1} All."
-    ""
+    "Juste {cps=5}...{/cps} je ne la comprends pas.{w=0.1} Du{w=0.1} Tout."
 
 # game/story/chapter_2.rpy:3956
 translate French talk_emily_d695d24b:
 
     # "First she acts like she hates me,{w=0.1} then she is nice to me."
-    ""
+    "D'abord elle agit comme si elle me déteste,{w=0.1} ensuite elle est aimable avec moi."
 
 # game/story/chapter_2.rpy:3957
 translate French talk_emily_2bba488b:
 
     # "Then she hates me again, now she is being nice again?"
-    ""
+    "Puis elle me déteste de nouveau, et maintenant elle est de nouveau gentille?"
 
 # game/story/chapter_2.rpy:3958
 translate French talk_emily_a00c6189:
 
     # "Everytime I interact with her I feel like I understand her less."
-    ""
+    "À chaque fois que j'interagis avec elle je sens que je la comprends de moins en moins."
 
 # game/story/chapter_2.rpy:3963
 translate French talk_emily_20665845:
 
     # "Unless{cps=5}...{/cps}"
-    ""
+    "À moins que{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:3968
 translate French talk_emily_fb717073:
 
     # "Did I fuck up?"
-    ""
+    "Est-ce que j'ai merdé?"
 
 # game/story/chapter_2.rpy:3973
 translate French talk_emily_5293ca37:
 
     # "Thinking back,{w=0.3} I did kinda lecture her, even if I didn't intend to{cps=5}...{/cps} hmmm{cps=5}...{/cps}"
-    ""
+    "En y repensant,{w=0.3} je lui ai plutôt fait la leçon, même si je n'avais pas l'intention{cps=5}...{/cps} hmmm{cps=5}...{/cps}"
 
 # game/story/chapter_2.rpy:3986
 translate French talk_emily_1aaa5e1e:
 
     # "There, that will show I liked her image.{w=0.3} Maybe now things will go more smoothly."
-    ""
+    "Là, ça va montrer que j'ai aimé son image.{w=0.3} Peut-être que les choses vont mieux se passer."
 
 # game/story/chapter_2.rpy:3999
 translate French talk_emily_a3284381:
 
     # "I continue until I reach the counselor's office. I raise my hand to knock, before noticing a sign that says \"Come in!\" with a little smiley face. I push the door open and slide inside."
-    ""
+    "Je continue jusqu'à arriver au bureau de la conseillère. Je lève ma main pour toquer, avant de remarquer un panneau qui dit \"Entrez!\" avec un petit sourire. J'ouvre la porte et me glisse à l'intérieur."
 
 # game/story/chapter_2.rpy:4022
 translate French talk_emily_b972d7ad:
 
     # "The counselor's office is a cozy room. Comfy cushions, motivational posters and stacks of papers decorate what would otherwise be a rather cramped space."
-    ""
+    "Le bureau de la conseillère est une salle douillette. Des canapés comfortables, des posters de motivation et des piles de papiers décorent ce qui serait autrement un lieu plutôt restreint."
 
 # game/story/chapter_2.rpy:4027
 translate French talk_emily_c233ffb3:
 
     # "However,{w=0.1} the homely vibe ends at the liopleurodon leaning back in her chair behind the desk, eyes tightly shut in an expression of frustration and a can of soda held to her temple."
-    ""
+    "Cependant,{w=0.1} l'ambiance agréable se termine à la liopleurodon se penchant sur sa chaise derrière son bureau, ses yeux étroitement fermés dans un expression de frustration et une canette de soda tenue sur sa tempe."
 
 # game/story/chapter_2.rpy:4028
 translate French talk_emily_a009b085:
 
     # "Without even opening her eyes, she gestures to the pair of chairs on the other side of the desk."
-    ""
+    "Sans même ouvrir ses yeux, elle fait signe vers la paire de chaises de l'autre côté de son bureau."
 
 # game/story/chapter_2.rpy:4037
 translate French talk_emily_b68b30d3:
 
     # Su "You Dev?"
-    Su ""
+    Su "T'es Dev?"
 
 # game/story/chapter_2.rpy:4042
 translate French talk_emily_3de01151:
 
     # D "Oh!{w=0.3} You know my name.{w=0.3} Hi."
-    D ""
+    D "Oh!{w=0.3} Vous connaissez mon nom.{w=0.3} Bonjour."
 
 # game/story/chapter_2.rpy:4054
 translate French talk_emily_c3af9663:
 
     # "She sits forward, her messy hair bouncing around her face as we both get a good look at each other."
-    ""
+    "Elle s'assoit en avant, ses cheveux en bataille bondissant sur son visage tandis que nous prenons le temps de nous dévisager."
 
 # game/story/chapter_2.rpy:4060
 translate French talk_emily_98c0d32b:
 
     # "To say she doesn't look like the college counselor type would be an understatement."
-    ""
+    "Dire qu'elle ne ressemble pas à une conseillère universitaire serait un euphémisme."
 
 # game/story/chapter_2.rpy:4061
 translate French talk_emily_b340148e:
 
     # "Her rather casual, messy clothes, stern intimidating look on her face, and most conspicuously, the numerous scars patchworking her scales tell a different story altogether."
-    ""
+    "Ses vêtements plutôt décontractés et froissés, un air intimidant et sévère sur son viage, et le plus étrange, les nombreuses cicatrices parcourant ses écailles racontent une toute autre histoire."
 
 # game/story/chapter_2.rpy:4062
 translate French talk_emily_7c1e8b0d:
 
     # "Then there's the eyepatch covering her left eye."
-    ""
+    "Enfin il y a le cache-œil couvrant son œil gauche."
 
 # game/story/chapter_2.rpy:4067
 translate French talk_emily_8f145a63:
 
     # "Not to mention that as I move closer, I can't help but notice a smell that sadly reminds me of a part of home I wish to forget. A frown reflexively appears on my face as she shuffles around the papers on her desk."
-    ""
+    "Sans parler du fait qu'en me rapprochant, je ne peux m'empêcher de remarquer une odeur qui me rappelle malheursement d'une partie de chez moi que j'aurais aimé oublier. Une grimace apparaît par réflexe sur mon visage tandis qu'elle fouille les papiers sur son bureau."
 
 # game/story/chapter_2.rpy:4073
 translate French talk_emily_a574fae2:
 
     # Su "You {i}are{/i} the only human around this semester, I wouldn't be doing my job if I didn't know who you were."
-    Su ""
+    Su "Tu {i}es{/i} le seul humain ici ce semestre, je ne ferais pas un bon job si je ne savais pas qui tu es."
 
 # game/story/chapter_2.rpy:4079
 translate French talk_emily_4d47561a:

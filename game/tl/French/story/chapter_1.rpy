@@ -2404,7 +2404,7 @@ translate French introducing_becca_206faf04:
 translate French introducing_becca_102ffe31:
 
     # R "Theo! Get out of my stuff!"
-    R "Theo! Dégage de mes affaires!"
+    R "Theo! Tire toi d'ici!"
 
 # game/story/chapter_1.rpy:2005
 translate French introducing_becca_8c398835:
